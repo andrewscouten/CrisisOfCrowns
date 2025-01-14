@@ -1,6 +1,6 @@
 {
   "vaultName": "Ethemore",
-  "lastExport": 1736828274730,
+  "lastExport": 1736833373296,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark is-fullscreen native-scrollbars show-inline-title show-ribbon check-color check-bg",
   "useCustomHeadContent": false,
@@ -58,8 +58,6 @@
     "0_Obsidian_Stuff/_Misc/Dog Skinners.md",
     "0_Obsidian_Stuff/_Misc/Druid Gorbag.md",
     "0_Obsidian_Stuff/_Misc/Tom, Local Cannibal.md",
-    "0_Obsidian_Stuff/_Tags/DEAD.md",
-    "0_Obsidian_Stuff/_Tags/DIED.md",
     "0_Obsidian_Stuff/_Uncategorized/Alathof.md",
     "0_Obsidian_Stuff/_Uncategorized/Balgura.md",
     "0_Obsidian_Stuff/_Uncategorized/Ethemore.md",
@@ -242,36 +240,8 @@
     "3_Campaign/The Party/Ghorza.md",
     "3_Campaign/The Party/Rory.md",
     "3_Campaign/The Party/Willa.md",
+    "Ethemore.md",
     "Rough Map.md",
-    "lib/media/burn.png",
-    "lib/media/create_bonfire.png",
-    "lib/media/illusionary_dart.png",
-    "lib/media/shocking_grasp-1.png",
-    "lib/media/message.png",
-    "lib/media/shocking_grasp.png",
-    "lib/media/thorn_whip.png",
-    "lib/media/pasted-image-20240923194038.png",
-    "lib/media/cure_wounds.png",
-    "lib/media/detect_evil_and_good.png",
-    "lib/media/detect_magic.png",
-    "lib/media/faerie_fire.png",
-    "lib/media/hex.png",
-    "lib/media/ligntning_tendril.png",
-    "lib/media/clay_touch.png",
-    "lib/media/moonbeam.png",
-    "lib/media/prayer_of_healing.png",
-    "lib/media/shattering_shield.png",
-    "lib/media/web.png",
-    "lib/media/pasted-image-20240610184145.png",
-    "lib/media/pasted-image-20241209192934.png",
-    "lib/media/pasted-image-20240401183006.png",
-    "lib/media/pasted-image-20240401182929.png",
-    "lib/media/pasted-image-20240610184431.png",
-    "lib/media/pasted-image-20241118202015.png",
-    "lib/media/greenbelt.png",
-    "lib/media/pasted-image-20241021202724.png",
-    "lib/media/pasted-image-20240307143655.png",
-    "lib/media/pasted-image-20240307143707.png",
     "lib/media/pasted-image-20240307143438.png",
     "lib/media/pasted-image-20240307143501.png",
     "lib/scripts/graph-wasm.wasm",
@@ -300,9 +270,39 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "lib/media/burn.png",
+    "lib/media/create_bonfire.png",
+    "lib/media/illusionary_dart.png",
+    "lib/media/shocking_grasp-1.png",
+    "lib/media/message.png",
+    "lib/media/shocking_grasp.png",
+    "lib/media/thorn_whip.png",
+    "lib/media/pasted-image-20240923194038.png",
+    "lib/media/cure_wounds.png",
+    "lib/media/detect_evil_and_good.png",
+    "lib/media/detect_magic.png",
+    "lib/media/faerie_fire.png",
+    "lib/media/hex.png",
+    "lib/media/ligntning_tendril.png",
+    "lib/media/clay_touch.png",
+    "lib/media/moonbeam.png",
+    "lib/media/prayer_of_healing.png",
+    "lib/media/shattering_shield.png",
+    "lib/media/web.png",
+    "lib/media/pasted-image-20240610184145.png",
+    "lib/media/pasted-image-20241209192934.png",
+    "lib/media/pasted-image-20240401183006.png",
+    "lib/media/pasted-image-20240401182929.png",
+    "lib/media/pasted-image-20240610184431.png",
+    "lib/media/pasted-image-20241118202015.png",
+    "lib/media/greenbelt.png",
+    "lib/media/pasted-image-20241021202724.png",
+    "lib/media/pasted-image-20240307143655.png",
+    "lib/media/pasted-image-20240307143707.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -331,6 +331,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css"
@@ -648,18 +649,6 @@
       "exportedPath": "0_obsidian_stuff/_misc/tom,-local-cannibal.html",
       "dependencies": []
     },
-    "0_Obsidian_Stuff/_Tags/DEAD.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 0,
-      "exportedPath": "0_obsidian_stuff/_tags/dead.html",
-      "dependencies": []
-    },
-    "0_Obsidian_Stuff/_Tags/DIED.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 0,
-      "exportedPath": "0_obsidian_stuff/_tags/died.html",
-      "dependencies": []
-    },
     "0_Obsidian_Stuff/_Uncategorized/Alathof.md": {
       "modifiedTime": 1736828274730,
       "sourceSize": 78,
@@ -897,7 +886,7 @@
       "dependencies": []
     },
     "1_Blume/PDFs/Blume.pdf": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 6295089,
       "exportedPath": "1_blume/pdfs/blume.pdf",
       "dependencies": []
@@ -1045,8 +1034,8 @@
       "dependencies": []
     },
     "2_Sessions/(2) Winter Approaches/Session 13.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 4258,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 4290,
       "exportedPath": "2_sessions/(2)-winter-approaches/session-13.html",
       "dependencies": []
     },
@@ -1197,7 +1186,7 @@
       "dependencies": []
     },
     "2_Sessions/Unused Items.md": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 1166,
       "exportedPath": "2_sessions/unused-items.html",
       "dependencies": []
@@ -1741,26 +1730,26 @@
       "dependencies": []
     },
     "3_Campaign/The Party/_DEAD/Finnegean.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 368,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 390,
       "exportedPath": "3_campaign/the-party/_dead/finnegean.html",
       "dependencies": []
     },
     "3_Campaign/The Party/_DEAD/Hallbjorn.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 93,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 144,
       "exportedPath": "3_campaign/the-party/_dead/hallbjorn.html",
       "dependencies": []
     },
     "3_Campaign/The Party/_RESERVE/Novamere.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 967,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 943,
       "exportedPath": "3_campaign/the-party/_reserve/novamere.html",
       "dependencies": []
     },
     "3_Campaign/The Party/_RESERVE/Selene.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 947,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 945,
       "exportedPath": "3_campaign/the-party/_reserve/selene.html",
       "dependencies": []
     },
@@ -1774,20 +1763,20 @@
       ]
     },
     "3_Campaign/The Party/Cassia.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 143,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 142,
       "exportedPath": "3_campaign/the-party/cassia.html",
       "dependencies": []
     },
     "3_Campaign/The Party/Con'Niall.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 269,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 309,
       "exportedPath": "3_campaign/the-party/con'niall.html",
       "dependencies": []
     },
     "3_Campaign/The Party/Fyudor.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 782,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 774,
       "exportedPath": "3_campaign/the-party/fyudor.html",
       "dependencies": [
         "lib/media/pasted-image-20240307143438.png",
@@ -1795,20 +1784,20 @@
       ]
     },
     "3_Campaign/The Party/Ghorza.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 681,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 661,
       "exportedPath": "3_campaign/the-party/ghorza.html",
       "dependencies": []
     },
     "3_Campaign/The Party/Rory.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 668,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 3038,
       "exportedPath": "3_campaign/the-party/rory.html",
       "dependencies": []
     },
     "3_Campaign/The Party/Willa.md": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 150,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 170,
       "exportedPath": "3_campaign/the-party/willa.html",
       "dependencies": []
     },
@@ -1993,189 +1982,201 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240307143438.png": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 12475829,
       "exportedPath": "lib/media/pasted-image-20240307143438.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240307143501.png": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 1763888,
       "exportedPath": "lib/media/pasted-image-20240307143501.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 225854,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 224064,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1736828274730,
-      "sourceSize": 19472,
+      "modifiedTime": 1736833373296,
+      "sourceSize": 19445,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 722641,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1736828274730,
+      "modifiedTime": 1736833373296,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Ethemore.md": {
+      "modifiedTime": 1736833373296,
+      "sourceSize": 170,
+      "exportedPath": "ethemore.html",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1736833373296,
+      "sourceSize": 2104,
+      "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     }
   }
