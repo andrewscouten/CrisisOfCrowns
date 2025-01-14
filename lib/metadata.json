@@ -1,0 +1,2182 @@
+{
+  "vaultName": "Ethemore",
+  "lastExport": 1736828274730,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark is-fullscreen native-scrollbars show-inline-title show-ribbon check-color check-bg",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "0_Obsidian_Stuff/_AKA/Agrius/Lord of Winter Roses.md",
+    "0_Obsidian_Stuff/_AKA/Agrius/Winter.md",
+    "0_Obsidian_Stuff/_AKA/Agrius/Winter's Rasp.md",
+    "0_Obsidian_Stuff/_AKA/Brown Bear/Granddaughter of the World Tree.md",
+    "0_Obsidian_Stuff/_AKA/Brown Bear/Honey Tree.md",
+    "0_Obsidian_Stuff/_AKA/Brown Bear/The Brown One.md",
+    "0_Obsidian_Stuff/_AKA/Drasil/God of Beasts.md",
+    "0_Obsidian_Stuff/_AKA/Drasil/Old Man of the Woods.md",
+    "0_Obsidian_Stuff/_AKA/Drasil/The Father.md",
+    "0_Obsidian_Stuff/_AKA/Drasil/The Green Knight.md",
+    "0_Obsidian_Stuff/_AKA/Drasil/The Stag.md",
+    "0_Obsidian_Stuff/_AKA/Edris/Hand Who Helps.md",
+    "0_Obsidian_Stuff/_AKA/Hair of Fire/Hag Mother.md",
+    "0_Obsidian_Stuff/_AKA/Hair of Fire/The Witch Queen.md",
+    "0_Obsidian_Stuff/_AKA/Mymidia/Holy Guards Woman.md",
+    "0_Obsidian_Stuff/_AKA/Mymidia/Lady of Steel.md",
+    "0_Obsidian_Stuff/_AKA/Mymidia/The Red Knight.md",
+    "0_Obsidian_Stuff/_Images/awaken_rope.png",
+    "0_Obsidian_Stuff/_Images/burn.png",
+    "0_Obsidian_Stuff/_Images/clay_touch.png",
+    "0_Obsidian_Stuff/_Images/create_bonfire.png",
+    "0_Obsidian_Stuff/_Images/cure_wounds.png",
+    "0_Obsidian_Stuff/_Images/detect_evil_and_good.png",
+    "0_Obsidian_Stuff/_Images/detect_magic.png",
+    "0_Obsidian_Stuff/_Images/faerie_fire.png",
+    "0_Obsidian_Stuff/_Images/greenbelt.png",
+    "0_Obsidian_Stuff/_Images/hex.png",
+    "0_Obsidian_Stuff/_Images/illusionary_dart.png",
+    "0_Obsidian_Stuff/_Images/ligntning_tendril.png",
+    "0_Obsidian_Stuff/_Images/message.png",
+    "0_Obsidian_Stuff/_Images/moonbeam.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20240307143438.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20240307143501.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20240307143655.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20240307143707.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20240401182929.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20240401183006.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20240610184145.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20240610184431.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20240923194038.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20241021202724.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20241118202015.png",
+    "0_Obsidian_Stuff/_Images/Pasted image 20241209192934.png",
+    "0_Obsidian_Stuff/_Images/prayer_of_healing.png",
+    "0_Obsidian_Stuff/_Images/shattering_shield.png",
+    "0_Obsidian_Stuff/_Images/shocking_grasp.png",
+    "0_Obsidian_Stuff/_Images/shocking_grasp 1.png",
+    "0_Obsidian_Stuff/_Images/thorn_whip.png",
+    "0_Obsidian_Stuff/_Images/web.png",
+    "0_Obsidian_Stuff/_Misc/Dog Skinners.md",
+    "0_Obsidian_Stuff/_Misc/Druid Gorbag.md",
+    "0_Obsidian_Stuff/_Misc/Tom, Local Cannibal.md",
+    "0_Obsidian_Stuff/_Tags/DEAD.md",
+    "0_Obsidian_Stuff/_Tags/DIED.md",
+    "0_Obsidian_Stuff/_Uncategorized/Alathof.md",
+    "0_Obsidian_Stuff/_Uncategorized/Balgura.md",
+    "0_Obsidian_Stuff/_Uncategorized/Ethemore.md",
+    "0_Obsidian_Stuff/_Uncategorized/False Queen.md",
+    "0_Obsidian_Stuff/_Uncategorized/Gehenna.md",
+    "0_Obsidian_Stuff/_Uncategorized/Gorvin Salrus.md",
+    "0_Obsidian_Stuff/_Uncategorized/North Wood.md",
+    "0_Obsidian_Stuff/_Uncategorized/Ravenkeep.md",
+    "0_Obsidian_Stuff/_Uncategorized/Red Feast.md",
+    "0_Obsidian_Stuff/_Uncategorized/The First.md",
+    "0_Obsidian_Stuff/_Uncategorized/The Good Son.md",
+    "0_Obsidian_Stuff/_Uncategorized/Tylin Woode-peak.md",
+    "0_Obsidian_Stuff/_Uncategorized/World Tree.md",
+    "1_Blume/_Spells/_Cantrip/Burn (REMOVED).md",
+    "1_Blume/_Spells/_Cantrip/Create Bonfire.md",
+    "1_Blume/_Spells/_Cantrip/Illusionary Dart (REMOVED).md",
+    "1_Blume/_Spells/_Cantrip/Impact.md",
+    "1_Blume/_Spells/_Cantrip/Message.md",
+    "1_Blume/_Spells/_Cantrip/Shocking Grasp.md",
+    "1_Blume/_Spells/_Cantrip/Thorn Whip.md",
+    "1_Blume/_Spells/1st/Awaken Rope (REMOVED).md",
+    "1_Blume/_Spells/1st/Cure Wounds.md",
+    "1_Blume/_Spells/1st/Detect Evil and Good.md",
+    "1_Blume/_Spells/1st/Detect Magic.md",
+    "1_Blume/_Spells/1st/Faerie Fire.md",
+    "1_Blume/_Spells/1st/Hex.md",
+    "1_Blume/_Spells/1st/Lightning Tendril.md",
+    "1_Blume/_Spells/2nd/Clay Touch.md",
+    "1_Blume/_Spells/2nd/Moonbeam.md",
+    "1_Blume/_Spells/2nd/Prayer of Healing.md",
+    "1_Blume/_Spells/2nd/Shattering Shield.md",
+    "1_Blume/_Spells/2nd/Web.md",
+    "1_Blume/Knowledge/Names.md",
+    "1_Blume/PDFs/Blume.pdf",
+    "1_Blume/PDFs/Kibbles' Casting Compendium _ GM Binder.pdf",
+    "1_Blume/PDFs/Occultist_1.4.1.pdf",
+    "1_Blume/Rites/Light of the Moon.md",
+    "1_Blume/Rites/Manipulate Magic.md",
+    "1_Blume/Rites/Markings of Protection.md",
+    "1_Blume/Rites/Mass Cantrip.md",
+    "1_Blume/Rites/Practice Makes Perfect.md",
+    "1_Blume/Levels.md",
+    "2_Sessions/(0) Loot/Session 37 Loot.md",
+    "2_Sessions/(1) Autumn/Objectives.md",
+    "2_Sessions/(1) Autumn/Session 1.md",
+    "2_Sessions/(1) Autumn/Session 2.md",
+    "2_Sessions/(1) Autumn/Session 3.md",
+    "2_Sessions/(1) Autumn/Session 4.md",
+    "2_Sessions/(1) Autumn/Session 5.md",
+    "2_Sessions/(1) Autumn/Session 6.md",
+    "2_Sessions/(1) Autumn/Session 7.md",
+    "2_Sessions/(1) Autumn/Session 8.md",
+    "2_Sessions/(1) Autumn/Session 9.md",
+    "2_Sessions/(1) Autumn/Session 10.md",
+    "2_Sessions/(1) Autumn/Session 11.md",
+    "2_Sessions/(1) Autumn/Session 12.md",
+    "2_Sessions/(2) Winter Approaches/Session 13.md",
+    "2_Sessions/(2) Winter Approaches/Session 14.md",
+    "2_Sessions/(2) Winter Approaches/Session 15.md",
+    "2_Sessions/(2) Winter Approaches/Session 16.md",
+    "2_Sessions/(2) Winter Approaches/Session 17.md",
+    "2_Sessions/(2) Winter Approaches/Session 18.md",
+    "2_Sessions/(2) Winter Approaches/Session 19.md",
+    "2_Sessions/(2) Winter Approaches/Session 20.md",
+    "2_Sessions/(2) Winter Approaches/Session 21.md",
+    "2_Sessions/(3) Winter/Session 22.md",
+    "2_Sessions/(3) Winter/Session 23.md",
+    "2_Sessions/(3) Winter/Session 24.md",
+    "2_Sessions/(3) Winter/Session 25.md",
+    "2_Sessions/(3) Winter/Session 26.md",
+    "2_Sessions/(3) Winter/Session 27.md",
+    "2_Sessions/(3) Winter/Session 28.md",
+    "2_Sessions/(3) Winter/Session 29.md",
+    "2_Sessions/(3) Winter/Session 30.md",
+    "2_Sessions/(3) Winter/Session 31.md",
+    "2_Sessions/(3) Winter/Session 32.md",
+    "2_Sessions/(3) Winter/Session 33.md",
+    "2_Sessions/(3) Winter/Session 34.md",
+    "2_Sessions/(3) Winter/Session 35.md",
+    "2_Sessions/(3) Winter/Session 36.md",
+    "2_Sessions/(3) Winter/Session 37.md",
+    "2_Sessions/Unused Items.md",
+    "3_Campaign/Entities/Ancients/Honey Tree; Brown One.md",
+    "3_Campaign/Entities/Ancients/Mygath.md",
+    "3_Campaign/Entities/Ancients/Ur-Mother Bear.md",
+    "3_Campaign/Entities/Gods/The Three Siblings/Lydesh.md",
+    "3_Campaign/Entities/Gods/The Three Siblings/Myrmidia.md",
+    "3_Campaign/Entities/Gods/The Three Siblings/The Three Siblings.md",
+    "3_Campaign/Entities/Gods/The Three Siblings/Vydahr.md",
+    "3_Campaign/Entities/Gods/Agrius.md",
+    "3_Campaign/Entities/Gods/Drasil.md",
+    "3_Campaign/Entities/Gods/Ealena.md",
+    "3_Campaign/Entities/Gods/Edris.md",
+    "3_Campaign/Entities/Gods/Granny.md",
+    "3_Campaign/Entities/Gods/Llyran-Mac-Barione.md",
+    "3_Campaign/Entities/Gods/Old Man Richard.md",
+    "3_Campaign/Entities/Gods/Posaunia.md",
+    "3_Campaign/Entities/Gods/The Stranger.md",
+    "3_Campaign/Entities/Gods/Valkur.md",
+    "3_Campaign/Entities/Greenbelt.md",
+    "3_Campaign/Entities/Hair of Fire.md",
+    "3_Campaign/Factions/Royals/House Reventree.md",
+    "3_Campaign/Factions/Royals/House Salrus.md",
+    "3_Campaign/Factions/Royals/House Tallmadge.md",
+    "3_Campaign/Factions/Clan Cracton.md",
+    "3_Campaign/Factions/Cult of the Blood.md",
+    "3_Campaign/Factions/Freemen.md",
+    "3_Campaign/Factions/Green Coven.md",
+    "3_Campaign/Factions/Oathsworn.md",
+    "3_Campaign/Items/Charms/Armor/Charm of Ashen Time.md",
+    "3_Campaign/Items/Charms/Armor/Charm of Snake's Tongue.md",
+    "3_Campaign/Items/Charms/Armor/Charm of Taunterers Tongue.md",
+    "3_Campaign/Items/Charms/Armor/Charm of the Two Headed Turtle.md",
+    "3_Campaign/Items/Charms/Weapon/Charm of Feather Weight.md",
+    "3_Campaign/Items/Charms/Weapon/Charm of Speak with Dead.md",
+    "3_Campaign/Items/Charms/Weapon/Charm of the Blue Dancer.md",
+    "3_Campaign/Items/Charms/Weapon/Charm of the Green Snapper.md",
+    "3_Campaign/Items/Charms/Weapon/Charm of Water's Bite.md",
+    "3_Campaign/Items/Important/Crest of House Salrus.md",
+    "3_Campaign/Items/Important/Moon Sickle.md",
+    "3_Campaign/Items/Important/Rory's Oathblade.md",
+    "3_Campaign/Items/Important/The Rites of the Green Kings, and the Queen Consorts of Moonlight.md",
+    "3_Campaign/Languages/Abyssal.md",
+    "3_Campaign/Languages/Celestial.md",
+    "3_Campaign/Languages/Common.md",
+    "3_Campaign/Languages/Dwarvish.md",
+    "3_Campaign/Languages/Infernal.md",
+    "3_Campaign/Languages/Sylvan.md",
+    "3_Campaign/Languages/Undercommon.md",
+    "3_Campaign/Locations/Cities/Kaerliv.md",
+    "3_Campaign/Locations/Cities/Llorian.md",
+    "3_Campaign/Locations/Cities/Lockshire.md",
+    "3_Campaign/Locations/Cities/Townsend.md",
+    "3_Campaign/Locations/Lands/Basilisk Isles.md",
+    "3_Campaign/Locations/Lands/Bitter Water.md",
+    "3_Campaign/Locations/Lands/Bitter Water Veil.md",
+    "3_Campaign/Locations/Lands/Grass Sea.md",
+    "3_Campaign/Locations/Lands/Hinterlands.md",
+    "3_Campaign/Locations/Lands/Land of Always Winter.md",
+    "3_Campaign/Locations/Lands/The Southern Reaches.md",
+    "3_Campaign/Locations/Lands/Three Sisters.md",
+    "3_Campaign/Locations/POI/Bearhold Keep.md",
+    "3_Campaign/Locations/POI/Branched Lake.md",
+    "3_Campaign/Locations/POI/Curios Curosities.md",
+    "3_Campaign/Locations/POI/Luminaris Arcnarium.md",
+    "3_Campaign/Locations/POI/Selene's Temple.md",
+    "3_Campaign/Locations/POI/Temple of Drasil.md",
+    "3_Campaign/Locations/POI/The Quarry.md",
+    "3_Campaign/Locations/POI/The Ruins of the Passed Kings of Wood and Water.md",
+    "3_Campaign/Misc/Old Faith/Bloodwell Pit.md",
+    "3_Campaign/Misc/Old Faith/Singers of Sea and Sky.md",
+    "3_Campaign/Misc/Oathblade.md",
+    "3_Campaign/Misc/The Old Sword of the House of Ash.md",
+    "3_Campaign/People/Baronet, Lady Salrus.md",
+    "3_Campaign/People/Boy King.md",
+    "3_Campaign/People/Braum.md",
+    "3_Campaign/People/Daren the Greenblood.md",
+    "3_Campaign/People/Grendel Harwin.md",
+    "3_Campaign/People/Jack Scratch.md",
+    "3_Campaign/People/Krusa.md",
+    "3_Campaign/People/Lady Thissleblack.md",
+    "3_Campaign/People/Milo.md",
+    "3_Campaign/People/Old King.md",
+    "3_Campaign/People/Ser Danal.md",
+    "3_Campaign/People/Ser Flint the Beggar.md",
+    "3_Campaign/People/Ser George.md",
+    "3_Campaign/People/Ser Leona Blackmont.md",
+    "3_Campaign/People/Ser Sandauq Stillwater.md",
+    "3_Campaign/People/Sister Minorah.md",
+    "3_Campaign/People/Stag Lord.md",
+    "3_Campaign/People/Vigmir Yllavaris.md",
+    "3_Campaign/The Party/_DEAD/Finnegean.md",
+    "3_Campaign/The Party/_DEAD/Hallbjorn.md",
+    "3_Campaign/The Party/_RESERVE/Novamere.md",
+    "3_Campaign/The Party/_RESERVE/Selene.md",
+    "3_Campaign/The Party/Blume.md",
+    "3_Campaign/The Party/Cassia.md",
+    "3_Campaign/The Party/Con'Niall.md",
+    "3_Campaign/The Party/Fyudor.md",
+    "3_Campaign/The Party/Ghorza.md",
+    "3_Campaign/The Party/Rory.md",
+    "3_Campaign/The Party/Willa.md",
+    "Rough Map.md",
+    "lib/media/burn.png",
+    "lib/media/create_bonfire.png",
+    "lib/media/illusionary_dart.png",
+    "lib/media/shocking_grasp-1.png",
+    "lib/media/message.png",
+    "lib/media/shocking_grasp.png",
+    "lib/media/thorn_whip.png",
+    "lib/media/pasted-image-20240923194038.png",
+    "lib/media/cure_wounds.png",
+    "lib/media/detect_evil_and_good.png",
+    "lib/media/detect_magic.png",
+    "lib/media/faerie_fire.png",
+    "lib/media/hex.png",
+    "lib/media/ligntning_tendril.png",
+    "lib/media/clay_touch.png",
+    "lib/media/moonbeam.png",
+    "lib/media/prayer_of_healing.png",
+    "lib/media/shattering_shield.png",
+    "lib/media/web.png",
+    "lib/media/pasted-image-20240610184145.png",
+    "lib/media/pasted-image-20241209192934.png",
+    "lib/media/pasted-image-20240401183006.png",
+    "lib/media/pasted-image-20240401182929.png",
+    "lib/media/pasted-image-20240610184431.png",
+    "lib/media/pasted-image-20241118202015.png",
+    "lib/media/greenbelt.png",
+    "lib/media/pasted-image-20241021202724.png",
+    "lib/media/pasted-image-20240307143655.png",
+    "lib/media/pasted-image-20240307143707.png",
+    "lib/media/pasted-image-20240307143438.png",
+    "lib/media/pasted-image-20240307143501.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "0_Obsidian_Stuff/_AKA/Agrius/Lord of Winter Roses.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/agrius/lord-of-winter-roses.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Agrius/Winter.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/agrius/winter.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Agrius/Winter's Rasp.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/agrius/winter's-rasp.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Brown Bear/Granddaughter of the World Tree.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/brown-bear/granddaughter-of-the-world-tree.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Brown Bear/Honey Tree.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/brown-bear/honey-tree.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Brown Bear/The Brown One.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/brown-bear/the-brown-one.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Drasil/God of Beasts.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 10,
+      "exportedPath": "0_obsidian_stuff/_aka/drasil/god-of-beasts.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Drasil/Old Man of the Woods.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 10,
+      "exportedPath": "0_obsidian_stuff/_aka/drasil/old-man-of-the-woods.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Drasil/The Father.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 10,
+      "exportedPath": "0_obsidian_stuff/_aka/drasil/the-father.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Drasil/The Green Knight.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 10,
+      "exportedPath": "0_obsidian_stuff/_aka/drasil/the-green-knight.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Drasil/The Stag.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 10,
+      "exportedPath": "0_obsidian_stuff/_aka/drasil/the-stag.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Edris/Hand Who Helps.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/edris/hand-who-helps.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Hair of Fire/Hag Mother.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/hair-of-fire/hag-mother.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Hair of Fire/The Witch Queen.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/hair-of-fire/the-witch-queen.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Mymidia/Holy Guards Woman.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/mymidia/holy-guards-woman.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Mymidia/Lady of Steel.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/mymidia/lady-of-steel.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_AKA/Mymidia/The Red Knight.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_aka/mymidia/the-red-knight.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/awaken_rope.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 482891,
+      "exportedPath": "0_obsidian_stuff/_images/awaken_rope.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/burn.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 212733,
+      "exportedPath": "0_obsidian_stuff/_images/burn.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/clay_touch.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 639810,
+      "exportedPath": "0_obsidian_stuff/_images/clay_touch.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/create_bonfire.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 161067,
+      "exportedPath": "0_obsidian_stuff/_images/create_bonfire.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/cure_wounds.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 656867,
+      "exportedPath": "0_obsidian_stuff/_images/cure_wounds.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/detect_evil_and_good.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 674399,
+      "exportedPath": "0_obsidian_stuff/_images/detect_evil_and_good.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/detect_magic.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 688313,
+      "exportedPath": "0_obsidian_stuff/_images/detect_magic.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/faerie_fire.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 690276,
+      "exportedPath": "0_obsidian_stuff/_images/faerie_fire.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/greenbelt.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 83649,
+      "exportedPath": "0_obsidian_stuff/_images/greenbelt.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/hex.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 192113,
+      "exportedPath": "0_obsidian_stuff/_images/hex.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/illusionary_dart.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 226865,
+      "exportedPath": "0_obsidian_stuff/_images/illusionary_dart.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/ligntning_tendril.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 268304,
+      "exportedPath": "0_obsidian_stuff/_images/ligntning_tendril.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/message.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 724279,
+      "exportedPath": "0_obsidian_stuff/_images/message.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/moonbeam.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1017819,
+      "exportedPath": "0_obsidian_stuff/_images/moonbeam.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20240307143438.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 12475829,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20240307143438.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20240307143501.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1763888,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20240307143501.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20240307143655.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 161675,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20240307143655.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20240307143707.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 440450,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20240307143707.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20240401182929.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 258394,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20240401182929.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20240401183006.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 137967,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20240401183006.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20240610184145.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 297683,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20240610184145.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20240610184431.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 247845,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20240610184431.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20240923194038.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1035025,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20240923194038.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20241021202724.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 142106,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20241021202724.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20241118202015.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 4040706,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20241118202015.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/Pasted image 20241209192934.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 739668,
+      "exportedPath": "0_obsidian_stuff/_images/pasted-image-20241209192934.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/prayer_of_healing.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 128691,
+      "exportedPath": "0_obsidian_stuff/_images/prayer_of_healing.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/shattering_shield.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 875705,
+      "exportedPath": "0_obsidian_stuff/_images/shattering_shield.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/shocking_grasp.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 849485,
+      "exportedPath": "0_obsidian_stuff/_images/shocking_grasp.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/shocking_grasp 1.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 402303,
+      "exportedPath": "0_obsidian_stuff/_images/shocking_grasp-1.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/thorn_whip.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 142435,
+      "exportedPath": "0_obsidian_stuff/_images/thorn_whip.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Images/web.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1080544,
+      "exportedPath": "0_obsidian_stuff/_images/web.png",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Misc/Dog Skinners.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 55,
+      "exportedPath": "0_obsidian_stuff/_misc/dog-skinners.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Misc/Druid Gorbag.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 43,
+      "exportedPath": "0_obsidian_stuff/_misc/druid-gorbag.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Misc/Tom, Local Cannibal.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 55,
+      "exportedPath": "0_obsidian_stuff/_misc/tom,-local-cannibal.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Tags/DEAD.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_tags/dead.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Tags/DIED.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_tags/died.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/Alathof.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 78,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/alathof.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/Balgura.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 40,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/balgura.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/Ethemore.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/ethemore.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/False Queen.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/false-queen.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/Gehenna.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 89,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/gehenna.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/Gorvin Salrus.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/gorvin-salrus.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/North Wood.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/north-wood.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/Ravenkeep.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/ravenkeep.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/Red Feast.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/red-feast.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/The First.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/the-first.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/The Good Son.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/the-good-son.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/Tylin Woode-peak.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 20,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/tylin-woode-peak.html",
+      "dependencies": []
+    },
+    "0_Obsidian_Stuff/_Uncategorized/World Tree.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 2,
+      "exportedPath": "0_obsidian_stuff/_uncategorized/world-tree.html",
+      "dependencies": []
+    },
+    "1_Blume/_Spells/_Cantrip/Burn (REMOVED).md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 24,
+      "exportedPath": "1_blume/_spells/_cantrip/burn-(removed).html",
+      "dependencies": [
+        "lib/media/burn.png"
+      ]
+    },
+    "1_Blume/_Spells/_Cantrip/Create Bonfire.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 35,
+      "exportedPath": "1_blume/_spells/_cantrip/create-bonfire.html",
+      "dependencies": [
+        "lib/media/create_bonfire.png"
+      ]
+    },
+    "1_Blume/_Spells/_Cantrip/Illusionary Dart (REMOVED).md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 37,
+      "exportedPath": "1_blume/_spells/_cantrip/illusionary-dart-(removed).html",
+      "dependencies": [
+        "lib/media/illusionary_dart.png"
+      ]
+    },
+    "1_Blume/_Spells/_Cantrip/Impact.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 70,
+      "exportedPath": "1_blume/_spells/_cantrip/impact.html",
+      "dependencies": [
+        "lib/media/shocking_grasp-1.png"
+      ]
+    },
+    "1_Blume/_Spells/_Cantrip/Message.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 27,
+      "exportedPath": "1_blume/_spells/_cantrip/message.html",
+      "dependencies": [
+        "lib/media/message.png"
+      ]
+    },
+    "1_Blume/_Spells/_Cantrip/Shocking Grasp.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 35,
+      "exportedPath": "1_blume/_spells/_cantrip/shocking-grasp.html",
+      "dependencies": [
+        "lib/media/shocking_grasp.png"
+      ]
+    },
+    "1_Blume/_Spells/_Cantrip/Thorn Whip.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 31,
+      "exportedPath": "1_blume/_spells/_cantrip/thorn-whip.html",
+      "dependencies": [
+        "lib/media/thorn_whip.png"
+      ]
+    },
+    "1_Blume/_Spells/1st/Awaken Rope (REMOVED).md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 69,
+      "exportedPath": "1_blume/_spells/1st/awaken-rope-(removed).html",
+      "dependencies": [
+        "lib/media/pasted-image-20240923194038.png"
+      ]
+    },
+    "1_Blume/_Spells/1st/Cure Wounds.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 32,
+      "exportedPath": "1_blume/_spells/1st/cure-wounds.html",
+      "dependencies": [
+        "lib/media/cure_wounds.png"
+      ]
+    },
+    "1_Blume/_Spells/1st/Detect Evil and Good.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 41,
+      "exportedPath": "1_blume/_spells/1st/detect-evil-and-good.html",
+      "dependencies": [
+        "lib/media/detect_evil_and_good.png"
+      ]
+    },
+    "1_Blume/_Spells/1st/Detect Magic.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 56,
+      "exportedPath": "1_blume/_spells/1st/detect-magic.html",
+      "dependencies": [
+        "lib/media/detect_magic.png"
+      ]
+    },
+    "1_Blume/_Spells/1st/Faerie Fire.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 36,
+      "exportedPath": "1_blume/_spells/1st/faerie-fire.html",
+      "dependencies": [
+        "lib/media/faerie_fire.png"
+      ]
+    },
+    "1_Blume/_Spells/1st/Hex.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 27,
+      "exportedPath": "1_blume/_spells/1st/hex.html",
+      "dependencies": [
+        "lib/media/hex.png"
+      ]
+    },
+    "1_Blume/_Spells/1st/Lightning Tendril.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 39,
+      "exportedPath": "1_blume/_spells/1st/lightning-tendril.html",
+      "dependencies": [
+        "lib/media/ligntning_tendril.png"
+      ]
+    },
+    "1_Blume/_Spells/2nd/Clay Touch.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 31,
+      "exportedPath": "1_blume/_spells/2nd/clay-touch.html",
+      "dependencies": [
+        "lib/media/clay_touch.png"
+      ]
+    },
+    "1_Blume/_Spells/2nd/Moonbeam.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 28,
+      "exportedPath": "1_blume/_spells/2nd/moonbeam.html",
+      "dependencies": [
+        "lib/media/moonbeam.png"
+      ]
+    },
+    "1_Blume/_Spells/2nd/Prayer of Healing.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 27,
+      "exportedPath": "1_blume/_spells/2nd/prayer-of-healing.html",
+      "dependencies": [
+        "lib/media/prayer_of_healing.png"
+      ]
+    },
+    "1_Blume/_Spells/2nd/Shattering Shield.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 27,
+      "exportedPath": "1_blume/_spells/2nd/shattering-shield.html",
+      "dependencies": [
+        "lib/media/shattering_shield.png"
+      ]
+    },
+    "1_Blume/_Spells/2nd/Web.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 23,
+      "exportedPath": "1_blume/_spells/2nd/web.html",
+      "dependencies": [
+        "lib/media/web.png"
+      ]
+    },
+    "1_Blume/Knowledge/Names.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 35,
+      "exportedPath": "1_blume/knowledge/names.html",
+      "dependencies": []
+    },
+    "1_Blume/PDFs/Blume.pdf": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 6295089,
+      "exportedPath": "1_blume/pdfs/blume.pdf",
+      "dependencies": []
+    },
+    "1_Blume/PDFs/Kibbles' Casting Compendium _ GM Binder.pdf": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 76462370,
+      "exportedPath": "1_blume/pdfs/kibbles'-casting-compendium-_-gm-binder.pdf",
+      "dependencies": []
+    },
+    "1_Blume/PDFs/Occultist_1.4.1.pdf": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 47249314,
+      "exportedPath": "1_blume/pdfs/occultist_1.4.1.pdf",
+      "dependencies": []
+    },
+    "1_Blume/Rites/Light of the Moon.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 48,
+      "exportedPath": "1_blume/rites/light-of-the-moon.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240610184145.png"
+      ]
+    },
+    "1_Blume/Rites/Manipulate Magic.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 37,
+      "exportedPath": "1_blume/rites/manipulate-magic.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241209192934.png"
+      ]
+    },
+    "1_Blume/Rites/Markings of Protection.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 48,
+      "exportedPath": "1_blume/rites/markings-of-protection.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240401183006.png"
+      ]
+    },
+    "1_Blume/Rites/Mass Cantrip.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 48,
+      "exportedPath": "1_blume/rites/mass-cantrip.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240401182929.png"
+      ]
+    },
+    "1_Blume/Rites/Practice Makes Perfect.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 48,
+      "exportedPath": "1_blume/rites/practice-makes-perfect.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240610184431.png"
+      ]
+    },
+    "1_Blume/Levels.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1006,
+      "exportedPath": "1_blume/levels.html",
+      "dependencies": []
+    },
+    "2_Sessions/(0) Loot/Session 37 Loot.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1815,
+      "exportedPath": "2_sessions/(0)-loot/session-37-loot.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Objectives.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1186,
+      "exportedPath": "2_sessions/(1)-autumn/objectives.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 1.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1720,
+      "exportedPath": "2_sessions/(1)-autumn/session-1.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 2.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 713,
+      "exportedPath": "2_sessions/(1)-autumn/session-2.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 3.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 9486,
+      "exportedPath": "2_sessions/(1)-autumn/session-3.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 4.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 5080,
+      "exportedPath": "2_sessions/(1)-autumn/session-4.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 5.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 3579,
+      "exportedPath": "2_sessions/(1)-autumn/session-5.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 6.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 3720,
+      "exportedPath": "2_sessions/(1)-autumn/session-6.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 7.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 5643,
+      "exportedPath": "2_sessions/(1)-autumn/session-7.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 8.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 3101,
+      "exportedPath": "2_sessions/(1)-autumn/session-8.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 9.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1473,
+      "exportedPath": "2_sessions/(1)-autumn/session-9.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 10.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1887,
+      "exportedPath": "2_sessions/(1)-autumn/session-10.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 11.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1188,
+      "exportedPath": "2_sessions/(1)-autumn/session-11.html",
+      "dependencies": []
+    },
+    "2_Sessions/(1) Autumn/Session 12.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 7087,
+      "exportedPath": "2_sessions/(1)-autumn/session-12.html",
+      "dependencies": []
+    },
+    "2_Sessions/(2) Winter Approaches/Session 13.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 4258,
+      "exportedPath": "2_sessions/(2)-winter-approaches/session-13.html",
+      "dependencies": []
+    },
+    "2_Sessions/(2) Winter Approaches/Session 14.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 2702,
+      "exportedPath": "2_sessions/(2)-winter-approaches/session-14.html",
+      "dependencies": []
+    },
+    "2_Sessions/(2) Winter Approaches/Session 15.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 2371,
+      "exportedPath": "2_sessions/(2)-winter-approaches/session-15.html",
+      "dependencies": []
+    },
+    "2_Sessions/(2) Winter Approaches/Session 16.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 3271,
+      "exportedPath": "2_sessions/(2)-winter-approaches/session-16.html",
+      "dependencies": []
+    },
+    "2_Sessions/(2) Winter Approaches/Session 17.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 6943,
+      "exportedPath": "2_sessions/(2)-winter-approaches/session-17.html",
+      "dependencies": []
+    },
+    "2_Sessions/(2) Winter Approaches/Session 18.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 3492,
+      "exportedPath": "2_sessions/(2)-winter-approaches/session-18.html",
+      "dependencies": []
+    },
+    "2_Sessions/(2) Winter Approaches/Session 19.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 2058,
+      "exportedPath": "2_sessions/(2)-winter-approaches/session-19.html",
+      "dependencies": []
+    },
+    "2_Sessions/(2) Winter Approaches/Session 20.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 313,
+      "exportedPath": "2_sessions/(2)-winter-approaches/session-20.html",
+      "dependencies": []
+    },
+    "2_Sessions/(2) Winter Approaches/Session 21.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1884,
+      "exportedPath": "2_sessions/(2)-winter-approaches/session-21.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 22.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1595,
+      "exportedPath": "2_sessions/(3)-winter/session-22.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 23.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 39,
+      "exportedPath": "2_sessions/(3)-winter/session-23.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 24.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1089,
+      "exportedPath": "2_sessions/(3)-winter/session-24.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 25.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 436,
+      "exportedPath": "2_sessions/(3)-winter/session-25.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 26.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1373,
+      "exportedPath": "2_sessions/(3)-winter/session-26.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 27.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1960,
+      "exportedPath": "2_sessions/(3)-winter/session-27.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 28.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 3892,
+      "exportedPath": "2_sessions/(3)-winter/session-28.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 29.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 3533,
+      "exportedPath": "2_sessions/(3)-winter/session-29.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 30.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 2014,
+      "exportedPath": "2_sessions/(3)-winter/session-30.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241118202015.png"
+      ]
+    },
+    "2_Sessions/(3) Winter/Session 31.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 2865,
+      "exportedPath": "2_sessions/(3)-winter/session-31.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 32.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 2827,
+      "exportedPath": "2_sessions/(3)-winter/session-32.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 33.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 3327,
+      "exportedPath": "2_sessions/(3)-winter/session-33.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 34.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 2350,
+      "exportedPath": "2_sessions/(3)-winter/session-34.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 35.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 62,
+      "exportedPath": "2_sessions/(3)-winter/session-35.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 36.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 302,
+      "exportedPath": "2_sessions/(3)-winter/session-36.html",
+      "dependencies": []
+    },
+    "2_Sessions/(3) Winter/Session 37.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1428,
+      "exportedPath": "2_sessions/(3)-winter/session-37.html",
+      "dependencies": []
+    },
+    "2_Sessions/Unused Items.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1166,
+      "exportedPath": "2_sessions/unused-items.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Ancients/Honey Tree; Brown One.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1852,
+      "exportedPath": "3_campaign/entities/ancients/honey-tree;-brown-one.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Ancients/Mygath.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 15,
+      "exportedPath": "3_campaign/entities/ancients/mygath.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Ancients/Ur-Mother Bear.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 153,
+      "exportedPath": "3_campaign/entities/ancients/ur-mother-bear.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/The Three Siblings/Lydesh.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 61,
+      "exportedPath": "3_campaign/entities/gods/the-three-siblings/lydesh.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/The Three Siblings/Myrmidia.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 179,
+      "exportedPath": "3_campaign/entities/gods/the-three-siblings/myrmidia.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/The Three Siblings/The Three Siblings.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 106,
+      "exportedPath": "3_campaign/entities/gods/the-three-siblings/the-three-siblings.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/The Three Siblings/Vydahr.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 415,
+      "exportedPath": "3_campaign/entities/gods/the-three-siblings/vydahr.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/Agrius.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 208,
+      "exportedPath": "3_campaign/entities/gods/agrius.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/Drasil.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 209,
+      "exportedPath": "3_campaign/entities/gods/drasil.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/Ealena.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 19,
+      "exportedPath": "3_campaign/entities/gods/ealena.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/Edris.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 94,
+      "exportedPath": "3_campaign/entities/gods/edris.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/Granny.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 94,
+      "exportedPath": "3_campaign/entities/gods/granny.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/Llyran-Mac-Barione.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 65,
+      "exportedPath": "3_campaign/entities/gods/llyran-mac-barione.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/Old Man Richard.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 87,
+      "exportedPath": "3_campaign/entities/gods/old-man-richard.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/Posaunia.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 31,
+      "exportedPath": "3_campaign/entities/gods/posaunia.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/The Stranger.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 59,
+      "exportedPath": "3_campaign/entities/gods/the-stranger.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Gods/Valkur.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 37,
+      "exportedPath": "3_campaign/entities/gods/valkur.html",
+      "dependencies": []
+    },
+    "3_Campaign/Entities/Greenbelt.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 226,
+      "exportedPath": "3_campaign/entities/greenbelt.html",
+      "dependencies": [
+        "lib/media/greenbelt.png"
+      ]
+    },
+    "3_Campaign/Entities/Hair of Fire.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/entities/hair-of-fire.html",
+      "dependencies": []
+    },
+    "3_Campaign/Factions/Royals/House Reventree.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 63,
+      "exportedPath": "3_campaign/factions/royals/house-reventree.html",
+      "dependencies": []
+    },
+    "3_Campaign/Factions/Royals/House Salrus.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 102,
+      "exportedPath": "3_campaign/factions/royals/house-salrus.html",
+      "dependencies": []
+    },
+    "3_Campaign/Factions/Royals/House Tallmadge.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 287,
+      "exportedPath": "3_campaign/factions/royals/house-tallmadge.html",
+      "dependencies": []
+    },
+    "3_Campaign/Factions/Clan Cracton.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 27,
+      "exportedPath": "3_campaign/factions/clan-cracton.html",
+      "dependencies": []
+    },
+    "3_Campaign/Factions/Cult of the Blood.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 38,
+      "exportedPath": "3_campaign/factions/cult-of-the-blood.html",
+      "dependencies": []
+    },
+    "3_Campaign/Factions/Freemen.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 91,
+      "exportedPath": "3_campaign/factions/freemen.html",
+      "dependencies": []
+    },
+    "3_Campaign/Factions/Green Coven.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 571,
+      "exportedPath": "3_campaign/factions/green-coven.html",
+      "dependencies": []
+    },
+    "3_Campaign/Factions/Oathsworn.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 67,
+      "exportedPath": "3_campaign/factions/oathsworn.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Charms/Armor/Charm of Ashen Time.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 144,
+      "exportedPath": "3_campaign/items/charms/armor/charm-of-ashen-time.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Charms/Armor/Charm of Snake's Tongue.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 9,
+      "exportedPath": "3_campaign/items/charms/armor/charm-of-snake's-tongue.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Charms/Armor/Charm of Taunterers Tongue.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 156,
+      "exportedPath": "3_campaign/items/charms/armor/charm-of-taunterers-tongue.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Charms/Armor/Charm of the Two Headed Turtle.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 359,
+      "exportedPath": "3_campaign/items/charms/armor/charm-of-the-two-headed-turtle.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Charms/Weapon/Charm of Feather Weight.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 115,
+      "exportedPath": "3_campaign/items/charms/weapon/charm-of-feather-weight.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Charms/Weapon/Charm of Speak with Dead.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 132,
+      "exportedPath": "3_campaign/items/charms/weapon/charm-of-speak-with-dead.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Charms/Weapon/Charm of the Blue Dancer.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 71,
+      "exportedPath": "3_campaign/items/charms/weapon/charm-of-the-blue-dancer.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Charms/Weapon/Charm of the Green Snapper.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 260,
+      "exportedPath": "3_campaign/items/charms/weapon/charm-of-the-green-snapper.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Charms/Weapon/Charm of Water's Bite.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 138,
+      "exportedPath": "3_campaign/items/charms/weapon/charm-of-water's-bite.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Important/Crest of House Salrus.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 245,
+      "exportedPath": "3_campaign/items/important/crest-of-house-salrus.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Important/Moon Sickle.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 124,
+      "exportedPath": "3_campaign/items/important/moon-sickle.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241021202724.png"
+      ]
+    },
+    "3_Campaign/Items/Important/Rory's Oathblade.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 552,
+      "exportedPath": "3_campaign/items/important/rory's-oathblade.html",
+      "dependencies": []
+    },
+    "3_Campaign/Items/Important/The Rites of the Green Kings, and the Queen Consorts of Moonlight.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 266,
+      "exportedPath": "3_campaign/items/important/the-rites-of-the-green-kings,-and-the-queen-consorts-of-moonlight.html",
+      "dependencies": []
+    },
+    "3_Campaign/Languages/Abyssal.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/languages/abyssal.html",
+      "dependencies": []
+    },
+    "3_Campaign/Languages/Celestial.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/languages/celestial.html",
+      "dependencies": []
+    },
+    "3_Campaign/Languages/Common.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/languages/common.html",
+      "dependencies": []
+    },
+    "3_Campaign/Languages/Dwarvish.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/languages/dwarvish.html",
+      "dependencies": []
+    },
+    "3_Campaign/Languages/Infernal.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/languages/infernal.html",
+      "dependencies": []
+    },
+    "3_Campaign/Languages/Sylvan.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/languages/sylvan.html",
+      "dependencies": []
+    },
+    "3_Campaign/Languages/Undercommon.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/languages/undercommon.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Cities/Kaerliv.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 178,
+      "exportedPath": "3_campaign/locations/cities/kaerliv.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Cities/Llorian.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 141,
+      "exportedPath": "3_campaign/locations/cities/llorian.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Cities/Lockshire.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 62,
+      "exportedPath": "3_campaign/locations/cities/lockshire.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Cities/Townsend.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 209,
+      "exportedPath": "3_campaign/locations/cities/townsend.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Lands/Basilisk Isles.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/locations/lands/basilisk-isles.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Lands/Bitter Water.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/locations/lands/bitter-water.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Lands/Bitter Water Veil.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 151,
+      "exportedPath": "3_campaign/locations/lands/bitter-water-veil.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Lands/Grass Sea.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/locations/lands/grass-sea.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Lands/Hinterlands.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/locations/lands/hinterlands.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Lands/Land of Always Winter.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/locations/lands/land-of-always-winter.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Lands/The Southern Reaches.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/locations/lands/the-southern-reaches.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/Lands/Three Sisters.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/locations/lands/three-sisters.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/POI/Bearhold Keep.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/locations/poi/bearhold-keep.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/POI/Branched Lake.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/locations/poi/branched-lake.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/POI/Curios Curosities.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 66,
+      "exportedPath": "3_campaign/locations/poi/curios-curosities.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/POI/Luminaris Arcnarium.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 91,
+      "exportedPath": "3_campaign/locations/poi/luminaris-arcnarium.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/POI/Selene's Temple.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 10,
+      "exportedPath": "3_campaign/locations/poi/selene's-temple.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/POI/Temple of Drasil.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1039,
+      "exportedPath": "3_campaign/locations/poi/temple-of-drasil.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/POI/The Quarry.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/locations/poi/the-quarry.html",
+      "dependencies": []
+    },
+    "3_Campaign/Locations/POI/The Ruins of the Passed Kings of Wood and Water.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 79,
+      "exportedPath": "3_campaign/locations/poi/the-ruins-of-the-passed-kings-of-wood-and-water.html",
+      "dependencies": []
+    },
+    "3_Campaign/Misc/Old Faith/Bloodwell Pit.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/misc/old-faith/bloodwell-pit.html",
+      "dependencies": []
+    },
+    "3_Campaign/Misc/Old Faith/Singers of Sea and Sky.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/misc/old-faith/singers-of-sea-and-sky.html",
+      "dependencies": []
+    },
+    "3_Campaign/Misc/Oathblade.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 0,
+      "exportedPath": "3_campaign/misc/oathblade.html",
+      "dependencies": []
+    },
+    "3_Campaign/Misc/The Old Sword of the House of Ash.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 28,
+      "exportedPath": "3_campaign/misc/the-old-sword-of-the-house-of-ash.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Baronet, Lady Salrus.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 104,
+      "exportedPath": "3_campaign/people/baronet,-lady-salrus.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Boy King.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 13,
+      "exportedPath": "3_campaign/people/boy-king.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Braum.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 70,
+      "exportedPath": "3_campaign/people/braum.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Daren the Greenblood.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 102,
+      "exportedPath": "3_campaign/people/daren-the-greenblood.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Grendel Harwin.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 125,
+      "exportedPath": "3_campaign/people/grendel-harwin.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Jack Scratch.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 74,
+      "exportedPath": "3_campaign/people/jack-scratch.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Krusa.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 52,
+      "exportedPath": "3_campaign/people/krusa.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Lady Thissleblack.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 179,
+      "exportedPath": "3_campaign/people/lady-thissleblack.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Milo.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 23,
+      "exportedPath": "3_campaign/people/milo.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Old King.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 37,
+      "exportedPath": "3_campaign/people/old-king.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Ser Danal.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 127,
+      "exportedPath": "3_campaign/people/ser-danal.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Ser Flint the Beggar.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 8,
+      "exportedPath": "3_campaign/people/ser-flint-the-beggar.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Ser George.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 8,
+      "exportedPath": "3_campaign/people/ser-george.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Ser Leona Blackmont.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 223,
+      "exportedPath": "3_campaign/people/ser-leona-blackmont.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Ser Sandauq Stillwater.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 742,
+      "exportedPath": "3_campaign/people/ser-sandauq-stillwater.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Sister Minorah.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 87,
+      "exportedPath": "3_campaign/people/sister-minorah.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Stag Lord.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 153,
+      "exportedPath": "3_campaign/people/stag-lord.html",
+      "dependencies": []
+    },
+    "3_Campaign/People/Vigmir Yllavaris.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 121,
+      "exportedPath": "3_campaign/people/vigmir-yllavaris.html",
+      "dependencies": []
+    },
+    "3_Campaign/The Party/_DEAD/Finnegean.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 368,
+      "exportedPath": "3_campaign/the-party/_dead/finnegean.html",
+      "dependencies": []
+    },
+    "3_Campaign/The Party/_DEAD/Hallbjorn.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 93,
+      "exportedPath": "3_campaign/the-party/_dead/hallbjorn.html",
+      "dependencies": []
+    },
+    "3_Campaign/The Party/_RESERVE/Novamere.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 967,
+      "exportedPath": "3_campaign/the-party/_reserve/novamere.html",
+      "dependencies": []
+    },
+    "3_Campaign/The Party/_RESERVE/Selene.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 947,
+      "exportedPath": "3_campaign/the-party/_reserve/selene.html",
+      "dependencies": []
+    },
+    "3_Campaign/The Party/Blume.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 959,
+      "exportedPath": "3_campaign/the-party/blume.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240307143655.png",
+        "lib/media/pasted-image-20240307143707.png"
+      ]
+    },
+    "3_Campaign/The Party/Cassia.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 143,
+      "exportedPath": "3_campaign/the-party/cassia.html",
+      "dependencies": []
+    },
+    "3_Campaign/The Party/Con'Niall.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 269,
+      "exportedPath": "3_campaign/the-party/con'niall.html",
+      "dependencies": []
+    },
+    "3_Campaign/The Party/Fyudor.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 782,
+      "exportedPath": "3_campaign/the-party/fyudor.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240307143438.png",
+        "lib/media/pasted-image-20240307143501.png"
+      ]
+    },
+    "3_Campaign/The Party/Ghorza.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 681,
+      "exportedPath": "3_campaign/the-party/ghorza.html",
+      "dependencies": []
+    },
+    "3_Campaign/The Party/Rory.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 668,
+      "exportedPath": "3_campaign/the-party/rory.html",
+      "dependencies": []
+    },
+    "3_Campaign/The Party/Willa.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 150,
+      "exportedPath": "3_campaign/the-party/willa.html",
+      "dependencies": []
+    },
+    "Rough Map.md": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 185,
+      "exportedPath": "rough-map.html",
+      "dependencies": []
+    },
+    "lib/media/burn.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 212733,
+      "exportedPath": "lib/media/burn.png",
+      "dependencies": []
+    },
+    "lib/media/create_bonfire.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 161067,
+      "exportedPath": "lib/media/create_bonfire.png",
+      "dependencies": []
+    },
+    "lib/media/illusionary_dart.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 226865,
+      "exportedPath": "lib/media/illusionary_dart.png",
+      "dependencies": []
+    },
+    "lib/media/shocking_grasp-1.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 402303,
+      "exportedPath": "lib/media/shocking_grasp-1.png",
+      "dependencies": []
+    },
+    "lib/media/message.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 724279,
+      "exportedPath": "lib/media/message.png",
+      "dependencies": []
+    },
+    "lib/media/shocking_grasp.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 849485,
+      "exportedPath": "lib/media/shocking_grasp.png",
+      "dependencies": []
+    },
+    "lib/media/thorn_whip.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 142435,
+      "exportedPath": "lib/media/thorn_whip.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240923194038.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1035025,
+      "exportedPath": "lib/media/pasted-image-20240923194038.png",
+      "dependencies": []
+    },
+    "lib/media/cure_wounds.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 656867,
+      "exportedPath": "lib/media/cure_wounds.png",
+      "dependencies": []
+    },
+    "lib/media/detect_evil_and_good.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 674399,
+      "exportedPath": "lib/media/detect_evil_and_good.png",
+      "dependencies": []
+    },
+    "lib/media/detect_magic.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 688313,
+      "exportedPath": "lib/media/detect_magic.png",
+      "dependencies": []
+    },
+    "lib/media/faerie_fire.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 690276,
+      "exportedPath": "lib/media/faerie_fire.png",
+      "dependencies": []
+    },
+    "lib/media/hex.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 192113,
+      "exportedPath": "lib/media/hex.png",
+      "dependencies": []
+    },
+    "lib/media/ligntning_tendril.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 268304,
+      "exportedPath": "lib/media/ligntning_tendril.png",
+      "dependencies": []
+    },
+    "lib/media/clay_touch.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 639810,
+      "exportedPath": "lib/media/clay_touch.png",
+      "dependencies": []
+    },
+    "lib/media/moonbeam.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1017819,
+      "exportedPath": "lib/media/moonbeam.png",
+      "dependencies": []
+    },
+    "lib/media/prayer_of_healing.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 128691,
+      "exportedPath": "lib/media/prayer_of_healing.png",
+      "dependencies": []
+    },
+    "lib/media/shattering_shield.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 875705,
+      "exportedPath": "lib/media/shattering_shield.png",
+      "dependencies": []
+    },
+    "lib/media/web.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1080544,
+      "exportedPath": "lib/media/web.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240610184145.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 297683,
+      "exportedPath": "lib/media/pasted-image-20240610184145.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241209192934.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 739668,
+      "exportedPath": "lib/media/pasted-image-20241209192934.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240401183006.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 137967,
+      "exportedPath": "lib/media/pasted-image-20240401183006.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240401182929.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 258394,
+      "exportedPath": "lib/media/pasted-image-20240401182929.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240610184431.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 247845,
+      "exportedPath": "lib/media/pasted-image-20240610184431.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241118202015.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 4040706,
+      "exportedPath": "lib/media/pasted-image-20241118202015.png",
+      "dependencies": []
+    },
+    "lib/media/greenbelt.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 83649,
+      "exportedPath": "lib/media/greenbelt.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241021202724.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 142106,
+      "exportedPath": "lib/media/pasted-image-20241021202724.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240307143655.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 161675,
+      "exportedPath": "lib/media/pasted-image-20240307143655.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240307143707.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 440450,
+      "exportedPath": "lib/media/pasted-image-20240307143707.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240307143438.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 12475829,
+      "exportedPath": "lib/media/pasted-image-20240307143438.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240307143501.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1763888,
+      "exportedPath": "lib/media/pasted-image-20240307143501.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 225854,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 19472,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 131021,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 722641,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1736828274730,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
