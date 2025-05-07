@@ -1,0 +1,75 @@
+- [[Ghorza]] and [[Fyudor]] are not here today (which is okay!)
+- The 4 of us here have a feeling of pulling in our stomach. We blink and are no longer in town
+- [[Greenbelt]] is waiting for us smugly, and they want to make a deal
+	- The monster in the old [[Temple of Drasil]] has gone on a rampage
+		- It was a mutated bear since last of our knowing; 2 -> 7 on the mutation scale
+	- Greenbelt says we can take anything that doesn't belong in the temple, and it will probably pay us after the job is completed
+		- Don't take things that are used in the temple, like the walls, or candles, etc.
+	- Greenbelt gave us potions for spell slots back, but [[Novamere]] and [[Blume]] now owe it another favor (they are the only one who got the potions, and they drank them right away)
+	- Other threats
+		- Trees that have human faces embedded into them, merging with the bark. They are not welcoming to visitors
+- We make our way to the temple, where we start to hear and see signs of the bear
+	- [[Selene]] scouts it out, sees the bear and her ring goes cold
+		- Objects going cold are a bad omen for [[Selene]]'s faith, a warning from the sun god
+- [[Novamere]] makes some noise, luring the bear to the waiting & hidden party
+- As the bear approaches, we see it is covered in wounds, branches & thorns. Some of the branches are coming back out of it and growing back into it
+- We are fighting the bear
+	- [[Blume]] does a nature check, rolls bad, but these types of mutations are caused by proximity to gates to different plains of existence such as the fey wild. This could be the cause of the mutation?
+		- Mutations like this occur in extended presence of untethered magic
+	- [[Rory]] checks to see if it's attacking because it's in pain or just because it's the way it is. It has a branch growing right into its eye, so it's likely because it's in pain
+	- "It's [The Brown One]'s turn" - Aiden
+	- Blume goes down and gets passed a note 
+		- "Her name is [[Brown One]]. Speak it not."
+	- Blume gets revived by [[Selene]] and speaks the name :) 
+		- [[Brown One]] looks at him
+		- "You know my name now child. Take care with it.", it says in [[Sylvan]]
+- Combat is over
+	- [[Rory]], [[Novamere]], & [[Selene]] all start trying to help the bear by removing the branches from the bear. [[Rory]] specifically puts their sword down to try to help and make themselves appear as not a threat, then removes some of the branches with the bear's consent
+	- The bear sees the sword [[Rory]] holds
+		- "That is a very old sword for a very young wielder. I do not know its name, but that is an [[Oathblade]] my dear. Many years ago, centuries, swords of these were given to warriors bound by oaths that reached into death. They served their king / faction. These blades were passed down knight to squire, but lost to time. I have not heard of them in many many years. The only one I am aware of that's still around is [[The Old Sword of the House of Ash]]"
+		- [[Blume]] asks "How do I take care of your name?"
+			- "Speak not of it until the funeral. It is your responsibility to keep it."
+		- [[Novamere]] asks about the deity he has been encountering (in [[Celestial]])
+			- Some of the gods that match the description are probably dead by now
+				- One of her brothers, [[The First Beast]]
+				- One of her kin (uncle?) [[Lightning in Flight]]
+				- "You do not have the stench of [[The Drowned]] upon you. If you did, we would all know."
+				- [[The Good Son]], sea spray is part of his domain
+				- [[The Lord Captain]], god of sailors
+				- Liadians (?) old son, [[Fishmonger]]
+				- Any unknown divinity could very well just be [[The Stranger]], the maimed god
+					- "If that is what you experienced, you will live through an interesting time"
+- We get more information, see [[Brown One]] for more info
+- [[Brown One]] and [[Greenbelt]] have a nice chat where greenbelt is a little rat
+	- The curse causing her to go on a rampage has happened before in the past many times
+- Greenbelt gives us a scroll with information as a reward for completing his task
+- [[Brown One]] promises us a boon and walks with us to the [[Temple of Drasil]]
+	- She hands Novamere two scrolls as well as a pouch
+		- One of those will help us discover information we are looking for
+			- We have 3 questions to the DM and we get information 
+		- One transforms into a small pearl with a hole in it
+			- [Pearl of Power]
+			- Requires attunement
+		- In the bag is super fine, almost glimmering ash. Smells of sliver and smells heavily of salt
+			- "This is to help that poor soul you were assisting in town. [[Jack Scratch]] I think was his name? This mixture has 7 uses and can purge the influences of mortal necromantic magic in any shape or size. You should only need to use one of these on him. A small sprinkle into his tea should do..."
+			- It would probably kill any necromantic creature that consumes it
+			- Catch his throw up in a metal container so it doesn't go into the earth
+			- DO NOT LET IT TOUCH YOUR SKIN, OR IT WILL EAT YOUR SKIN ALIVE?????????
+			- Disposing of it works like creating holy water, or just a fuck ton of salt
+	- She gives Selene a small beautiful piece of artwork that shows a bear. She recognizes this bear as [[Brown One]] (although looking differently than she does now) standing beside a stag. Beside them also stands a large stork. The Stork and stag are common symbols of [[Drasil]] and [[Posaunia]]. This artwork is as old as the temple itself. 
+		- It is used to assist and heal the holder, it's small and could be worn by the holder
+		- Requires attunement
+	- She gives Blume a very small leather bound book. They are notes of a very very dear and very very dead friend 
+		- Cover has the words "[[The Rites of the Green Kings, and the Queen Consorts of Moonlight]]"
+	- Her and Rory have a forehead mind-meld for a moment, as she gives Rory her thanks
+		- They walk to a pool that is similar to a [[Bloodwell Pit]], and Rory is told to dip the sword into the pool of water
+		- As she dips the sword in, the whole temple becomes illuminated. As she pulls the sword out, it is larger and less scarred. It's not quite a full longsword, but it is an arming sword now
+			- 1d8 damage, one handed
+		- "So I was right.... Interesting.... Your Eldritch blast smelt of water, so I thought this would be a good idea to try"
+		- Her best bet to find more information is to seek out [[The Ruins of the Passed Kings of Wood and Water]] ([[Passed Kings of Wood and Water]])
+			- [[House Reventree]] shared the kingship, not referring to them but their predecessors
+		- "From water it came, water you gave. Don't be afraid to do that again. May it one day show you its full glory. On that day, or after, I would love to see you again in these halls once more."
+- Selene asks about her dreams but gets no clear answers
+	- She wears one of the father's rings
+	- All 3 of the gods selene works with are speaking to the current events through her ring, which by this point is covered in frost
+- Those present level up!

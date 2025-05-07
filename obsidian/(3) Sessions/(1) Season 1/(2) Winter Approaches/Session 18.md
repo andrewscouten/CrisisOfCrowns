@@ -1,0 +1,72 @@
+- [[Con'Niall]]'s new name is [[Con'Niall]]
+- [[Greenbelt]] will not save us again
+- Pedestal in the center of the room, [[Ghorza]] goes to investigate
+	- Corpse currently on the table of an altar
+	- She picks up a large piece of obsidian and some gem-stones
+- There are some non-traditional spells that can use gemstones as catalysts including obsidian
+	- Often necromantic magic i†n nature
+- We put some sigils we looted into some matching holes in the wall, and some stone clicks backwards
+- We rescue some prisoners, saving 9 more people
+- In the quarry, there's a path that leads down even deeper below the 1st level
+- We meet a rock-octopus named [[Bryan]]
+	- It speaks telepathically, is very nice to us
+	- Warns us about large rocks that have taken over the minds of smaller rocks
+	- The smaller rocks are angry
+	- Bryan eats other rocks, but not those
+- We kill the mean rocks, and Bryan eats them and goes into slumber
+- We gain favor with Bryan and his friends the rock mephitis, as [[Con'Niall]] gives them a former goblin hostage to eat
+- Mine has been closed for a year about, the injured have lived and are slowly regaining strength
+	- We offer to take people back to town, and jobs here if they want them
+- [[Con'Niall]] sees symbols in a circle of stones
+	Greenbelt -> dragon eating itself
+	cresant moon -> [[Con'Niall]] remembers
+	dew drops
+	rose
+	2 half faces -> [[Con'Niall]] remembers
+	- [[Blume]]'s family has worked with elder spirits, the only one that comes ot mind with the broken moon is an arch fey that they only know as
+		- "The lady of the third moon"
+		- "Moonlit Queen"
+		- "The Hag Mother" X
+		- Connected to elder magic and other fey and primal magic
+	- The 2 sided face has the title
+		- "Forget-me-not"
+		- Elder spirit of memory and knowledge
+- We meet Gorza's cousin
+	- [[Carver Moorn]]
+	- [[Clan Moorn]]
+
+LOOT:
+- 100 silver worth of assorted silver and copper <= [[Ghorza]] picks up
+- 4 gemstones of unknown rough cut quality
+	- 1 is a moonstone; 1 is onyx; 1 is obsidian; 1 unknown red
+- Splint armor from blackmont
+- Charm that the elder was using is magical, blume yoinks it
+- One hobgoblin was wearing very nice armor that [[Rory]] takes
+- Blackmont has a masterwork greatsword that [[Con'Niall]] grabs
+- Some leather armor that can be scrapped or traded
+- Leader was wearing an iron and bronze crown with no gems
+- In the loot cave we uncover
+	- 1 gold, 57 silver, 2312 copper <= 1 gold that goes into the group purse
+	- 3x bottles that are clearly potions of some kind
+		- 1 has a fingernail the size of a palm inside of it => giants strength
+		- 1 has flickering embers inside
+		- 1 has a spider that has its legs twitching => spider climb
+	- Spell scroll
+		- 2nd level bane, spell save 12
+	- Magical panpipes
+	- Giant longsword
+	- Wand <= Blume attuned
+		- Imbued wooden wand or rod, spell casting focus, made out of caderian manchellen wood
+		- Damage dealing spell using this as a spell casting focus
+			- +1 damage bonus to acid / poison once per spell (cantrips count, 
+	- Magical clothing
+		- Self repair clothing 
+	- Amulet of bronze gears that faintly click
+	- Jug with smooth almost buttons on it, when a button pressed it fills up
+		- Alchemy Jug
+	- Eye and brow made out of cut gemstone.. It kinda blinks
+		- Mechanically prosthetic eye
+	- Random academic books & a small ledger of former quarry 
+	- Cloak made out of a banner of a local house
+		- Banner of [[House Tallmadge]]
+- 2 stones that have 3 uses each that can store spells

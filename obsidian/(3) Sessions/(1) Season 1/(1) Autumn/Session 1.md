@@ -1,0 +1,52 @@
+**LOCATIONS**
+- [[Bitter Water Vale]]
+- [[Kaerliv]] 
+
+**SESSION**
+- We find ourselves about a week east of [[Lockshire]] in the small town of [[Kaerliv]]
+- Important stop from [[Lockshire]] <-> [[Three Sisters]]
+- There is an economic boom, largest harvest in 50 years
+- Town is throwing an event for the local orphanage
+- Town Crier
+	- The [[King Garette Norcross|Old King]] died a few months ago, we are being ruled by a 9 year old [[Boy-King]]
+	- Had some people captured on crimes, executing prisoners
+	- Took [[Grendel Harwyn]] of the [[Three Sisters]] captive
+		- Scheduled death for the [[Red Feast]]
+- Announcements
+	- [[Sister Minorah]]
+		- Half-elf woman, persist, 2 holy symbols: sun, moon
+		- Short prayer to sun & moon goddesses
+	- [[Ser Danal]]
+		- From [[Clan Cracton]]
+		- Levy, everyone living there must train
+		- Large ass dog, 4ft, named horse, is a horse
+	- [[Jack Scratch]]
+		- Says there are goblins to murder if you want
+- Tavern time
+	- Nine toes tab, he plays the lute
+	- Chicken soup & bread
+- Jobs
+	- Medicine woman gone missing
+		- Missing for a week
+		- No struggle or blood
+		- People come back from the area, just not her
+		- A day away from village
+		- 15 silver reward
+	- Bodies missing in graveyard
+		- Whole bodies go missing
+		- Only 3 bodies
+			- Very very old, has some things they were buried with
+			- Three years old
+			- Not yet buried
+		- None share any themes
+		- Drag marks go into woods
+		- 5 silver per body recovered
+	- Goblins
+		- Splinter group named [[Dog Skinners]]
+		- Setup in ruins about 3 days away
+		- 3 silver per head, 2 ears, or nose
+		- Set of fortified ruins
+		- A lot of them, a whole lot
+			- “Don’t go there yet”
+- Town is under attack, we’re all deputized
+- Combat

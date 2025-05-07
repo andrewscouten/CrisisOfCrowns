@@ -1,0 +1,1 @@
+Once wielded [[Rory's Oathblade]] about 4.5 thousand years ago

@@ -1,0 +1,126 @@
+- Visions for other party members:
+    - [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html)
+        - Walking along randomly in a haze... Finding themself in a cave
+        - Images on the cave walls of what appears to be a werewolf form with large orcish tusks. Might have something to do with [Agrius](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/agrius.html), the first werewolf. He follows a path deeper within
+        - Lounging in the center of a room is a lounging large wolf, shock white, red eyes, and tusks extending from the lower jaw (recognized as [Agrius](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/agrius.html))
+        - [Agrius](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/agrius.html) stands up, staring straight at [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html). It breathes in and [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html) is dragged towards it. This wolf is not only large, but massive. A wolf larger than the dragon we fought
+        - Dialogue
+            - [Agrius](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/agrius.html): "You have come far in your journeys... and yet you do not seem to grasp this gift you have been given"
+            - [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html): "I am your student, how can I remedy this lack of understanding?"
+            - [Agrius](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/agrius.html): "You fear this gift, don't you?"
+            - [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html): "I fear losing control.." The gnawing feeling felt deep within gets worse as he says this, clawing to get out. After some reflection, instead of pain he feels cold. A clawed hand rips down out of his stomach as an ethereal form of himself crawls out of his body... It's [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html), but hazy with pure white empty eyes... Instead of blood the claws drip ink.
+            - [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html)'s alter self and [Agrius](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/agrius.html): "To fear it is to be weakened by it. Losing control is but a part. To experience it is to learn it. Your fear gives it power. The last time I blessed someone with this gift was 15 years ago. I do not give this gift often. If you fail to live up to it again, I will take it from you. Consider this your only warning."
+            - [Agrius](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/agrius.html): "Now it is time to look within yourself, to look upon yourself and the wolf."
+            - [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html): "Do not harm my friends, this is my agreement."
+            - [Agrius](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/agrius.html): "We will see. The bloodlust must be sated. You are the [Hound of the Huntsman](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html), don't forget it."
+            - Some buffs
+                - Feral attacks count as cold iron for the purposes of resistances and immunities
+                - Feral attack, you can choose to forgo adding prof to attack roll, if you still hit add prof twice to damage roll (GWM)
+    - [Willa](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/willa.html)
+        - After the dragon fight, laying down in a meadow getting pulled into a trance. Eyes opening she finds herself in a clearing surrounded by dead trees with various symbols, charms, and people hanging from them
+        - There is a woman sitting on a throne , ashen skinned ethereal woman recognized as [Rea'Thain](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/rea'thain.html) Tear troughs across the face in blood red, ritual daggers embedded into her hand. She sits there staring at [Willa](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/willa.html)
+        - Dialogue
+            - [Rea'Thain](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/rea'thain.html): "You have done much and more. You've traveled and cleansed something that was taken from me. You've completed tasks and given yourself new ones. You have done much to make me proud. But I have a new task for you. Within the mortal coil there is a soul who has begun to exert influence upon the weave that I command. This [False Queen](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/false-queen.html) aims to.. if not replace me... at least intends to defraud me and mine what is ours. She has been defrauding my churches and taking my followers. I task you with rooting out this influence and finding those who converted. You shall be my inquisitor. Arise [Lady Willa, Inquisitor of the Whispering Queen](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/willa.html). You have earned a place among my followers in the afterlife." She steps forward, the bone pile going into the ground before ripping a dagger out of her skeletal hand. She grabs [Willa](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/willa.html)'s spell book before stabbing the book with the dagger.
+        - Buffs
+            - No one can open her spell book but herself
+            - Learned 3 new spells: Captive Spirit, Corpse Bomb, Any cantrip from the necromancy school as if it were a cleric spell
+                - These spells do not count as prepared
+            - Subclass feature of reaper from death cleric in addition to her current subclass
+- We come back to just reading the scroll of skin from [Session 39](https://crisis-of-crowns.games-with-friends.org/\(3\)-sessions/\(3\)-winter/session-39.html), where we learned of the fate of our allies and the identity of the [Stag Lord](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html), [Stag Lord](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html)
+    - [Krusa](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/krusa.html) also got a letter similar to ours, but this time with animal hide
+    - [Ser George](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/ser-george.html) hands yet another scroll to [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html)
+        - Essentially a "ransom note" saying "come and get them". [Lady Thissleblack](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/lady-thissleblack.html), [Milo](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/milo.html) and the rest of the nameless company are all imprisoned at the [Fist of the Freemen](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/poi/fist-of-the-freemen.html). We have a month. Every day that passes past a month, she will kill someone
+        - The [Fist of the Freemen](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/poi/fist-of-the-freemen.html) is a long dead noble family's fort deep in the [Land of Always Winter](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/lands/land-of-always-winter.html). It is at least 2 months on horse back or 4 months on foot.
+        - The most southern city in the [Land of Always Winter](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/lands/land-of-always-winter.html) is called [Salt Grave](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/cities/land-of-always-winter/salt-grave.html)
+        - Wrapped inside the note is a remove and flayed hand of a 7 year old child ([Milo](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/milo.html)?).
+    - [Krusa](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/krusa.html) speaks up, they took in the survivors. [The Quarry](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/poi/the-quarry.html) is doing okay despite the attack, they were able to defend themselves. Nothing remains of [Kaerliv](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/cities/kaerliv.html), it is now the [Ruins of Kaerliv](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/cities/kaerliv.html)
+- [Con'Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html) calles out to [Grendel-Harne](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/greenbelt.html), AKA [Greenbelt](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/greenbelt.html)
+    - [Greenbelt](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/greenbelt.html)'s head pops out of a portal, he's in the middle of a battle. He's fighting people as he talks to [Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html).
+    - [Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html) wants him to take us to [Salt Grave](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/cities/land-of-always-winter/salt-grave.html). He offers his afterlife to [Greenbelt](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/greenbelt.html) to get us there. [Greenbelt](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/greenbelt.html) accepts. "For the good of the [Wild Wood](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/lands/wild-wood.html)"
+        - He gets a blood teleportation circle on his forehead, one time use to get us to [Salt Grave](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/cities/land-of-always-winter/salt-grave.html).
+- The lord of the town approaches us with an offer to resupply us. An unbroken wax seal scroll that allows us to get everything below market value. "Go and save your people."
+- [Rkto](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/ancients/rkto.html) pauses [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html) and [Ghorza](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/ghorza.html). Tapping an impatient claw "You have one day before I teleport you to me."
+- We buy some items before going to bed in a dream...
+    - We wake up in a dungeon and in front of us is an open door... We are essentially astral projecting. We walk through the dungeon and look through the halls seeing many cells. Peering into the cells we see people, many many people... We see [Lady Thissleblack](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/lady-thissleblack.html) chained to the wall.. We see [Milo](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/milo.html) also imprisoned, not able to see his arm.... We see Stint, still alive. We see the [Stag Lord](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html).
+        - They mock us, grabbing a skull and replacing it with their own. Their flesh grows around the skull, eventually we see [Stag Lord](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html).
+        - It happens again, the replacement of skulls, this time we see [Baronet, Lady Salrus](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/baronet,-lady-salrus.html).... "I killed her when we first met her" ... She has been sending us on missions this whole time.... "Thank you for all the work you've done for my family. It was so lovely of you to take care of most of my rival bandits and that minor annoyance of the necromancer." Another skull that has ram horns growing down... It's [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html)'s great grandfather.... "This tells you how long I've been alive, hasn't it?"
+        - Another skull is worn... [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html), [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html), [Ghorza](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/ghorza.html), and [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html) all see the [Boy King](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/boy-king.html)... The [Stag Lord](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html) then ages the [Boy King](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/boy-king.html)'s body 20 years, saying he can change the age at will. He then takes off the skull, holding it out in front of him. A body grows from the skull, no life behind the eyes, but the [Stag Lord](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html) can control them autonomously and at will.
+        - [Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html) asks what their oldest skull is... It's confirmed to be [Stag Lord](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html).
+            - "I think I founded this house about 1900 years ago. I am [Stag Lord](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html), named for my ancestor. I am the founder of [House Blackmont](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/factions/royals/house-blackmont.html). I go back and take it over every 100 year."
+        - "Before you leave I give you one last challenge..." Flesh contorts around the deer, growing a new face. Standing in front of us we see a creature with a stag head and human body. "Get here before I corrupt the rest"
+- We wake up from our dream, now standing before us is [Rkto](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/ancients/rkto.html), a giant bear with thorns growing out of its body.
+    - [Rkto](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/ancients/rkto.html) wants to talk to [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html) about the deal they made in [Session 29](https://crisis-of-crowns.games-with-friends.org/\(3\)-sessions/\(3\)-winter/session-29.html)
+    - [Rkto](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/ancients/rkto.html) causes [Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html)'s thorny heart to pulse... and pulse.. and pulse... it visibly contorts as he coughs up blood. The thorns cause him to start choking before he vomits a chunk of thorns.. There's still more in his throat that he has to pull out. Eventually he gets to the last of it, pulling out a chunk of rotten plant matter wrapped in thorny bundles. He is no longer exhausted but has taken 16 dmg
+    - We follow her into the temple, it's much more clean and taken care of. We see [Selene](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/_reserve/selene.html) as she waves at us.
+    - [Rkto](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/ancients/rkto.html): "You've done much, but this task is too important. I give you aid as I can." She walks up to each of us, lifting a claw up and tapping each of us on a forehead.
+        - We can give ourselves advantage on one saving throw even while unconscious. We can us this after we see the result of the saving throw
+        - [Willa](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/willa.html) is death warded for an unlimited duration until it is expended
+    - She walks into the [Bloodwell Pit](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/misc/old-faith/bloodwell-pit.html) of the temple before sitting down. She offers us rest if needed.
+- [Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html) dunks [Krom](https://crisis-of-crowns.games-with-friends.org/\(3\)-sessions/\(0\)-loot/\(2\)-important-items/oathblades/krom.html) into the [Bloodwell Pit](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/misc/old-faith/bloodwell-pit.html), it absorbs energy similar to [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html)... It's an [Oathblade](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/misc/oathblade.html)
+- [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html) dips herself and [Sentinel](https://crisis-of-crowns.games-with-friends.org/\(3\)-sessions/\(0\)-loot/\(2\)-important-items/oathblades/sentinel.html) into the [Bloodwell Pit](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/misc/old-faith/bloodwell-pit.html) and she is pulled under.
+    - She sees the [Lady of Teeth](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/fey/lady-of-teeth.html)... "For what it's worth we didn't know. She may be the keeper of secrets but even her knowledge is limited... Even mine.... But, I am not the one who brought you here. Someone else wants to speak."
+    - She sees a sandy haired blond man in scratched full plate, carrying a version of [Sentinel](https://crisis-of-crowns.games-with-friends.org/\(3\)-sessions/\(0\)-loot/\(2\)-important-items/oathblades/sentinel.html) taking the form of a chipped short sword with a teardrop shaped shield on his arm. This is [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html)'s dad, [Flint](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/flint.html)
+        - [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html): "Oh dad... Did you know this would happen?"
+        - [Flint](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/flint.html): "I wish it hadn't. You were chosen, and I wish it didn't. I am not the first in my family to hold this blade. It travels as it wishes, but it comes back for favorites. I never dreamed it would come to you."
+        - [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html): "What did you do with it?"
+        - [Flint](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/flint.html): "I saved your mother. It's why I am the way I am." He takes a step into the light, his entire body becoming rotten... He steps back, reverting to his form. "My service will never end here. I pray you do not end up here like me. I cannot talk to you often, but in places of power or in times of strife we might be able to talk. I wish I could have raised you and your brother"... BROTHER? ... "[Dorin](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/dorin.html).. Dorin ne'Mallory... Last I heard he was a man at arms serving as an in house guard for [Bethany Irons](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/bethany-irons.html), [Ser George](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/ser-george.html)'s full blooded sister. He'll be... 22? He left to be a page when he was 2... But you beat him to a knighthood... He might be going by [Dorin Flinson](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/dorin.html) now"
+        - [Ser George](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/ser-george.html) knows this information, and he didn't tell [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html)
+        - emotional damage
+- [Willa](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/willa.html) offers pain in her hand for some boons
+- [Ghorza](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/ghorza.html) goes to a quite place to make peace and offer thoughts to [Myrmidia](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/the-three-siblings/myrmidia.html)
+- [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html) dunks himself into the [Bloodwell Pit](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/misc/old-faith/bloodwell-pit.html), trying to kill his fear.
+    - He feels claws trying to tear out of him. He holds himself under, holding his breath as he feels his heartbeat raising. The scratches continue, but he holds it all in. He comes out feeling more in control.
+- [Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html) then teleports us to [Salt Grave](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/cities/land-of-always-winter/salt-grave.html), a two week's journey to [Fist of the Freemen](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/poi/fist-of-the-freemen.html). [Ghorza](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/ghorza.html) brings her horse, [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html) uses find steed. Using the map, it's a straight shot to the fort.
+    - We do not see a sign of wildlife for two weeks.... No birds, no footsteps, no tracks, no fresh food
+    - The morning of the 14th day, we see a crow sitting on a branch staring at us. [Willa](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/willa.html) shoots it. It keeps coming back to life, and we keep shooting it until it stops coming back. It was about 6 times before it fully stopped moving.
+- We come up to a keep, seeing a large bloodied hand and a stag skull the size of [Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html) hanging from the walls. In one giant tower we see a drum tower (walls surrounded by a tower).
+    - The manor yard is empty aside from a few bodies. Sitting on top of the manor door is a relaxed woman with a demon arm in black plate armor... [Stag Lord](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html)... She whistles and from atop of the drum tower a giant beast jumps and lands in the courtyard. A gigantic black furred, black mane lion with a giant glade grafted into one of its hands... Frost ridden undead come out of the ground... And humanoids come out from the manor (some of which we recognize, have killed before, and have apparently been brought back): the healer bugbear, a large dwarf in full plate... [Ser Danal](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/ser-danal.html)...
+    - We ready our weapons, form defenses.... [Blackmont](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html) holds up a finger... "One more thing"... she snaps her fingers, people appear at spear point: [Lady Thissleblack](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/lady-thissleblack.html) and [Milo](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/milo.html)
+
+- Enemies:
+    - mini (throwing it back) Blackmont
+    - d20 (silver) lion, on the black 20x20 cube
+    - d20 (candy cane) elder (spellcaster)
+    - d12 blackmont's elite soldiers
+    - d12 (golden) danal
+    - d10 draconians
+    - d8 cultists
+    - d6 bandits
+    - d4 skeletons
+- Allies:
+    - d8 (red sparkle) Sister Minorah
+    - mini (dwarf) Krusa
+    - mini (old ghorza) Ser George
+- Initiative:
+    - Willa 26
+    - Grafted Lion ?
+    - Ghorza 20
+    - Cassia 18
+    - Bandits ?
+    - Soldiers ?
+    - Cultists ?
+    - Draconians ?
+    - Elder (spellcaster) ?
+    - Fyudor 14 <- We left off here?
+    - Blackmont ?
+    - Skeletons ?
+    - Niall 10
+    - Krusa ?
+    - Blume 10
+    - Rory 4
+    - Sister Minorah ?
+    - Ser George. ?
+- Effects:
+    - Concentration:
+        - Willa: Aura of Vitality
+        - Blume: 6th lvl Cloud Kill Scroll; 6d8 poison, moves 10 ft away from him at start of his turn
+        - Sister Minorah: Crusader's Mantle; +1d4 radiant to melee spell attacks, unarmed strikes, weapon attacks
+            - Buffing: George, Krusa, Blume, Willa, Herself
+    - Rage: Krusa, Niall
+    - Wild shape: Cassia as a rhino
+    - Death ward: Willa
+- Misc:
+    - Outside walls are 15 ft, walls of tower are 30 ft (cookie tin)
+    - Blume and Fyudor(?) both have 18 AC until the end of the hour because of the charm
+    - Rory is off of their steed, it is currently making its way around the walls closer to the middle tower
+    - Elder vanished but is not dead... Are they going to go kill a hostage?

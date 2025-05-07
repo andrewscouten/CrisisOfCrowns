@@ -1,0 +1,20 @@
+- We finish up with [[Curios Curosities]] and go to the [[General Good's General Goods Store]]
+- The owner of the [[General Good's General Goods Store]] gives us a [[Glass Flower]] which can give us more discounts in the future at other general goods stores that are members of the same guild
+	- We buy some rations, wood stuff, carpenters tools, and a book with local flowers and such in it
+	- Side quest: 50 silver for the head of a bandit that killed a daughter of some noble
+- Blume buys a shit ton of charms and spell scrolls
+	- Charms
+		- 2x [[Charm of the Blue Dancer]]
+			- 1 goes to [[Rory]]
+			- 1 goes to [[Blume]]
+		- 1x [[Charm of the Two Headed Turtle]]
+			- Goes to [[Ghorza]]
+		- 1x [[Charm of Feather Weight]]
+			- Goes to [[Con'Niall]]
+		- 2x [[Charm of Water's Bite]]
+		- 1x [[Charm of Speak with Dead]]
+	- Spell Scroll
+		- Scroll of call lightning (3rd level)
+- Information about a town called [[Grandam]], sightings of a band of centaurs in the area moving south. Last seen 3 days north of the town. Estimated to be headed towards [[Llorian]] or some of the ruins in the area
+- We see a tree with 7 people hanging on it, they are caught in an eternal not-dying but in a state of decay. [[Willa]] is a cleric of hers, which is an uncommon class: Goddess of necromancers, hemocraft (blood magic), travels, patron of artisans and craft, lady of secrets
+- 

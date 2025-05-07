@@ -1,0 +1,1 @@
+Demon enslaved and used in mortal armies

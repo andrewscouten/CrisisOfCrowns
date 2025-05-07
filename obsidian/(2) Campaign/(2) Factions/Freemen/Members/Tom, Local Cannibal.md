@@ -1,0 +1,2 @@
+- [[DEAD]]
+- Once a member of the guard in [[Kaerliv]] 

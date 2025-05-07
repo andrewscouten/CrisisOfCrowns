@@ -1,0 +1,23 @@
+- We haul the owl-bear into town, using the meat from the hunt to throw a feast. It's as happy as anyone has been for awhile, at least since the raid. There are games, drinks, and free food... Everyone passes out happy
+- A rider from the [[Boy King]] arrives in town in the morning, they go to [[Baronet, Lady Salrus]].
+	- [[Finnegean]] eavesdrops: The [[House Salrus]]'s will not follow the [[Boy King]], it will continue to follow House [[House Reventree]]... They will not listen to the puppet of the boy king
+	- You can tell the lord protector exactly what my sister has said... The only thing that will come from it is your death
+- [[Baronet, Lady Salrus]] and the house are going to [[Boar Head's Keep]], then to [[Lockshire]], home of [[House Reventree]]
+- Our company can now expand. We may now each recruit 9 people, including [[Krusa]].. [[Con'Niall]] convinced us to have 100 total (including us). The last 30 are guards at most
+- Previously, these houses were kings. Now they are high-lords:
+	- The king in green, Trent
+	- [[House Reventree]] were kings
+	- House gregourious volder, now extinct
+	- House feld'wvel aer'qusv'n
+	- House grand anvil
+	- Broom-hilm
+- The lord protector is not regent, chosen over the boy king's own mother
+- 
+
+LOOT
+- ~~Bottle of "don't put it on your skin", single dose of wyvern venom~~ => [[Con'Niall]]
+- ~~Bottle of oil of slipperiness (grease) ~~=> [[Finnegean]]
+	- ~~1 freedom of movement, or 1 grease spell~~
+- ~~Potion of greater healing~~ => [[Ghorza]]
+- Scroll of lightning bolt 4th level => [[Blume]]
+- ~~1st level ensnaring strike~~ => [[Rory]]

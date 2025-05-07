@@ -1,0 +1,33 @@
+- We come to a fork in the road
+	- One way is an owl bear, another way is a wisp
+	- [[Con'Niall]] goes to scout the owl bear, gets caught looking around, screams, and runs
+	- [[Cassia]] and [[Rory]] go to scout the wisp, hear screaming, keep walking
+- We get out without owl bear combat, thank goodness. We follow the wisps more until we find a clearing with altars...
+- Altars
+	- 4 corners
+		- Longsword, spear, dagger - 3 main gods of war; [[Ghorza]] recognized
+		- Sun and moon - Twin goddesses of sun & moon; [[Cassia]] recognizes
+		- Shark jaws & fish - 
+		- Wheat crossed by sickle - Rydan, is the god of the dead & cyclical creation & destruction of time, lord of harvest, god of the field of wheat
+	- Center
+		- Stone bowl, looks and feels more like old magic altars, but not quite as old
+- Everyone offers things at the altars, some to more specific deities
+	- [[Ghorza]] to one of the gods of war
+	- [[Rory]], asking the sword - "Who is we? We, who are..."
+	- [[Cassia]] to the god to Rydan
+	- [[Con'Niall]] to general
+	- [[Blume]], [Find Familiar] learned, raven, plant
+	- [[Willa]] and [[Fyudor]] both get +1 inspiration as well, assuming they gave something as well
+- We go to a steadfast, ran by [[Sir Kalev]]
+	- We came from the right side, going down and left![[ref_map2.png]]
+	- We spend the night here, getting a long rest
+	- The last person to have [[Con'Niall]]'s title was maybe 100 years ago
+		- Records will be sent to [[Kaerliv]], a master of the guard was asked to research this
+		- What they do know, the last person to hold the title was a hedge knight in good standing with "higher" nobility; the type that don't care for the common folk
+- Skill checks to avoid combat with a now revived [[Ser Leona Blackmont]]
+- We arrive in [[Llorian]]
+- A small child, [[Elmo (Elmojh)]] gathers our attention
+	- [[Midnight Monastery]], half a day's travel on foot
+	- [[House Mother's]], orphanage 
+- [[Ghorza]] befriends, with money, a horse named [[Morgause]], canine teeth :(
+- 

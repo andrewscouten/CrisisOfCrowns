@@ -1,0 +1,7 @@
+- We meet an old man on the road right outside of town
+    - [[Dora]], headed to Lester
+    - He knew [[Rory]]'s dad, [[Flint]]
+- South of [[Llorian]] is a very old temple that might be able to help [[Con'Niall|Niall]]
+    - Temple of the Golden Leel
+- Magic shop keeper [[Curios Curosities]] by [[Curios]]
+    - We all buy a lot, [[Con'Niall|Niall]] getting his pick enchanted, [[Cassia]] gets a really good cloak, [[Blume]] gets a [[Moon Sickle]]

@@ -1,0 +1,36 @@
+
+- 5 days into a travel to [[Townsend]]
+- [[Blume]] and [[Rory]] both go down, [[Ser Leona Blackmont]] holds a blade to [[Blume]]'s throat and demands that we lay down our weapons and let her walk out of here
+	- Why? Is she on our side? It benefits her to kill us here...
+- Those conscious hear a horse thudding down the path. Finally, the battlefield calms. Her men pull away, they grab their dead and leave
+- [[Ghorza]] leaves an offering of looted trinkets from the battlefield and some blood
+	- [[Lydesh]], [[Vydahr]], [[Myrmidia]] - [[The Three Siblings]]
+	- She works with [[Myrmidia]]
+- [[Ghorza]] sees a vision:
+	- Sitting on a stone bench in a gothic cathedral, sitting in front of her is a giant woman on a throne who is covered in bloody red armor
+		- Bright silver hair pooling out from under helmet is the only defining feature she can see
+	- Her offering was left with intent, a question: Is she doing the right thing?
+		- This person sitting on a throne is a version of [[Myrmidia]] (The Red Knight?), she nods her head and [[Ghorza]] is filled with a sense of adrenaline of battle... She is filled with a sense of calm. Her hand starts to shimmer before it goes up the rest of her body, warm iridescent red and green covering her. 
+		- A voice echos: "Go, with the honor you have put upon me."
+- [[Con'Niall]] leaves an offering at [[Lydesh]], and gets the same adrenaline feeling [[Ghorza]] got. The potion of giant strength was upgraded in response to show favor
+	- Potion of hill giant -> Potion of fire giant (25 str for 1 hour)
+- [[Blume]] and [[Willa]] investigate what happened with [[Ser Leona Blackmont]] when she ran away
+	- Each statue of the [[Three Sisters]] has a distinct divine magic vibe
+	- Whatever got her out of the space was not her magic
+	- She did not dash towards the statue of [[Vydahr]]; we think this is because one of her legs was demonic
+	- She ran away to the lower planes
+		- There is no distinction between the hells and the aybss, both are subsections of [[Gehenna]]
+		- She is likely friends to demonic forces, not devil forces
+		- There is a large subsection of demons that worship [[Vydahr]], who is not necessarily a holy god
+- [[Rory]] gets knighted by her dad, [[Ser George]]. He uses her sword, which the sword allows for once... As he holds it, the sword slowly reforms
+	- By the [[The Green Knight]], I charge you to be just and vigilant, honoring the will of this world
+	 - By the [[Lady of Steel]], I charge you to not blindly rush in or act without provocation
+	 - By the [[Hand Who Helps]] I charge you to protect those who cannot protect themselves
+	 - [[Ser George]]'s voice sounds like the lady of teeth: By the [[(2) Campaign/(1) Entities/Hair of Fire]] I charge you to open the ways of the old magic and protect the seals which bind the [[False Queen]]
+	 - Speaking with every voice the sword has ever spoken with: And we knight you to the [lineage of the kings guard, as bearer of sentinel]... [[Ser Aurora, the Fiery Mane]]... To be bound to this duty in life and in death. So sayeth we, all who have held this blade before
+	
+- **LOOT**
+	- Necklace of feathers, bones, and claws: A holy symbol incorporating a child's hand
+	- Few rations, shoddy hide armor
+	- [Potion of Minor Healing] <- [[Willa]]
+	- Shrunken Head, small gemstones embedded in the eye sockets (10s each), elvish head

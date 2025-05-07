@@ -1,0 +1,83 @@
+__SESSION__
+- We wake up, the dragon fey took [[Ghorza]] and [[Fyudor]]
+- We see dog tracks that morph into 3 separate types of tracks; 2 human, one dog
+	- Dog tracks go into brush, one set goes into woods, one set goes to [[Lady Thissleblack]]'s house
+- As we approach [[Lady Thissleblack]]'s house on the tracks, we start to see signs of old magic
+	- Her house is heavily fortified with wards
+	- We see wards above the house and spend some time investigating
+		- There is a cloven hoof on the door, that appeared by magical means to be a deer print until it was investigated
+		- [[Selene]] looks for valuables....
+		- [[Blume]] finds a journal
+			- Fragment of a very old recipe book
+			- [LEARNED THE RECIPE FOR THE BASIC HEALING POTION AND ALCHEMIST FIRE]
+		- [[Novamere]] sees some runes written in the kitchen, written in [[Dwarvish]]
+- We see tracks that lead into the house from the back door, and leaving the front door into the woods
+	- We follow the tracks into the woods, they are about 3-5 days out
+	- There are a lot of tracks in the area, the path is frequently used
+	- We are entering a wild part of the woods, with a lot of different tracks / creatures
+- We eventually come across a small cave
+	- This cave is bad. Cave smells like shit, iron, and smoke
+	- [Cervitaurs] in the cave D: 
+		- Lower body of doe / buck, upper body is a woman
+		- They are centaurs warped by the fey magic
+- There are a ton of traps in this cave, they have feral goblins they are using for warfare and traps.
+- Selene goes down deeper into the cave, sees two goblins talking to one another
+	- One goblin has a necklace of dog-ears
+- We had a very long and hard fight, [[Selene]] went down
+- We discover a ritual area, there is a severed hand on a ritual table further in where we could not get without combat
+	- We see a large bed in the center of a room
+	- There is another severed hand on the Cervitaur
+	- [[Novamere]]'s religion: this is an unholy place, it is best to not remain here for long
+	- [We copy down some runes in abyssal/infernal that were on the wall]
+	- Skull of goblin on alter
+	- Tucked into a corner is a shard that looks like black glass
+- [[Selene]] almost dies to traps while looting D:
+- We find [[Lady Thissleblack]], she's missing a hand and albino 
+- With the ritual, they were reaching out to some form of demon
+	- They are the cult of blood, they were probably reaching out to a demon to bind it to serve their cult... We don't know if they succeeded or not, or what demon they were trying to contact
+- We make it back to [[Lady Thissleblack]]'s house, she casts a spell with several components
+	- Goblin ears
+	- [[Blume]]'s sap from his eyes of detect magic
+	- [[Novamere]]'s blood
+	- A lot of the radishes we gathered
+	- She created a potion for [[Novamere]], which cures him of a disease he got during combat from a fungal goblin that exploded (It would have made him die, or burn in the sun)
+- She takes [[Blume]] and [[Rory]] out of the house, about 5 minutes out
+	- We stare into water, a [[Bloodwell Pit]]
+		- A sacred location to those who follow the old ways
+		- Religious ceremonies can be held here
+		- "There are rites that can be observed on nights such like tonight"
+			- Of the 3 moons, the red one is in a new moon; the smallest moon is half full; the broken moon shows many facets of a new moon
+			- Magic waxes and wains, days like tonight are good for rituals
+		- [[Lady Thissleblack]] to [[Rory]]:
+			- "Your sword is old... Very old, it has been awhile since you have let it bathe; let it do so"
+		- To [[Blume]]:
+			- The old ways have given you much, time to give back (possessions or blood)
+			- Take this time as you wish, but give back
+		- [[Lady Thissleblack]] is getting her arm back with the [[Bloodwell Pit]]
+		- Blume uses the ritual dagger in the pit to give back, [it can now be used as a spell casing focus] -2 dmg
+- [[Novamere]] suffers drinking his potion
+- [[Selene]] hears a voice
+	- "You've done well"
+	- A small tuft of cotton lands in her hair, which glows
+- [[Rory]]
+	- Dips the sword into the [[Bloodwell Pit]]
+	- Taken back to a memory of a dying lady giving her the sword.. She remembers a word
+		- "Bright"
+	- She pulls the sword out, and it feels lighter (no repairs) and easier to use
+
+LOOT:
+- Decanter that makes water always taste good (does not purify it)
+- We find a curved dagger; dagger is not magical but there are traces of magic on it as if someone casted spells with it previously (RITUAL DAGGER)
+- Necklace made of human teeth
+- Small vile with deep thick red liquid, not blood not water
+- [[Novamere]] only:
+	- Shard of black glass, obsidian (used as protection trying to contact beings across the planes, such as devils or celestials)
+- [[Selene]] only:
+	- 60 silver ish, didn't pay attention
+	- Scimitar
+	- Dagger that burns her hand to the touch
+	- Some silver from [[Lady Thissleblack]]'s home, she puts it back out of FEAR of [[Lady Thissleblack]]
+- [[Blume]]:
+	- found a ritual paper in the room
+		- "The woods witch must die, make an example of her. This is our forest now"
+

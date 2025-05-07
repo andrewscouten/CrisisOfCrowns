@@ -1,0 +1,18 @@
+
+- From last fight
+	- 27 silver
+	- +1 arrow
+	- Missive written in scrawled [[Giant]]: Note describes our general location, ordering them to stop the [[Nameless Company]], signed [[The First]]
+- We got an update from [[Ser George]] from a bird. The levy of [[Kaerliv]] has finished training and is going to [[Boar Head's Keep]]. He will travel alongside them as a temporary commander - Sir George Iron-tide, Knight of [[Kaerliv]]
+- Dreams
+	- [[Blume]] sees a field of faces and eyes, staring at him. The eyes blend together with the trees, ground, and sky... Faces unknown scattered throughout the birds & trees. The skies clear above a shattered moon. The shattered pieces come together for a second, showing a face. The dream ends
+	- [[Rory]] in a hall, sitting on a throne. "Come all who have borne the blade before". Whips, corpses, people, filtered into vision. Suddenly people stop filtering in. A few emblems and banners can be recognized before they vanish into the ethereal crowd. The same voice from before: "There be one who is not standing, we shall wait"... Rory stands to find themselves in a crypt, beside each tomb stands a statue of differing peoples holding the same sword Rory has (at attention, sword tip into ground hands on pommel). 
+	- [[Willa]] in a cave, a statue alone with her. She offers blood
+- We fight bandits and some surrender. A scribe named [[Chester]] who wears the symbol of a wizard-ing academy in the north called [[Luminaris Arcnarium]]. In a capital city. Higher rank the nicer your robes.. This guy is wearing really bad clothes. He's a war mage (evoker).
+	- 2 potions (lesser battle brew)
+	- 3 spell scrolls from the wizard
+		- FInd familiar
+		- Grease
+		- 3rd level wither and bloom
+- Hands arms and body shakes at random. Dis on all attack, checks, saving, that involve str or dex, ac reduced to 11 until long rest or 65 hours
+	- Compulsion to wash off stink of place, twice as much water used unless source is found

@@ -1,0 +1,31 @@
+- Scrolls:
+	- [[Session 27]]
+		- Grease
+		- 3rd level wither and bloom
+	- [[Session 29]]
+		- 2nd lvl chaos bolt
+	- [[Session 37 Loot]]
+		- 1st level shield of faith
+		- 2nd level rhymes binding ice
+		- 4th level hellish rebuke
+		- 5th level banishing smite
+		- 4th level Raulothim's physic lance
+- Items:
+	- 2 stones that have 3 uses each that can store spells
+	- Potion fire resistance
+	- [[Session 37 Loot]]
+		- 4 potions of minor healing
+		- 1 potion growth
+		- 1 potion fire resistance
+
+- Un-attuned:
+	- Bronze crown sitting upon a carved humanoid skull with bloody red gemstones all around the crown; faint aura of magic
+		- Rare but inactive dragon touch focus, before it can be accessed it must bathe in draconic blood. 
+		- When it activates: 
+			- Advantage on initiative checks and it can be used as a spell casting focus while worn and attuned. 
+			- When a spell slot is used to cast a spell, can immediately teleport into a space 15 feet area of either the caster or target once per day
+			- Absorb elements as a reaction once per short rest, or can use a spell slot
+
+- Unidentified:
+	- [[Session 37 Loot]]
+		- Suit of plain looking plate armor (magical)

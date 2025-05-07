@@ -1,0 +1,38 @@
+__BOUNTY BOARD: SOME JOBS IF LEFT ALONE WILL BECOME WORSE__
+- ~~[[Lady Thissleblack]] __MISSING__~~
+	- ~~Missing for a week~~
+	- ~~__REWARD__: 15 silver~~
+- 3 Bodies missing from graveyard
+	- Bodies, death times:
+		- Very very old, has some things they were buried with
+		- Three years old
+		- Not yet buried
+	- No common thread between the bodies
+	- Drag marks go into woods
+	- __REWARD__: 5 silver per body
+- Goblin camp in ruins
+
+__FROM SESSION__
+- [[Session 1]]
+	- ~~[Medicine woman gone missing]~~
+		- ~~Missing for a week~~
+		- ~~No struggle or blood~~
+		- ~~People can come back from the area, just not her~~
+		- ~~A day away from village~~
+		- ~~__REWARD__: 15 silver~~
+	- [Bodies missing in graveyard]
+		- Whole bodies go missing
+		- Only 3 bodies
+			- Very very old, has some things they were buried with
+			- Three years old
+			- Not yet buried
+		- None share any themes
+		- Drag marks go into woods
+		- __REWARD__: 5 silver per body
+	- ~~[Goblins]~~
+		- ~~Splinter group named “Dog Slices”
+		- ~~Setup in ruins about 3 days away
+		- ~~A lot, a whole lot
+		- ~~Set of fortified ruins
+		- ~~__“Don’t go there yet”__
+		- __REWARD:__ 3 silver per head, 2 ears, or nose

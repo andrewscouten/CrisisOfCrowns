@@ -1,0 +1,84 @@
+__SESSION__
+- We stopped last time with the party splitting to do tasks around town
+	- [[Selene]]
+		- Goes to see [[Sister Minorah]], who has a holy symbol of [[Edris]] on her neck
+			- [[Selene]] also works with [[Edris]] & 2 other gods
+			- They exchange hellos, the town needs a lot of help
+			- In the temple, she will spend time with her gods
+				- She feels a light breeze on the wind, a positive omen
+		- TODO: Get armor, survival gear, weapons, refill arrows, melt down crappy bandit knives
+	- [[Blume]]
+		- [[Lady Thissleblack]] requested his aid to craft some stuff in town
+			- When she leaves town she will also leave some things behind for it
+			- She gives Blume the beginner [[Undercommon]] course in 5 minutes (Please, Hello, Thank you)
+			- They take time together to do some magic together, and make potions and stuff for the town
+			- She helps him draw protection sigils on his skin
+	- [[Ghorza]]
+		- Goes to the blacksmith to help the town
+			- [[Milo]] and [[Braum]] are there ([[Rory]]'s basically siblings)
+			- Gorza makes things
+				- Armor for [[Selene]] and [[Rory]], will take a few days to finish
+		- She takes a survey of the town
+			- The town is looking well, everyone has a home and people are recovering
+			- A few more corpses have also gone missing
+			- New people have not been coming since the attack
+			- The number of random bandit attacks in the area has decreased
+		- She asks about the orphanage
+			- Most of the older kids have left their old life to train with the guards
+	- [[Novamere]], [[Rory]]
+		- With [[Krusa]], currently bound; they make their way to the town hall to see [[Baronet, Lady Salrus]]
+		- We used the [[Crest of House Salrus]] in a questionable way (but a good way)
+		- [[Novamere]] explains the situation, understanding how bad it sounds
+			- We hired bandits to stop being bandits, to fight bandits, to stop banditry
+			- [[Baronet, Lady Salrus]] is a little disappointed with our actions, but she approves of the reasons. They just look bad royal-ily
+				- We have been given authority to raise a group of men-at-arms
+					- We are each allowed to have 4 people individually; this makes 30 total including us
+					- We will need to come up with a group name, as we are now under the Salrus name
+						- We went with [[The Unnamed]], very clever
+					- For the first 2 months, we need to have her or [[Lady Thissleblack]]'s approval before our men-at-arms can get hired by someone else other than [[House Salrus]]
+- The goblins ([[Dog Skinners]]) took over the quarry, which is where their fortified base was
+- Some other bodies have gone missing, some on the road, some in other places
+	- 3 very old skeletons
+	- 2 of unknown decomposition age
+	- All unrelated except one couple
+- Andrew kinda checked out, doing this instead of paying attention. Oops...
+	- Possible group names
+		- To be sassy:
+			- Salrus's Authority
+			- The Hand of House Salrus
+			- This Group is Acting with Consent of House Salrus
+			- We are Salrus
+			- SalrUS
+			- This message was approved by house Salrus
+		- Shiver Your Timbers
+		- Trees Knees
+	- My attention returns
+- [[Novamere]] goes up to an alter, sees a statue of a faceless figure; general representation of any god that someone might want to talk to
+	- [[Sister Minorah]] is there, cleaning
+	- He asks about the finished (?) ritual that we saw, the obsidian, and the language
+		- [[Sister Minorah]] does not read [[Infernal]] and cannot decipher the text
+		- Most "outsiders" are from the first world, not from the Abyss itself; she doesn't know of anyone in the area that speaks that language
+		- The world tree binds the realms
+		- There's a few demons that love hands, [[Glabrezu]], [[Goristro]], [[Balgura]], [[Hellhounds]]
+	- His asks her about his dream
+		- His symbol is unknown to her
+		- She does not know of a practice that has a preferred weapon of a Morningstar
+	- "Before you go, sit down a moment and I will leave you. Take time to pray; you may not get answers, but if something wants to influence him sometimes the way to learn who is to sit for a few moments." - SM to Nov
+	- Make a insights, religious (wis), and a constitution save; fear 
+		- He does pretty good on rolls
+	- For a brief moment he smells salt and iron, and as he focuses on that he is brought back to the scene of his dream (remembering, not there anew)
+		- As he looks around, the smell of salt and iron is stronger than it was before, then it fades completely
+		- He feels almost rested despite being active (almost dying, traveling) for so long
+- [[Blume]] reads more undercommon, he can recognize the alphabet but not words. He also got a copy of a little parchment with who knows what written in undercommon to learn with
+- We meet with [[Baronet, Lady Salrus]]
+	- [[Krusa]] will be with us for a month, and if she gets no incidents then her slate will be wiped cleaned; the rest of the bandits have a much shorter punishment
+	- We get a large chunk of the income by completing any missions that are assigned to us by [[House Salrus]]
+		- Contract by contract basis, 40% us, house 20%, rest the people under our command
+		- She can assign us contracts if she wants
+		- Groups like this will give us some more renown in these trying times, and we will have continued support of [[House Salrus]]
+	- We can go to Fern's place in town to restock on rations; will trade a fair price
+	- We can drop off stuff we don't want to carry with us in her cellar; she has the key
+- Selling ??????????
+	- Assorted weapons, low quality (13 pounds worth of daggers, spears, short swords)
+		- 30s worth of materials
+	- Need to compile a list of loot to sell in town

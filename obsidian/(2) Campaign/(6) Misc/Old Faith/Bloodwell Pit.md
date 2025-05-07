@@ -1,0 +1,2 @@
+- A sacred location to those who follow the old ways, can be found throughout the world
+- Religious ceremonies can be held at these locations

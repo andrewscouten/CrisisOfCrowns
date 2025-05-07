@@ -1,0 +1,34 @@
+- 11 people in the caves, probably more... The people that go into the caves do not come back
+- [[Con'Niall]] introduces themselves
+- In the main tent where the Lieutenant leader was
+	- There are 4 desks, one of which is REALLY nice
+	- The more worse desks have some writing
+		- A journal in Orcish (Korvig, Centurean, the hobgoblin)
+			- 6 months ago, approached by a woman in black armor requesting assistance between the two groups; the bloody hand
+			- A bit after: [[Ser Leona Blackmont]] returned, she agreed to introduce us to the Freemen.. It seems we have more allies
+			- 2 weeks after: By the orders of our commander we have allied with the Freemen and the Bloody Hand.. We have legitimacy. Soon, we will take back this land with our allies
+			- Trade deal moving "cargo" up the mountain pass for the bloody hand and trading for better quality weapons with Freemen
+				- The people are cargo?
+			- About 2-3 months after: We are to send troops to aid the bloody hand and the freemen taking the town of [[Kaerliv]]; It will allow us a base of operations... The commander does not trust them so we will send fodder.
+			- The attack failed...
+			- A week ago from present day: New agreements with our allies, we are to capture as many travelers alive as we can. They need workers and bodies... At the moment, the bloody hand has decided to send a representative
+		- Small hidden compartment with a [Spell Scroll] that he does not recognized
+	- Investigating the final nice desk
+		- Found a lot of things [[Blume]] can't read
+		- "Thank you for this improvement of our alliance. We are quite happy to repay you in kind." - Signed 5 bloody finger prints
+- The team comes together to guard and reinforce the quarry
+- What we know:
+	- 1 captain in camp, 1 in cave, 2 elsewhere
+	- Orders to strip things for parts, bring them here, bandit stuff
+	- Kuhgai, the bugbear captain: Capture everyone you find alive... 
+	- Rolb, the already dead goblin: Don't bring up the town to the woman in armor... She doesn't take it well... Also don't mention her arm
+- We take a short rest
+- [[Finnegean]] sees a messenger bird on his night watch
+	- 1 is in goblin that he cannot read; "Keep the cultists out of it."
+	- In common "New cargo incoming, we will be there at first light" - Kigai
+- We prepare an ambush and defenses 
+- We kill everyone, even the ones fleeing (except one goblin)
+
+LOOT
+- 20 sp ring, 5 sp amber ring looted by [[Blume]]
+- Found another [Spell Scroll], a ritual that is designed to enact a permeant form of magic weapon... Requires materials that we do not have: 100 silver worth of powdered iron along with 50 silver worth of a magical metal of your choice; can make the weapon +1 magical

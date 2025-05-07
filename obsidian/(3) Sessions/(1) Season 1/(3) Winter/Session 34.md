@@ -1,0 +1,31 @@
+- We chop off [[Rory]]'s bad hand and she offers it to [[Myrmidia]]
+	- How do I cast spells again is the intent of the offering
+	- [[Ser Sandauq Stillwater]] uses one hand to cast spells, cast like them
+- [[Willa]] offers something from the battle to [[Myrmidia]]
+	- Sees a different version of herself (a different spell casting focus, etc.), wielding a sword made of spine, screaming into it and killing enemies around her
+- [[Cassia]] gives to [[The Three Siblings]]
+	- Sees war camps, banners, shields, etc. 
+	- Sees a woman in bloody red armor with a lance and a giant shield; [[Myrmidia]]
+		- War horns, nicely sounding
+	- Sees a weathered old orc, if it was looked at alive, only one eye and one tusk. Milky white eye, spear, broken flag. [[Lydesh]]
+		- War horns, slightly more rough
+	- Sees a wall of corpses and dirt, which is a much larger camp than the other two, but is in worse shape. Standing in front is a smaller figure compared to the other two, full blooded goblin, patchy hide, chain armor, serrated symitar, held by hair decapitated and shrunken head of an elf, [[Vydahr]]
+		- Human scream
+- We arrive in [[Townsend]], larger than [[Kaerliv]], smaller than [[Lord'Orelstown]]
+	- We shop some and get a long rest
+- We come up to the people [[Ghorza]] sold armor to: Snake scales going up the neck, snake eyes, etc. With two goblins, and an absolute unit of a Minotaur without horns. The minotaur is [[Jeremey]]
+	- Drinking contest
+	- [[Willa]] and [[Blume]] get fucked up in the first round
+	- Doris, T-Bone (goblins) and Dave (snake) all pass out
+	- Dave wins, everyone else passes out
+	- [[Jeremey]], [[Ghorza]], and [[Fyudor]] have a good night
+- A woman with dark ashy gray hair, glassy eye, blind eye, complex gauntlet, shoulder is covered in lightning scars walks in
+	- "I believe you lot are the ones who drank with my men"
+	-  Named [[Marrian]]
+	- The guard captain wants us to deliver a letter to a village near [[The Three Wolves]], delivered to [[Moren]] of [[Alderfud]] low priority, 15 silver up front, 15 silver upon delivery
+	- Steam-punkish armor, leather, chainmail, gizmos and gadgets 
+- ...
+- Fork in a road
+	- Left: Rooks rest, hunting lodge, thunderhead cave
+	- Right: Three Wolves
+		- Has some scratching out of a name, a former town destroyed by the [[Freemen]], the bandits are still operating in the area

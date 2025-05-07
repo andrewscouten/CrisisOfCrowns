@@ -1,0 +1,33 @@
+- We leave the cave
+	- Some other enemies were trapped in there
+	- We left the cave and closed it on them; [[Fyudor]] stayed behind to monitor the situation
+- We see a drake on the road, [[Finnegean]] saves us by casting suggestion on it to make it leave us alone
+- [[Greenbelt]] is here, talking to us... It has gifts, and a job for us
+	- An outside power requires a delivery, one way, to a location outside of Greenbelt's woods
+		- Monetary and non monetary reward
+		- Delivered to the Village of 3 Wolves -> Heartlands of the three sisters mountain
+			- About 3 weeks journey from boreheads keep, 4 weeks from [[Kaerliv]]
+		- If we accept, we will get the statue (the item of delivery) at [[Lady Thissleblack]]'s cottage
+		- It should be dealt with before winder starts ~1-2 months
+	- Called [[Fyudor]] cursed, "Does he have it under control?"
+	- Tells [[Con'Niall]] its true name, but only them. If he uses the name, Greenbelt will kill him and everyone he knows (**fear**). See Greenbelt's AKA of names uttered
+		- [[Finnegean]] has heard fragments of "The Puppet Master"; political advisor to the ancient kings of the wild wood. Advisor became regent for a prince
+		- [[Blume]] has heard of the "Lord of the Grove"; arch-druids that have contain entire regions under their control. Also used under certain elder rights (that he knows none of)
+		- [[Rory]] has a vision from the sword, seeings memories that aren't theirs; Wearing plate-mail with the sword, an emblem of a green snaked wrapped around a tree; in front of them stands a small pale fairy dragon with a stripe of green scales around its waist
+			- Dragon: "Ah... Hello Daren. It's good to see you again... Old friend, it's been how many years since we've seen each other? Mortal years, maybe 78?"
+			- Daren?: "I have unfortunate news to pass onto you oh lord of the grove.... One of your old friends has died. King Lorei Dimbua has passed. You left after his regency ended. He wanted you at his funeral"
+			- Dragon shifts into a half-elven man (bright green eye, pale lavender eye). The dragon was there, under that new form (awe).
+			- Daren?: "They still call you many names there..."
+			- Dragon: "I wrote most of them myself! (snarky greenbelt ensues)... Did you come here to only inform me of a death?"
+			- ....
+			- As the body draws the sword, they see the same symbol known in her sword. Unlike Rory's sword, it is undamaged and beautiful
+			- Awakens
+- As we arrive at the inn, two trees come to greet us. They make a portal together combining arms for people to travel to [[Kaerliv]]. It exhausts them... one collapses and merges into the earth, the other walks to a small opening in the tree-line and vanishes
+- We take a long rest at the inn
+	- [[Rory]] puts the sword in the basin, when she wakes up it's not there... It's in her hand disappearing and appearing
+		- The sword talks to her. It wants to be reforged... Unknowable voice, perhaps everything at once and nothing, chorus without chaos:  "You are doing.... (magic gets weaker, sword gets quieter) .... what we want..."
+	- [[Blume]] wakes up, room is awash in magic, it gets weaker before fading... it came from Rory
+
+LOOT
+- 5 scrolls of undetermined use, 2 magical
+- 3 large bound books similar to the journal in [[Session 15]]

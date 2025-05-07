@@ -1,0 +1,40 @@
+/* Underline H1 heading in Edit mode */
+.cm-header-1 {
+  border-bottom: 1px solid var(--text-faint);
+}
+.cm-header-2 {
+  border-bottom: 1px solid var(--text-faint);
+}
+.cm-header-3 {
+  border-bottom: 1px solid var(--text-faint);
+}
+.cm-header-4 {
+  border-bottom: 1px solid var(--text-faint);
+}
+.cm-header-5 {
+  border-bottom: 1px solid var(--text-faint);
+}
+.cm-header-6 {
+  border-bottom: 1px solid var(--text-faint);
+}
+
+/* ==========headings======= */
+/* Underline = border-bottom */
+.markdown-preview-view h1 {
+  border-bottom: 1px solid var(--text-faint);
+}
+.markdown-preview-view h2 {
+  border-bottom: 1px solid var(--text-faint);
+}
+.markdown-preview-view h3 {
+  border-bottom: 1px solid var(--text-faint);
+}
+.markdown-preview-view h4 {
+  border-bottom: 1px solid var(--text-faint);
+}
+.markdown-preview-view h5 {
+  border-bottom: 1px solid var(--text-faint);
+}
+.markdown-preview-view h6 {
+  border-bottom: 1px solid var(--text-faint);
+}

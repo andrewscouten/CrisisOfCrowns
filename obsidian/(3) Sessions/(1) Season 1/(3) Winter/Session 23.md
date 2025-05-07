@@ -1,0 +1,1 @@
+- Andrew was absent, [[Finnegean]] died

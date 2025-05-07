@@ -1,0 +1,43 @@
+- We all try to get [[Con'Niall]] to not kill the prisoner goblin
+	- We do that, and he leaves after the goblin complies
+- RETCONNED
+	- [[Finnegean]] tries to kill the prisoner 
+		- The prisoner escapes in the chaos
+		- Trying to kill a prisoner is a warcrime
+- Blume gives a person a scroll of animal messenger
+	- We explore a cave, find a very scary statue with sacrifices and blood everywhere
+- We fight the leader in the cave
+- We try to decipher who the statue is dedicated to
+	- Only one major divinity, if a major divinity is involved
+	- [[Figar]], god of slaughter, power, and division
+	- There is rarely a group like this that comes together of the different background present; it's likely the [[Red Hand]]
+
+- LOOT
+	- 8 goblin ears (pair)
+	- 6 hobgoblin ears (pair)
+	- 2 bugbear  (pair)
+	- Good scraps of metal, studded leather armor for [[Finnegean]]
+	- ~~3x bottles of battle brew~~
+	- ~~3x bottles of breserker brew, get a little health back or get health + attack~~
+	- ~~3x bottles of potion / drink that we cannot recognize, two types of 3~~
+		- potion, used by soldiers, makes them less aware of their tiredness; roll to temp to ignore lvls of exhaustion; failed save gains more exhaustion
+	- Ring on goblin leader
+		- Purple gemstone
+		- ~~~Magical ring, weak but notable evocation~~~
+			- ~~~Ring of message, allows message spell once per dawn you can choose to cast the spell telepathically as if you have used the subtle spell meta-magic; spell cast # of times per day as casting modifier~~~
+	- From killing the things in the cave
+		- Couple of scrolls, a few bottles, some money and things worth money
+		- Some magical trinkets
+		- 87 silver (60s actual), 312 copper (150c actual)
+		- ~~2x bottles that look like minor healing potion~~, used by rory and hallbjorn
+		- ~~2x bottles that look like alchemist fire~~
+		- ~~Pair of glasses that give off magical transmutation aura~~
+		- ~~2x scrolls that give off 1st lvl magic~~
+			- ~~Burning hands that does cold dmg~~
+			- ~~Zepher's strike~~
+		- 2x trinkets that give off limited evocation magic
+			- Baaris' Feather-token, feather fall 3 times then it vanishes forever
+			- Alexandrian's Turtle-shell; reduces incoming damage by 3, 3 separate times before vanishing together
+			- Must be attached to weapons or spell-casting focuses
+				- On a weapon, it is a reaction to use
+		- Small bound journal

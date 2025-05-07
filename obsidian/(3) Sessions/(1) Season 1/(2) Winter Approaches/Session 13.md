@@ -1,0 +1,48 @@
+- [[Selene]] gives [[Blume]] a pouch with some money to split between everyone. We each get 9 silver
+- [[Novamere]] catches [[Baronet, Lady Salrus]] up on the events that happened
+	- He also steps down, stating that he wants to resume his pilgrimage
+- [[Rory]] and [[Blume]] inform the others that Selene is not coming back
+	- [[Fyudor]] thinks [[Selene]] is dead for a moment, and gets angry when they are bamboozled
+	- We all go to bed, [[Fyudor]] a little upset with big feelings
+- We have some dreams
+	- [[Ghorza]]
+		- Back home where she learned how to ride a horse. There are green fields, with a village. She hears something: "Sometimes to protect something you have to let it go."
+		- The village shifts to ruins, she hears a snarl like before. She sees something, its form shifting into various monsters. It has a peer of Gorza's in its grasp. No matter the shifting form, one of her bold brothers is in its grip. She has an axe in hand and swings at its head, avoiding her fellow. The swing goes through the beast, and it does not notice. She reaches out, grabbing her friend. They say "You can save us...". The dream fades
+	- [[Fyudor]]
+		- They collapse in bed, fall asleep, then awaken. They look out the window, and one of the moons tonight is full. They feel scratching that slowly moves up their arm, across their chest, right under their sternum. They feel the same scratch they felt before. It fades slightly with time. As you breathe in, your lungs hurt as if breathing air that is far too cold. As you breathe out, a cloud of fog crystals. The scratching returns, only worse... and worse. As you look to the moon once more, you hear an echoing snarl like one you've heard many times in the woods. You wake up, scratching... 
+		- [[Fyudor]] is bleeding from the mouth and both of his hands, where he has clawed into his chest
+		- Class: Hound of the Huntsman
+	- [[Rory]]
+		- Remembering the sword, but they are not themselves. As if they are seeing through the eyes of someone else. In their hand is the same sword, still broken and as they last left it. They see it being swung, cleaving through shadow, demons, and people alike. There are no recognizable symbols besides one with [3 pine trees with a crown emblazoned above them (kings of Reventree)], it all being ancient in origin. This could have happened maybe a thousand years ago.
+		- The memory is a battle. [[Rory]] doesn't know the name of the battle, but a blurb about a time where an alliance (tri-archy) of man, undead, and demon worked together to attempt to conquer the realm of man. To shroud [[(0) Obsidian_Stuff/_Uncategorized/Ethemore]] in a long night.
+- [[Ser Danal]] is waiting in the common room
+	- He has some news
+	- He informs us of [[Novamere]]'s leaving the group
+		- "Maybe, one day, by the will of the gods, we will meet each other once more."
+		- [[Fyudor]] -> Small pouch with a note from Novamere; a silver-like ash powder
+		- [[Rory]] -> A scroll, unopened & still bound; the any DM 3 question scroll
+		- [[Blume]] -> Scroll of animal messenger, and pearl of power
+	- We have a new contract
+		- The [[Dog Skinners]] have attacked another town
+			- Their leader led the attack and is not at the quarry
+			- We are now under an urgent contract to do as much damage to the camp that we can
+			- At least one of the hobgoblin is the leader, we do not know their name
+				- The leader has a high level of tactics
+			- There are 3 lieutenants 
+				- Bug-bear, rougher
+				- Old leader of the goblin clan
+				- ??
+			- The only entrance to the quarry is the main entrance more than likely
+		- We are meeting a contractor on the way to the quarry, as [[House Salrus]] thinks we need all of the help we can get
+- [[Fyudor]] helps heal [[Jack Scratch]] with the ash we got in [[Session 12]]
+- We leave the town and come to a small crossroads
+	- [[Finnegean]], playing a sad song
+	- We approach him playing a song with a bad tempo before going to a screeching 
+	- [[Finnegean]] flirts with [[Ghorza]], fear
+- We arrive close tot he quarry, it is carved into a mountain 
+- We see 8-9 individuals in a cage in the middle of a camp, as young as children and as old as elders. A few human children, elves, and halflings
+- We fight
+- We win
+- We smash
+- We flirt?
+- We leave off with all the goblins dead

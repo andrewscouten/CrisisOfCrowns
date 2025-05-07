@@ -1,0 +1,47 @@
+- [[Con'Niall]], [[Cassia]], and [[Fyudor]] all find themselves in front of the [[Agrius]].
+	- They stand in front of an empty throne, [[Con'Niall]] recognizes it.
+	- [[Fyudor]] talks to to them, asking if they're the reason for the cold. A lot of vagueness, but the promise that [[Fyudor]] will be useful & important to the world eventually. 
+		- What "curses" [[Fyudor]] is not a curse, but a potential boon
+		- After their conversation [[Fyudor]] vanishes
+	- [[Con'Niall]]'s turn!
+		- Tsk, tsk, tsk, tsk...
+		- They are not happy with [[Con'Niall]]'s actions
+		- [[Agrius]] reveals themselves as a member of the [[Green Coven]]
+		- The [[Agrius]] scrapes a rose thorn  across [[Con'Niall]]'s face, giving both a boon and a debuff:
+			- Boon: 
+				- Other agents of the [[Green Coven]] know you on sight and are able to assist you more easily
+				- In any fight that directly benefits the [[Green Coven]], his divine furry does 1d6+level to all enemies in the encounter (upon being hit)
+			- Debuff:
+				- If an action that you declare would be directly harmful to the intention of the [[Green Coven]], you will take 1d6 piercing dmg (not reducible by rage)
+				- Clerics, druids, and occultists, automatically have a decreased level of trust/happiness/likability towards [[Con'Niall]] upon first meetings
+			- Cosmetic: 
+				- [[Con'Niall]] no longer has a heart, just a bundle of thorns...
+		- 4 other entities/factions appear around [[Con'Niall]] and [[Cassia]], all of them staring at [[Con'Niall]]. Presumably the [[Green Coven]]:
+			- Platform with a green dragon curled up on it
+			- 5 identical woman standing around a table
+			- Proper throne, sitting on it is a woman with flanking red hair, decaying skin
+			- Stand-offish, thin ears, webbing in between fingers, elvish looking
+		- Poof, [[Con'Niall]] is gone
+	- [[Cassia]]... [[Agrius]] looks at her: "You don't know what you're doing here, or with them, do you?"
+		- Serves as a witness, [[Agrius]]'s mother keeps [[Cassia]] here to learn, his father to watch, my sister... you better hope she does not get her hands on you
+		- What is it you gain from this, [[Cassia]]? One of [[Agrius]]'s cohorts wants to speak with her... "Keep an open mind, and keep an eye out for others on your path (of the lost soul)."
+		- [[Cassia]] sees not 5 woman at that table, but a countless number of them. All distinct, from children to the elders... 
+		- "She... may have a job for you... [Seek out the church of my father, the one that I founded]. The fourth church of the king in Green shall help"
+- The 3 of them reappear
+	- [[Fyudor]] learns 2 spells
+		- Cantrip, thorn whip
+		- When he reaches 5th level, Corpse Hatch (and will not count against the number of spells known)... Ritual, targets humanoid/beast/giant, bones get ripped from body and land in adjacent space (only reincarnate, true resurrection, or wish can bring them back to life)
+	- [[Cassia]] learns 2 spell
+		- Cantrip, [Icy Wind]: Ranged spell attack (60ft), hit deals 1d6 cold and they are pushed 5ft away in a direct line
+		- Can now prepare (should she choose): Augury. The spell components also appear in her lap (winter wolf bones worth 30 sp)
+	- [[Con'Niall]] 
+		- Wakes up with a winter wolf cloak over his chest, counts as a modified version of the Dragon Hide Belt: 
+			- Uncommon (+1) item, while wearing and attuned, the divine fury does full damage. Action (1 every dawn) to gain 1 hit-die roll.
+- We go back to everyone, the 3 reappearing.. Take some time to calm down then leave
+- We travel and reach our destination of a tower with potential loot
+	- They lock us out of the tower, closing the door and engaging locks
+	- We knock again, they drop a rock on us and fire arrows through the windows
+	- Rory goes in :)
+- Text on stone markers
+	- Answer riddles 3, all the treasure for thee
+	- You can swallow me but I can consume you: [[Rory]] instantly, Pride

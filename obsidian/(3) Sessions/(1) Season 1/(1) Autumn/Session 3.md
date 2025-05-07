@@ -1,0 +1,157 @@
+**LOCATIONS**
+- [[Bitter Water Vale]]
+- [[Kaerliv]]
+
+**SESSION**
+- [[Blume]] saved [[Ser George]]'s life
+- The children survived, as the orphanage was right next to the guard post
+- We have all been summoned back to the tavern
+    - [[Ser Danal]] got the death count. They were 207, now 152
+        - Without our assistance it would probably be a town of 0
+    - The [[Baronet, Lady Salrus]] is also here
+- [[Baronet, Lady Salrus]] thanks us for our hard work of saving the town
+    - She deputizes us to act in whatever means to ensure the peace
+    - We killed [[Stag Lord|Ser Leona Blackmont]], and she had a bounty of 200 silver
+        - Promises us 50 silver now, and the rest later
+    - She wants us to help complete the wall and help out before we leave
+        - "You need to leave (eventually), so we do not attract more trouble"
+    - She will post bounties overnight and we will be able to see them in the morning
+    - She gave us a [[Crest of House Salrus]], we may use this to gain entry into other local courts. Allows us to speak with the voice of her house; **don't do so lightly**.
+        - We get rooms paid for while we're here, but the destroyed homes make the inn a little packed. We do however rest.
+- [[Fyudor]] falls into an exhaustive sleep; awakens in his room
+    - The room is empty, he feels the feeling of [his skin getting scratched but from the inside of the ribcage]. Something is inside of him, trying to claw its way out.
+    - Hears growling, cold breath, before everything returning to normal
+    - His hands have his blood on them, from clutching his palms in his sleep
+- [[Selene]] also falls into a slumber
+    - She blinks her eyes and she's standing in a field of flowers
+        - It's very pretty, but you can tell this was once a battlefield
+        - There's a structure off in the distance, it's hazy as if in a mirage
+    - She carefully makes her way towards the structure
+        - It's almost as if she can walk through the ex-battlefield, unbothered
+        - As she starts to near the structure-- now looking like her [[Selene's Temple]], she hears a voice
+            - "Not yet my child, you are not ready. Your persistence will bloom"
+            - Memories of training and skills, but not her memories. Sees what could have been
+    - - Feat: Skulker
+- [[Blume]], also a dream
+    - Seeing flashes of color, feelings but not aware
+    - Crash of waves, rumbling of fracturing rock, scotch upon skin
+    - Hears 2 voices
+        - Young, light, fem (2)
+        - Hearing words, but almost as if earth itself is speaking (1)
+        - 1. "Stay out of this man, you shall not claim him"
+        - 2. "You are a fool, I already have"
+        - 1. "What you have can be easily stripped away. You are nothing in our eyes, and you shall take nothing"
+        - 2. "Enough of this petty squabble, we are above this"
+        - 1. "You shall not have the last word..."
+    - Blume awakens with the taste of sap on his tongue
+    - - Feat: Eldritch Adept
+- [[Rory]], wakes up in bed; nicer armor than she owns (half plate); shield that's not hers...
+    - Dream
+        - Her sword is there in a sheath
+        - She takes it out, and a blue flame erupts from the sword
+        - The sword begins to repair itself, the chips above the hilt begins to fill in
+    - She awakens, and the sword is on her chest
+- [[Ghorza]], relaxed leaning on the wall; sounds of the bar: people talking, dice, kitchen, etc.
+    - She hears noises of her home
+    - Sees [her encampment, sprawled across a long valley on a hill]; beyond that she sees nothing
+    - She stands up, reaches for her axe that's not there; no people, the village is abandoned as if it was left minutes ago
+    - Hears a snarl behind her. She now has an axe in her hand. She turns and sees a shadow like form of a humanoid
+        - He was wearing spiked armor
+    - - Feat: Orcish Aggression
+- [[Novamere]]], sleeping in common room, sleeping at a table
+    - No longer in a tavern; shadow/misty [grove], crash of waves off in the distance
+    - The mist and leaves don't shake or move, frozen
+    - Around him, he sees sign of death and violence; weapons, armor, bodies, some fresh some long rotten.
+    - In front of him, [a broken statue]
+    - This statue is a shrine that has fallen into disrepair long ago in front of him.
+        - He feels regret, sadness, and grief
+    - He feels the wind around him push him forward (15-20ft). He trips over a Morningstar embedded in the chest of a skeleton
+    - He looks back, the shrine is repaired
+        - Pieces of rock create an arm, and he hears "Cheer up, the worst is yet to come"
+    - - Feat: Fighting Initiate, duel, defense, interception
+- [[Ser George]] is sober and on crutches
+    - [[Braum]] and the [[Milo]] will stay with him
+    - [[Rory]] is sent off with us
+- We all wake up rested; [[Ser Danal]] would like to see us at the guard post
+    - He's big mad at the living guards, happy with some of them
+    - He shows us the bounty board, we can stick around and work in town if we need
+- BOUNTY BOARD: **SOME JOBS IF LEFT ALONE WILL BECOME WORSE**
+    - Wall rebuilding, few days of construction
+    - They need nails and spikes, [[Ghorza]] is a smith
+    - [[Session 1]] quests, goblins, missing people, bodies stolen
+- Downtime
+    -  [[Selene]] gathers info on missing herbalist is [[Lady Thissleblack]]
+        - Former member of [[House Salrus]]
+        - Comes to town a few times a week
+        - Most direct route comes from forest, safer to take the river road which adds half a days journey. This road is harder to be ambushed on, as it's an open field
+        - She lives 4 days to the west
+        - She is a midwife and doctor
+    - [[Fyudor]] meets [[Jack Scratch]]) during downtime; confronts him about not joining the battle
+        - He did indeed join the battle, awkward
+        - They compare hunts, see what's worth hunting in the area
+        - Very scary things are in the area :(
+            - Displacer Beast
+            - [[Tom, Local Cannibal]], 3 days east; hunts on the edge of the bog
+    - [[Novamere]] goes to ask [[Baronet, Lady Salrus]] about the alchemist and maps; can she point out the location on the map
+        - [[Baronet, Lady Salrus]] has two guards called LEFT and RIGHT
+        - Takes [[Novamere]] back to the guard post
+        - They compare the burnt map to her maps
+        - Map is of the bog-wood, 2 weeks south
+            - Past the goblin encampment
+            - One of those is an [abandoned temple], [[Temple of Drasil]]
+                - Temple to an important god of the area [[Drasil]], once was a checkpoint on the way to the woods
+                - She can draw us some maps from memory that might be off by a bit
+            - One is the goblin camp
+            - One is a mystery ?
+        - Shows us where [[Lady Thissleblack]]'s house is; 3 days west, 1 day south
+    - [[Blume]] trying to figure out what the herbalist is low on
+        - She's low on peppermint and moon radish
+        - Moon radish between her house and the village
+        - House straight south is small path of radish
+        - She did help a woman give birth, easy birth and child was born under a lucky star
+            - She might have ran low on cloth ?
+            - Woman is weakened & can't handle another heartbreak
+    - [[Ghorza]] is smithing things, nails, spikes, etc
+        - Learns 3 rumors about random stuff:
+            - 15 years ago there was a upswing in bandits bc of the [[Hell-gate Revolt]]
+                - [[Ser Danal]] helped save everyone, but was demoted to captain of the guard of the village
+                - [[Lady Thissleblack]] helped birth his children, he hasn't spoken to his children
+                    - Son, [[Boros]], is a traveling priest of God of Strength / Honor, Endurance
+                    - Daughter, recently lost her life but had been a guard of the [[Bearhold Keep]] about 2 weeks away
+                    - Only payment [[Lady Thissleblack]] took was 2 fingernails; normally she usually takes money / food
+                - **HEARD** (might not be true) that Baren Soleras (father of [[Baronet, Lady Salrus]]) has an affair
+    - [[Rory]] was watching [[Ser Danal]] train and wants to train with him and the guards
+        - Wants to talk to them about leads / investigations
+            - 2 guards have gone "missing" potentially, not checked in
+            - [[Lady Thissleblack]] has gone missing twice before, when she had to unexpectedly had to deal with local monsters
+                - Once she fought a monster, once someone kidnapped her
+                - Concerned she might have gotten wrapped up in a turf war between a couple of the local clans; she plays meditator sometimes
+                    - Stone-men vs. Dog-skinners
+                - SOME DRAKES AND PLANTS IN THE AREA THAT COULD KILL US THAT NO ONE WARNED US ABOUT?
+            - A FEW TROLLS / GIANTS IN THE WOODS? AND NO ONE ELSE WARNED US?
+                - One of those giants has 2 heads
+            - Trains with the sword. Hand hurts when not holding the sword
+- We go through the forest route to save some time, but we want to take a long rest so it saves no time
+- We follow some very nice whisps to the radish area :)
+    - [[Blume]] passes the wisdom save and hears "Good... Very good" + 1 Inspiration
+    - We see some signs of [[Lady Thissleblack]], like a left over herbalism kit
+    - See some signs of trails: death, danger, boring
+    - [[Rory]] sees some signs of someone being dragged to their feet, signs of struggle / willingness; leading us in the direction we were going
+    - We collected some radishes for the town
+- A dog circles our campsite, same with dead plants ([[Nyxie]])
+- We met a fey in the woods! A very small blue dragon, heard a bell; size of a cat
+    - Gave us a lot of information
+        - [[Nyxie]] former hunting dog, owner died, patrols woods
+            - Spring-hound, hound that got exposed to the [[First World]]
+- **LONG REST!**
+
+**LOOT**  
+Party:
+
+- 30x radishes, the town needs them
+- 8 silver each
+- 33 copper each  
+    Blume:
+- 3x Peppermint, 15 lbs of pre-shaped cloth
+- +1 Herbalism kit **BAG**
+- - 1 silver

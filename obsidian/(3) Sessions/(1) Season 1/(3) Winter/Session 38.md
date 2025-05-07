@@ -1,0 +1,12 @@
+- We recap to a split party, [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html) is with the party that did not do the jail break
+- We meet a group of ostentatious people, lot of weathered and un-moisturized people, some likely a sailor, a fire genasi with hair on fire, cleric and monk adjacent peoples. The people that hired us for the job, they needed some more help. The more elderly man is named [Koggo](https://crisis-of-crowns.games-with-friends.org/Koggo). They are the local branch of the [Brotherhood of the Broken Chain](https://crisis-of-crowns.games-with-friends.org/Brotherhood of the Broken Chain).
+    - Hired to kill a monstrosity. Reward is an equal split of its horde. As well as a 1/2 share of the bounty (5 gold). Total payment is 3 gold not counting loot.
+- We come up onto the place where we know the monster is. There is a river of sand, silica pillars and stalagmites. There is a large number of shattered glass objects throughout this space, some of them look like former humans.
+- We fight the creature, a large drake crocodile
+    - Everyone goes down but [Ghorza](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/ghorza.html). [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html) fully dies and his familiar sacrifices itself to make him live again
+    - [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html) has a broken leg now, -5 permanent de-buff to his movement
+- We gather [Session 37 Loot](https://crisis-of-crowns.games-with-friends.org/\(3\)-sessions/\(0\)-loot/\(1\)-session-loot/session-37-loot.html)
+- We go back to [Townsend](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/cities/townsend.html), tomorrow morning in the inner city we shall get our reward
+- [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html) has been assisting the city throughout the day, the guard thanks the [Nameless Company](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/nameless-company.html) for our assistance
+- Blume reads the necromancy book
+    - 1st section is about info gathering to scrap people for parts and information

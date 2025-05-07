@@ -1,0 +1,2 @@
+- Member of [[Ser Sandauq Stillwater]]'s adventuring party
+- Black dragon born

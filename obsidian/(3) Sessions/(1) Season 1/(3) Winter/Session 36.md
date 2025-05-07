@@ -1,0 +1,4 @@
+- Andrew was also absent on a work trip
+- Notes from in person recap:
+	- Shop called bound by design / desire? Magic tattoo shop, few people go tattoos
+	- The people not normally known in the [[Nameless Company]] did the jail break with some good deception rolls, while others stayed behind in the town

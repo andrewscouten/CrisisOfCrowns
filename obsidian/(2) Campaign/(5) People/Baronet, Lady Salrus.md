@@ -1,0 +1,2 @@
+- In charge of the people of [[Kaerliv]]
+- Missing a hand now as a result of the raid in [[Session 2]]

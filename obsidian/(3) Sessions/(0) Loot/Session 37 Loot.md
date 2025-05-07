@@ -1,0 +1,40 @@
+- Looting the creature:
+	- Fire breathing gland
+	- Silica breathing gland
+	- Acid gland that turns glass into sand
+	- 11 fangs, 13 spines, 264 pound of bones, 1 bowling ball sized eye
+	- 45 sp of jewelry
+- Looting the area:
+	- 7 x 20 sp rocks
+	- 1 large chunk of an unknown yellow crystal; 1 gp of citrine
+- Looting the hoard:
+	- 263 sp
+	- 2,666 cp (6.65 sp each)
+	- 1 large bar of platinum, worth 5 gp
+	- Iron ingots, bronze bars, cut stone, and other processed materials
+	- Large gorgeous tapestry, some of it burnt, can sell for a decent amount of silver
+	- Bronze crown sitting upon a carved humanoid skull with bloody red gemstones all around the crown; faint aura of magic
+		- Rare but inactive dragon touch focus, before it can be accessed it must bathe in draconic blood. 
+		- When it activates: 
+			- Advantage on initiative checks and it can be used as a spell casting focus while worn and attuned. 
+			- When a spell slot is used to cast a spell, can immediately teleport into a space 15 feet area of either the caster or target once per day
+			- Absorb elements as a reaction once per short rest, or can use a spell slot
+	- 5 spell scrolls
+		- 1st level shield of faith
+		- 2nd level rhymes binding ice
+		- 4th level hellish rebuke
+		- 5th level banishing smite
+		- 4th level Raulothim physic lance
+	- 4 potions of minor healing
+	- 1 potion growth
+	- 1 potion fire resistance
+	- Cap of water breathing
+	- +1 shield 
+	- Wand of the war mage
+	- Cloak of billowing 
+	- Suit of plain looking plate armor (magical)
+	- Handy spice pouch
+	- Silver necklace with an emerald gemstone 
+	- Bronze ring that has blood stones, similar to the crown
+	- Copper mug that has jade inlays in it. On the handle is a series of multi-color gems
+- A coat of arms is inscribed into the coat of arms of the bronze ring and crown

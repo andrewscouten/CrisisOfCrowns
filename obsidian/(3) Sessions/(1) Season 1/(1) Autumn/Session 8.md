@@ -1,0 +1,40 @@
+__SESSION__
+- One of the missing bodies was identified, [[Stag Lord|Ser Leona Blackmont]]
+	- No idea how long they've been missing either
+	- 8 missing bodies total
+	- We sent [[Jack Scratch]] out to scout to see what's going on there
+		- 6 silver now, 6 for a finder's fee, and if he finds anything he can take up to 15s. If he finds nothing we probably owe him 15s
+- We restock some things
+	- We leave a deer at the butcher, it belongs to [[Fyudor]]
+- We take off onto the road
+	- Our horse is "unnamed": dawg, dog, doug
+	- The forest parts for us, as [[Greenbelt]] said; it will be a short trip
+- The road is blocked, we see a humanoid figure made out of vines
+	- [[Selene]] points it out to us, but there is nothing there :(
+	- [[Selene]], religion: It is a favored form of malicious plant spirits, common form taken by fey; did not get any religious feelings, but only her getting this "vision" means it was important
+	- [[Novamere]], religion: Man made of tree roots can be a messenger from [[Drasil]], also malicious fey, full-sized man means it probably is not malicious
+	- [[Rory]], history: Tale by [[Ser George]]; a man lost an arm in battle and one day returned with a new arm made of vines. Similar things happened in other places
+- We talk about strats, and the plant thing reappears but closer
+	- The plant thing was [[Novamere]]'s height
+	- It probably isn't the fey, given [[Novamere]]'s new history check
+- We see a bear, named doorknob
+	- [[Selene]] gets attacked by a thorn, something from a creature that's both divine and the old ways. Something that worships the old ways of nature.
+	- The bear is scared off by [[Selene]]'s screams of getting attacked, a child with a sword, [[Ghorza]], and a rabid bugbear
+- [[Krusa]] got stabbed by [[Novamere]] to fake her injury
+	- She's going in to try to convince people to join us
+	- "Try not to kill [[Larry (Spearmint)]], he's friendly"
+- We fight
+	- Someone on a horse comes, it is an undead; turns out to be [[Tom, Local Cannibal]]
+		- We murder him
+	- Larry, Dairy, Marry are siding with [[Krusa]]
+- [[Tom, Local Cannibal]] has a note
+	- "Enjoy this second chance. I will not give you a third. If you wish to enjoy it for long, you need to feed." - "S" (single letter)
+	- [[Novamere]] and [[Blume]] look for runes on the body
+		- They are in infernal, [[Novamere]] copies it down
+		- [[Blume]], detect magic, magic's very presence makes his head hurt; the magic that was in him is fading. Necromancy, evocation, and transmutation magic
+		- Looking closer, the two of us piece together that whatever [[Tom, Local Cannibal]] was... he isn't now, but he wasn't mindless. He was still tom, but something was altered
+- Loot
+	- 20 silver, 1 bottle of nice alcohol 20s
+	- Some maps, notes between [[Druid Gorbag]] and the [[Stag Lord]]
+		- They used animal messengers, messages are just regular mostly, some relate to the recent destruction of camps in the area. The [[Stag Lord]] is "disappointed" by this development
+			- "You have lost too much. Too many men, too much money. I am disappointed", signed with an impression in the paper of a horned skull

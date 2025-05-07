@@ -1,0 +1,8 @@
+- Spells:
+	- [[The Way I Learned It]]
+	- Cantrips:
+		- Cantrips Known +1
+		- Can learn Druid and Wizard cantrips & thaumaturgy
+	- Spells Known +1 (learned at 3rd level up)
+- Rites:
+	- Rites Known +1

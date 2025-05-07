@@ -1,0 +1,55 @@
+Keeping track of [[Blume]]'s levels here starting at level 2. Before level 2 is just what I remember
+
+- 0
+	- [Saves]: WIS, CHA
+	- [Skills]: Arcana, Deception
+	- [Background]: Cloistered Scholar
+		- History, Religion
+		- [[Elvish]], [[Dwarvish]]
+	- [Skilled] (feat):
+		- Arcana
+		- Perception
+		- Slight of Hand
+- 0 => 1
+	- [Occult Tradition]: Hedge Madge
+		- Cantrips Known +1
+		- Nature Proficiency
+		- Habitual Casting
+	- [Eldritch Adept] (feat): Eldritch Sight
+- 1 => 2
+	- [Spells]:
+		- Removed: [[Burn (REMOVED)]]
+		- Added: [[Thorn Whip]]
+	- [2 Rites]:
+		- [[Mass Cantrip]]
+		- [[Markings of Protection]]
+- 2 => 3
+	- 17 HP + 4 dice + 2 con = 23 HP
+	- Spells Learned: [[Web]], [[Clay Touch]]
+	- [[Light of the Moon]] from [[The Rites of the Green Kings, and the Queen Consorts of Moonlight]] 
+		- [[Moonbeam]]
+		- [[Faerie Fire]]
+		- Additionally: [[Detect Evil and Good]] at will
+	- [Personalized Path]: 
+		- Spells Known +1
+		- Rites Known +1
+		- Rite: [Practice Makes Perfect]
+	- [[Illusionary Dart (REMOVED)]] -> [[Impact]], Ranged changed to 10 ft based on the way I learned it
+- 3 => 4
+	- 28 HP + 4 dice + 2 con = 34 HP
+	- ASI Wis: 18 -> 20
+		- We all sat down and told Andrew he can't do math, and that 28 was the average at level 3
+- 4 => 5
+	- 34 HP + 4 dice + 2 con = 40 HP
+	- Awakened Rope -> Misty Step
+	- Counterspell
+	- Haste
+	- Rite: Manipulate Magic
+- 5->6
+	- Hex -> Fog Cloud
+	- Absorb Elements learned from occultist lvl 6
+	- Blink learned from level up spells known
+	- 40 HP + 4 dice + 2 con = 46 HP
+- Feat training: Linguist
+	- +1 int: 16 -> 17
+	- Undercommon, Draconic, and Abyssal

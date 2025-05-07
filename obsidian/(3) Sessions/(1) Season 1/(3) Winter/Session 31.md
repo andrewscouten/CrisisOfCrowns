@@ -1,0 +1,19 @@
+- We come across the temple we were searching for, [[Willa]] was sent here on a pilgrimage
+- We see some dragon-born and kobolds, they throw spears at us kindly
+- They blow up & melt into some form of mud/paste when they die
+- The temple is locked from the outside, we open it
+- A black dragon comes out, arrogant
+- ACID DAMAGE ENSUES :D!
+	- Permanent Injury: [[Rory]] has lost her left hand. It can only be restored via high level restoration magic, or a prosthetic. 
+	- Permanent Injury: [[Blume]] is blind in his left eye, which was damaged beyond repair, except via high level restoration magic, or a prosthetic. (edited)
+	- Permanent Injury: [[Ghorza]] has lost her pinky and ring finger of her left hand. This has given her disadvantage on sleight of hand checks. These can only be restored via mid to high level restoration magic
+- [[Willa]] meets her goddess
+- Ask question three and I will answer them to the best of my ability:
+	- What do you know about this, as much as possible?
+		- The wyrm who organized this is the father of that whelp you just fought. The [[Taker of Lives]] is the title he has declared for himself. But... You fought his son. Unfortunately, that is not his only child... [[Mygath]] is the only black dragon I have ever known to raise their young instead of throwing them out on their own. As such, his children are quite loyal to them. I know not how many who would fight, but 3 might cause trouble. One calls these swaps home, one swamps far to the south near the bay of crabs, one far far... far to the south deep in the lands of always winter.
+	- What do we need to defeat them?
+		- What you have already done as a party is the right trail to follow... Your items, growing in your own strength. I cannot give you power you cannot handle. This ask will take you years. I do not expect you to abandon others or aimless hunt them on your own. Do not fight them on their turf, split you all up, break you down one by one. They're [ambush predators], plan your own
+		- Slowly the stone climbs up her flesh, the goddess is becoming a statue again
+	- Do you know any weakness they have?
+		- These beings pollute and destroy. They cannot pollute that which cannot be polluted. Enchanted holy water, springs... If it can cure or cleanse it is antithetical to their being. Last hearing of [[Mygath]] has been centuries, similar to [[Dracolichdom]]... you might look into rumors. Burry the bodies here with honors, and burn those who infested my temple. Seal the library on the lower floors, let others know. Take what you need. It is all open to you and the fellows. This is now your mission, be damed what the temple says..... You honor me child, thank you, Lady [[Willa]]
+		- Creak of stone, vision fades as the statue comes back into its original place. Vision goes black, blinking back in, statue is broken once again covered in blood

@@ -1,0 +1,21 @@
+__Session__
+- We have 9 people so far
+	- [[Krusa]], [[Rock Brothers, dwarves: Brock, Granite, Shale]], Dickin' Down Davin, Stint, Larry, Marry, Dary
+- [[Blume]] takes a second, as he got his ass kicked by a dog
+- The [season is approaching winter], seasons last 9 months, years last 12
+- [[Novamere]] takes some time to himself in the forest to unwind and process what happened
+- [[Selene]] wonders into the forest, never to be seen again
+	- Just kidding, she spends time there doing random things (originally in search of the Tree man from [[Session 8]])
+	- She hears the crack of a vine above her, it gives her a little scroll with a red bow on top tied up by brambles
+	- Inside is a ring... She puts it on without checking with anyone who knows magic D: 
+		- May her gods protect her
+		- They kinda did? The ring feels like divine magic in some way, but different than her divine magic. 
+			- "Similar to a minor boon, like if a cleric were to get a minor boon from a god"
+			- [Ring of Ensnarement]
+				- People of her faith will recognize her as favored by her gods
+				- 3 charges, regains 1d3 charges every dawn/dusk (her choice)
+				- May expend 1 charge to cast the spell [Ensnaring Strike] with a spell save DC of 13
+- We spend a moment to pack up their camp
+	- 200 ish pounds of lumber, some other odds and ends
+- A bit into the road, we hear the snarling of a large beast
+- Init: [[Selene]], [[Rory]], [[Fyudor]], Warg, [[Blume]], [[Ghorza]], [[Novamere]]

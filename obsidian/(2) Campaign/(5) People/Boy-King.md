@@ -1,0 +1,1 @@
+- Killed by the [[Stag Lord]] when he was 2 years old, who then took over the deceased's life for 11 years.
