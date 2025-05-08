@@ -1,0 +1,1 @@
+![[spell_2_wither_and_bloom.png]]

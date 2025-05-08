@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "22f0ef88c52576c6",
+        "id": "f659d40d59069105",
         "type": "tabs",
         "children": [
           {
-            "id": "81c64e4cf669c3d6",
+            "id": "5b3fc6b97e6d9ec2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(3) Sessions/(1) Season 1/(3) Winter/Session 39.md",
+                "file": "(3) Sessions/(2) Season 2/Session 43.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 39"
+              "title": "Session 43"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 292.5
   },
   "right": {
     "id": "aa922eeb35383456",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
+                "file": "(3) Sessions/(2) Season 2/Session 43.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 41"
+              "title": "Backlinks for Session 43"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(3) Sessions/(1) Season 1/(3) Winter/Session 39.md",
+                "file": "(3) Sessions/(2) Season 2/Session 43.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 39"
+              "title": "Outgoing links from Session 43"
             }
           },
           {
@@ -157,8 +157,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -167,12 +167,21 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "49531c4a568e1c33",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,54 +202,54 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "81c64e4cf669c3d6",
+  "active": "5b3fc6b97e6d9ec2",
   "lastOpenFiles": [
-    "(2) Campaign/(5) People/King Garette Norcross.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 39.md",
-    "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 40.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 38.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 37.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 36.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 35.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 34.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 33.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 32.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 31.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 30.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 29.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 25.md",
-    "(2) Campaign/(4) Locations/POI/Curios Curosities.md",
-    "(0) Obsidian_Stuff/_Uncategorized/Curios.md",
-    "(0) Obsidian_Stuff/_Uncategorized/Dora.md",
-    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 20.md",
-    "(2) Campaign/(2) Factions/Civil War/Followers of the Rightful Queen/Leaders/Harwick Gilgash.md",
-    "(2) Campaign/(2) Factions/Civil War/Followers of the Rightful Queen/Leaders/Queen Knorren.md",
-    "(2) Campaign/(5) People/Ser George.md",
-    "(2) Campaign/(5) People/Braum.md",
+    "(2) Campaign/(5) People/Droeph.md",
+    "(1) The Party/Zach.md",
+    "Ethemore.md",
+    "(0) Obsidian_Stuff/_Uncategorized/Ethemore.md",
+    "(2) Campaign/(4) Locations/Capital City.md",
+    "(2) Campaign/(5) People/Contacts",
+    "(0) Obsidian_Stuff/_Images/ref_map_ethemore.png",
+    "(2) Campaign/(2) Factions/Civil War/Queens Guard/Queen's Guard.md",
+    "(2) Campaign/(2) Factions/Civil War/Regency/Regency.md",
+    "(2) Campaign/(5) People/Contacts/Engator.md",
+    "(3) Sessions/(2) Season 2/Session 43.md",
+    "(2) Campaign/(2) Factions/Civil War/Moreth Stone/Moreth Stone.md",
+    "(2) Campaign/(2) Factions/Civil War/Moreth Stone",
+    "(2) Campaign/(1) Entities/Gods/Rea'Thain.md",
+    "Rough Map.md",
+    "Crisis of Crowns.md",
+    "(0) Blume/Rites/Markings of Protection.md",
+    "(2) Campaign/(1) Entities/Gods/Rhydahn.md",
     "(2) Campaign/(2) Factions/Civil War/Followers of the Rightful Queen/Followers of the Rightful Queen.md",
-    "(2) Campaign/(2) Factions/Civil War/Followers of the Rightful Queen/Leaders",
-    "(2) Campaign/(4) Locations/POI/Branched Lake.md",
-    "(2) Campaign/(2) Factions/Civil War/Followers of the Rightful Queen",
-    "(2) Campaign/(2) Factions/Civil War/Three Sister's Rebellion/People",
-    "(2) Campaign/(4) Locations/Lands/Land of Always Winter/Cities",
-    "(2) Campaign/(4) Locations/Lands/Bitter Water/POI",
-    "(2) Campaign/(4) Locations/Lands/Bitter Water/Cities",
-    "(2) Campaign/(4) Locations/Lands/Basilisk Isles/POI",
-    "(2) Campaign/(4) Locations/Lands/Basilisk Isles/Cities",
-    "(2) Campaign/(2) Factions/Freemen/Members",
-    "(2) Campaign/(2) Factions/Civil War/Three Sister's Rebellion/Leaders",
+    "(0) Obsidian_Stuff/_Images/spell_1_comprehend_languages.png",
+    "(2) Campaign/(6) Misc/Items/Charms/Weapon/Charm of Feather Weight.md",
+    "(2) Campaign/(6) Misc/Items/Charms/Weapon/Charm of Clockwork Equalibirum.md",
+    "(0) Blume/_Spells/1st/Comprehend Languages.md",
+    "(0) Blume/_Spells/_Cantrip/Mind Sliver.md",
+    "(0) Obsidian_Stuff/_Images/spell_cantrip_mind_sliver.png",
+    "(0) Blume/_Spells/_Cantrip/Eldritch Blast.md",
+    "(0) Obsidian_Stuff/_Images/spell_cantrip_eldritch_blast.png",
+    "(0) Blume/Levels.md",
+    "(2) Campaign/(5) People/Necronic.md",
+    "(2) Campaign/(6) Misc/Languages/Elvish.md",
+    "(0) Blume/Level-Up Reminders.md",
+    "(3) Sessions/Unused Items.md",
+    "(0) Obsidian_Stuff/_Images/spell_2_spike_growth.png",
+    "(0) Obsidian_Stuff/_Images/spell_2_wither_and_bloom.png",
     "(0) Obsidian_Stuff/_Images/ref_map1.jpg",
+    "(2) Campaign/(4) Locations/Ethemore/Bitter Water Vale/POI",
+    "(2) Campaign/(4) Locations/Ethemore/Deadlands",
+    "(2) Campaign/(4) Locations/Ethemore/Bay of Crabs",
+    "(2) Campaign/(2) Factions/Civil War/Regency",
+    "(2) Campaign/(2) Factions/Civil War/Queens Guard",
+    "IMG_5735.heic",
+    "IMG_5734.heic",
+    "IMG_5733.heic",
     "(0) Obsidian_Stuff/_Images/ref_char_greenbelt.png",
     "(0) Obsidian_Stuff/_Images/item_moon_sickle.png",
     "(0) Obsidian_Stuff/_Images/occultist_rite_mass_cantrip.png",
-    "(0) Obsidian_Stuff/_Images/shocking_grasp.png",
-    "(0) Obsidian_Stuff/_Images/spell_cantrip_shocking_grasp.png",
-    "(0) Obsidian_Stuff/_Images/spell_2_shattering_shield.png",
-    "(0) Obsidian_Stuff/_Images/occultist_practice_makes_perfect.png",
-    "(0) Obsidian_Stuff/_Images/spell_2_web.png",
-    "(0) Obsidian_Stuff/_Images/spell_2_prayer_of_healing.png",
     "Untitled.canvas",
     "Factions/Untitled.canvas"
   ]

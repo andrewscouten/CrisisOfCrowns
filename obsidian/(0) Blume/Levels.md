@@ -53,3 +53,11 @@ Keeping track of [[Blume]]'s levels here starting at level 2. Before level 2 is 
 - Feat training: Linguist
 	- +1 int: 16 -> 17
 	- Undercommon, Draconic, and Abyssal
+- Gifts from DM:
+	- Do not count against known spells
+		- [[Spike Growth]]
+		- [[Wither and Bloom]]
+	- Warlock Magic Initiate
+		- [Eldritch Blast](https://dnd5e.wikidot.com/spell:eldritch-blast)
+		- [Mind Sliver](https://dnd5e.wikidot.com/spell:mind-sliver)
+		- [Comprehend Languages](https://dnd5e.wikidot.com/spell:comprehend-languages)

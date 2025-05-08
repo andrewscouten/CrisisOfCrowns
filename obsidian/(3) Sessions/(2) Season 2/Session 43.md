@@ -1,0 +1,25 @@
+- The party is hired by [[Prince Beorneth Norcross]], who has heard of the [[Nameless Company]]'s exploits. We are tasked with taking the former spy master, [[Eret]] -- [[Rory]]'s mom, out of the area and back to a safer location
+	- 20 sp for a week with bonuses available, a stipend of xyz if we complete the quest... We've been promised housing and transport
+- [[Blume]] stays behind at the keep, investigating the curse and area
+	- The curse is the [[Black Briar Curse]]... Not [[Gehenna]] in nature
+	- You are ripping these thorns out of your leg and eye sockets
+	- Studying the curse and the connection with [[Brown One|Rkto]], through experimentation and practice learned a new spell
+		- does not count against known spells
+		- Spike growth, Wither and Bloom
+		- Warlock initiate feat, using wisdom
+	- He starts making his way home, hearing tales of a fire haired knight and a half handed warrior woman... Rumors of a one eye-ed barbarian and a one legged mage... A hook handed druid and a woman clad in flowers and bones.... It is here where he is reminded of what the party was... 
+		- Soon enough, as luck would have it, he stops one more time to resupply in the northern part of the [[Bay of Crabs]]
+		- He is stopped by a household knight wearing the heraldry of the house of the king
+			- The golden crown, instead of being on a field of waving gold is over a field of black with green labyrinthian lines all over it... This is the emblem of [[Prince Beorneth Norcross]]
+			- [[Ser Eres Pennytree]] stops [[Blume]], requesting his presence at the river station down south.
+- Cut back to the rest of the party, they are in the [[River Station]] and ask [[Prince Beorneth Norcross|Beorneth]] if there are any smiths in the fort. [[Willa]] and [[Zach]] want to upgrade their weapons
+- [[Zach]] makes a deal with a magical resident at the station, [[Droeph]], kill competition in the capital and he will get a cloak of disguise self
+- [[Rory]] makes a deal with [[Droeph]], win 2 duels with with random people and take their stuff, trade in for magical items
+- [[Willa]] also makes a deal... When we go to the capital, we need to kill someone for her... Cut his throat with her dagger... Plant the body into the alley way next to the guard house
+	- The tattoo is a scar that takes shape along with ink
+- [[Cassia]] makes a deal with [[Droeph]], let her brother [[Rhydahn]] speak through her so that these siblings may have a chat
+- [[Blume]] makes a deal to improve his marking of protections
+	- 1) Complete a task, within the capital gardens of the [[Crowned Keep]] itself, there is an effigy... I need it "removed", preferably destroyed... It was put in place by the follower of the [[False Queen]]; it has been used as an altar by the people she still has stationed in the keep. Destroying it will lessen her influence
+		- For the pearl to be integrated into the tattoo... the man who made it should be killed.... destroy him the same way you would the effigy... Within those same gardens there is a tree of which I am familiar... A wyrd tree, hand his entrails onto it 
+	- 2) Part of the curse in the eye... She takes 6 inches of briar roots about as thick as a quarter
+- [[Zach]] gains an allied contact in the capital city: [[Engator]]

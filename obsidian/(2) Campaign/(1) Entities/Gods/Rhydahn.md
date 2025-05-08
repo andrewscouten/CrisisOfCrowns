@@ -1,3 +1,10 @@
+---
+aliases:
+  - Bone Master
+  - Harvestman
+siblings:
+  - Rea'Thain
+---
 > [!info] God of the dead, flow and destruction caused by time, harvesting, ruler of the Field of Wheat 
 
-God of benevolent necromancy
+[[Cassia]] works with this entity

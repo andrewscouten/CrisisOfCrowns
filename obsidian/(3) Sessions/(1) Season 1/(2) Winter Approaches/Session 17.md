@@ -57,7 +57,7 @@
 	- She is alive, last the knew... Hasn't been seen in years, but last seen was a high-ranking advisor (3-4 years ago)
 		- Recently recovering from assassination attempts
 	- "That sword... even I can tell was recently broken further. When Daren wielded it, it never repaired itself for 30 years."
-		- Daren was last seen "wasting away" in a keep on [[The Bay of Crabs]] near the town of [[Antlers]]
+		- Daren was last seen "wasting away" in a keep on [[Bay of Crabs]] near the town of [[Antlers]]
 	- "You are the daughter of two ancient families. There are those that look upon your journey."
 	- "Daughter of [[Eret]] and [[Breon]]..."
 	- "There were 3 other wielders in history of your [[Oathblade]]"

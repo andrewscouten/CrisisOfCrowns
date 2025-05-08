@@ -1,0 +1,1 @@
+![[spell_2_spike_growth.png]]

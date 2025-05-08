@@ -1,0 +1,1 @@
+![[spell_cantrip_eldritch_blast.png]]

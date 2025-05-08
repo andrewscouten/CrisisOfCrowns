@@ -1,1 +1,0 @@
-[[Oathblade]], [[Oathsworn]]

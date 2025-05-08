@@ -1,0 +1,1 @@
+![[spell_1_comprehend_languages.png]]

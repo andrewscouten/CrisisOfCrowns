@@ -14,7 +14,7 @@
 		- Class: Hound of the Huntsman
 	- [[Rory]]
 		- Remembering the sword, but they are not themselves. As if they are seeing through the eyes of someone else. In their hand is the same sword, still broken and as they last left it. They see it being swung, cleaving through shadow, demons, and people alike. There are no recognizable symbols besides one with [3 pine trees with a crown emblazoned above them (kings of Reventree)], it all being ancient in origin. This could have happened maybe a thousand years ago.
-		- The memory is a battle. [[Rory]] doesn't know the name of the battle, but a blurb about a time where an alliance (tri-archy) of man, undead, and demon worked together to attempt to conquer the realm of man. To shroud [[(0) Obsidian_Stuff/_Uncategorized/Ethemore]] in a long night.
+		- The memory is a battle. [[Rory]] doesn't know the name of the battle, but a blurb about a time where an alliance (tri-archy) of man, undead, and demon worked together to attempt to conquer the realm of man. To shroud [[Ethemore]] in a long night.
 - [[Ser Danal]] is waiting in the common room
 	- He has some news
 	- He informs us of [[Novamere]]'s leaving the group
