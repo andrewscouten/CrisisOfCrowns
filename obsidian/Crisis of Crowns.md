@@ -14,6 +14,14 @@
 > - [[Novamere]]
 > - [[Selene]]
 
+## Factions
+> [!info]+ Fighting for the Crown
+> - [[Followers of the Rightful Queen]]
+> - [[Moreth Stone]]
+> - [[Queen's Guard]]
+> - [[Regency]]
+> - [[Three Sister's Rebellion]]
+
 ## Quick Links
 
 - [[Unused Items]]
