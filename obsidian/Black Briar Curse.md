@@ -1,0 +1,2 @@
+- Not a curse of the lower plains
+- A curse of the first world and of Celesta... Also a curse of neither and both... Not fully of either place but is of both places... Divine and fey curse...It will spread from you when you are stagnant in a place / time / moment... It will begin to interfere with your magic should it progress; there are ways to weaponize it agains your foes if you wish

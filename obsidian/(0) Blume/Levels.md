@@ -54,6 +54,7 @@ Keeping track of [[Blume]]'s levels here starting at level 2. Before level 2 is 
 	- +1 int: 16 -> 17
 	- Undercommon, Draconic, and Abyssal
 - Gifts from DM:
+	- Primal Fire Rite
 	- Do not count against known spells
 		- [[Spike Growth]]
 		- [[Wither and Bloom]]

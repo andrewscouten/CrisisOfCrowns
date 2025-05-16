@@ -1,0 +1,14 @@
+- [[Rory]] is completing their missions:
+	- Halliel Withill, a human person who has orcish and elvish features... Her preferred weapon is a one handed spear and a heavy old shield. She has been seen as under the wing of Twice-dead and his other companions. 
+	- Ser Clamor Twice-dead... A hotheaded knight that responds violently to attacks against his honor. Apart of sacks against villages he was ordered to not be a part of.
+	- Ser Blithe of [[River Station]] (knight), Iron-head Walton, Fat Tom, and Mouse, cooks apprentice named Turnip have been seen around them
+	- The two of them are members of a band of knights and free-riders referred to as the [Black Dog Legion], [Black Heart Legion], or [Gutter Knights]... Most of them are criminals fighting as their sentence, or some are violent knights, etc... Their banner is the decapitated head of a shaggy black dog on a field of yellow that is dripping blood
+- [[Blume]] and [[Black Briar Curse]] info
+	- Not a curse of the lower plains
+	- A curse of the first world and of Celesta... Also a curse of neither and both... Not fully of either place but is of both places... Divine and fey curse...It will spread from you when you are stagnant in a place / time / moment... It will begin to interfere with your magic should it progress; there are ways to weaponize it agains your foes if you wish
+	- MAGIC UPGRADE:
+		- Hail of thorns but use it to modify attack rolling spells instead of weapon attacks
+		- Ensnaring strike if you hit a creature with a range attack
+		- Mass cantrip works with this 
+- We fight the enemy knights and combatants...
+	- [[Ghorza]] hits one with a gilded weapon and it reverts into its original shape which is a DEMON?

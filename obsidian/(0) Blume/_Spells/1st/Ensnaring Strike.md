@@ -1,0 +1,1 @@
+![[spell_1_ensnaring_strike.png]]
