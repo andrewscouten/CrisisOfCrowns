@@ -26,5 +26,6 @@
 
 - [[Unused Items]]
 
-## Ethemore
+## Maps
+
 ![[Ethemore]]

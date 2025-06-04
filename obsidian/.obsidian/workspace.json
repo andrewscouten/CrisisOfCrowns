@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9bae52725cf12a97",
+        "id": "65edd8661c57ac53",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed02ca6729683d7",
+            "id": "ad9a531a1f4cc454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethemore.md",
+                "file": "Crisis of Crowns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethemore"
+              "title": "Crisis of Crowns"
             }
           }
         ]
@@ -202,13 +202,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "0ed02ca6729683d7",
+  "active": "ad9a531a1f4cc454",
   "lastOpenFiles": [
-    "Rough Map.md",
     "Ethemore.md",
     "Crisis of Crowns.md",
-    "Black Briar Curse.md",
     "(3) Sessions/Unused Items.md",
+    "(3) Sessions/(2) Season 2/Session 46.md",
+    "(3) Sessions/(2) Season 2/Session 45.md",
     "(3) Sessions/(2) Season 2/Session 44.md",
     "(3) Sessions/(2) Season 2/Session 43.md",
     "(3) Sessions/(2) Season 2/Session 42.md",
@@ -230,25 +230,25 @@
     "(3) Sessions/(1) Season 1/(3) Winter/Session 26.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 25.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 24.md",
-    "(0) Blume/PDFs/Occultist_1.4.1.pdf",
+    "(2) Campaign/(5) People/Party/Fyudor",
+    "(2) Campaign/(5) People/Party/Zach/Contacts",
+    "(2) Campaign/(5) People/Party/Zach",
+    "(2) Campaign/(5) People/Party",
+    "(2) Campaign/(5) People/Party/Rory",
+    "(2) Campaign/(5) People/Historic",
+    "(2) Campaign/(5) People/Oathsworn",
+    "(2) Campaign/(5) People/Nobels",
+    "(2) Campaign/(5) People/Contacts/Zach",
+    "(2) Campaign/(1) Entities/Gods/Rea'Thain",
     "(0) Obsidian_Stuff/Images/spell_1_ensnaring_strike.png",
     "(0) Obsidian_Stuff/Images/spell_1_hail_of_thorns.png",
-    "(2) Campaign/(5) People/Contacts",
     "(0) Obsidian_Stuff/Images/ref_map_ethemore.png",
-    "(2) Campaign/(2) Factions/Civil War/Moreth Stone",
     "(0) Obsidian_Stuff/Images/spell_1_comprehend_languages.png",
     "(0) Obsidian_Stuff/Images/spell_cantrip_mind_sliver.png",
     "(0) Obsidian_Stuff/Images/spell_cantrip_eldritch_blast.png",
     "(0) Obsidian_Stuff/Images/spell_2_spike_growth.png",
     "(0) Obsidian_Stuff/Images/spell_2_wither_and_bloom.png",
     "(0) Obsidian_Stuff/Images/ref_map1.jpg",
-    "(2) Campaign/(4) Locations/Ethemore/Bitter Water Vale/POI",
-    "(2) Campaign/(4) Locations/Ethemore/Deadlands",
-    "(2) Campaign/(4) Locations/Ethemore/Bay of Crabs",
-    "(2) Campaign/(2) Factions/Civil War/Regency",
-    "(2) Campaign/(2) Factions/Civil War/Queens Guard",
-    "IMG_5735.heic",
-    "IMG_5734.heic",
     "(0) Obsidian_Stuff/Images/ref_char_greenbelt.png",
     "Untitled.canvas",
     "Factions/Untitled.canvas"

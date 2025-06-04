@@ -1,6 +1,6 @@
 - We meet an old man on the road right outside of town
     - [[Dora]], headed to Lester
-    - He knew [[Rory]]'s dad, [[Flint]]
+    - He knew [[Rory]]'s dad, [[Flint the Beggar]]
 - South of [[Llorian]] is a very old temple that might be able to help [[Con'Niall|Niall]]
     - Temple of the Golden Leel
 - Magic shop keeper [[Curios Curosities]] by [[Curios]]
