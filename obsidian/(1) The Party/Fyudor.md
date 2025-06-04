@@ -23,6 +23,7 @@ Player: Willow
 > - His hands have his blood on them, from clutching his palms in his sleep
 
 ## Image References
+
 ![[ref_party_fyudor1.png]]
 ![[ref_party_fyudor2.png]]
 ^ binturong / bear cat

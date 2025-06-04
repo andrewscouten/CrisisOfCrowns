@@ -51,3 +51,7 @@ connections.get_connections(dv)
 > -  She takes it out, and a blue flame erupts from the sword
 > - The sword begins to repair itself, the chip above the hilt begins to fill in
 > - She awakens, and the sword is on her chest 
+
+## Image References
+
+![[ref_party_rory.jpg]]

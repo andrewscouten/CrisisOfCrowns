@@ -29,3 +29,10 @@
 ## Maps
 
 ![[Ethemore]]
+
+## Friends 
+
+![[mp_friends1.jpg|p+c hs-med]]![[mp_friends3.jpg|p+c hs-med]]![[mp_friends2.jpg|p+c hs-med]] 
+
+ ![[mp_goof1.jpg|p+c hs-med]]![[mp_goof2.jpg|p+c hs-med]]![[mp_goof3.jpg|p+c hs-med]] ![[mp_fight1.jpg|p+c hs-med]]
+ 
