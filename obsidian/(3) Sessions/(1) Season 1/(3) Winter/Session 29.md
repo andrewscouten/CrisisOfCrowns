@@ -1,31 +1,27 @@
-- [Con'Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html) grabs a stone tablet off of the wall, jumps down to the basement and goes down to fall damage
-    
+- [[Con'Niall|Niall]] grabs a stone tablet off of the wall, jumps down to the basement and goes down to fall damage
     - There is something scary in the basement, a rock with tentacles. It grabs people with 4 tentacles. It fucks us up...
-- We defeat the thing, [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html) makes a deal with [Rkto](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/ancients/rkto.html) for 40 years of his life and his service...
-    
+- We defeat the thing, [[Blume]] makes a deal with [[Brown One|Rkto]] for 40 years of his life and his service... 
     - "You poor sweet child..."
     - He will now live as long as a human, not a half-elf
-    - [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html) now has a scar going from his eye to his ear & a white skunk trail in his hair
-    - We beat it with the help, barely... [Rkto](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/ancients/rkto.html) does almost 50 damage and it still lives
+    - [[Blume]] now has a scar going from his eye to his ear & a white skunk trail in his hair
+    - We beat it with the help, barely... [[Brown One|Rkto]] does almost 50 damage and it still lives
 - We meet Phil? A dead wizard
-    
     - He gives us the robes off of his fucking back???
     - Books, spell scrolls, flips his sarcophagus open and fills a bottle of liquid stone
         - Potion of stone skin
         - "Once you put the lid back on I'll be put in the field of wheat" - He wants to die again
         - Advanced form of speak with dead that was cast on a sigil on his coffin
 - More puzzles:
-    
     - 2nd floor
         - You can swallow me but I can consume you:
-            - [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html) instantly, Pride
+            - [[Rory]] instantly, Pride 
     - 4th Floor
         - For now I must stay under the one who made me, but when they die I'll be as powerful as them. They will watch and listen to what I say and some of their money to me they'll pay. Who am I?
             - Apprentice (X)
             - Heir (Yes!)
         - There is a boat filled with people, it does not seem to sink but looking again you do not see a single person. ~~No ripples in the water, no smoke in the sky, no bubbles.~~ Why?
             - Ghost ship (X)
-            - [Llyran-Mac-Barione](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/gods/llyran-mac-barione.html) God of springs and lakes, father of rivers, ferry-man of the dead (X)
+            - [[Llyran-Mac-Barione]] God of springs and lakes, father of rivers, ferry-man of the dead (X) 
             - Ship in bottle (?)
             - HINT: Play on words, not a direct riddle. Last sentence is a diversion
             - Relationship (Yes!)
@@ -33,9 +29,8 @@
         - When is a door not a door?
             - When it's a jar :(
 - LOOT
-    
     - From the wizard
-        - ~~Robe (abjuration) - Similar to [Cassia](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/cassia.html)'s robe of protection, slightly less abjuration and some necromancy magic <- [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html)~~
+        - ~~Robe (abjuration) - Similar to 's robe of protection, slightly less abjuration and some necromancy magic <- [[Blume]]~~
             - Robe of fallen speech, can understand any language a dead person speaks and can cast Speak with Dead once per long rest. If you die while attuned it is destroyed. While wearing this you get advantage on skill checks to identify items of necromantic origin
         - ~~Wand, couple of spells (evocation, abjuration, necromancy)~~
         - 2 x Spell scrolls (below)
@@ -59,9 +54,9 @@
                 - ~~Moon-touched great-sword~~
                 - ~~Adamantine splint armor~~
                 - Periapt of wound closure <- AMAZING
-                - Amulet made out of glass, dragon's eye with draconic scales wrapped around the chain (spell casting focus) <- [Cassia](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/cassia.html) needs
-                - Green feathered quill, instead of having ink it has sharpened emerald on the tip. Writes without needing ink <- [Rory](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/rory.html) for maps
-    - 8x scrolls total (from wizard & chest)
+                - Amulet made out of glass, dragon's eye with draconic scales wrapped around the chain (spell casting focus) <- [[Cassia]] needs
+                - Green feathered quill, instead of having ink it has sharpened emerald on the tip. Writes without needing ink <- [[Rory]] for maps
+    - 8x scrolls total (from wizard & chest) 
         - 2nd lvl chaos bolt
         - ~~5th lvl conjure volley~~
         - ~~2nd lvl hold person~~

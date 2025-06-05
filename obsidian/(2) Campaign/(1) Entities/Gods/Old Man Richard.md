@@ -8,7 +8,7 @@ aliases:
 ## Connections
 
 ```dataviewjs
-var connections = require(app.vault.adapter.basePath + "/(0) Obsidian_Stuff/dataview/connections.js");
+var connections = require(app.vault.adapter.basePath + "/(0) Obsidian_Stuff/code/connections.js");
 //test
 connections.get_connections(dv)
 ```

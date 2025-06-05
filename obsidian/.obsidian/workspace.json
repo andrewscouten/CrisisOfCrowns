@@ -4,73 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "cc747f19355f1b24",
+        "id": "93459081142722cf",
         "type": "tabs",
         "children": [
           {
-            "id": "e3cef368520ac13e",
+            "id": "2457abbb6bb85e4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(3) Sessions/(2) Season 2/Session 46.md",
+                "file": "(3) Sessions/(1) Season 1/(3) Winter/Session 32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 46"
-            }
-          },
-          {
-            "id": "d2619ad7ebbd1ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(3) Sessions/(1) Season 1/(3) Winter/Session 39.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 39"
+              "title": "Session 32"
             }
           }
         ]
       },
       {
-        "id": "2c588cf38346f474",
+        "id": "389aba9bbfee50dc",
         "type": "tabs",
         "children": [
           {
-            "id": "354b6f01e9352c8b",
+            "id": "2de7ae6aca1ca044",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(1) The Party/Blume.md",
+                "file": "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blume"
-            }
-          },
-          {
-            "id": "bd300451174ddb3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(1) The Party/Ghorza.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ghorza"
+              "title": "Sessions to redo formatting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ser",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 293.5
   },
   "right": {
     "id": "aa922eeb35383456",
@@ -199,36 +170,6 @@
               "icon": "lucide-list",
               "title": "Outline of Selene"
             }
-          },
-          {
-            "id": "5f1ac97d73204707",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c6efc8f42d9f758b",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "49531c4a568e1c33",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
           }
         ]
       }
@@ -246,39 +187,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-kanban:Create new board": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e3cef368520ac13e",
+  "active": "2457abbb6bb85e4e",
   "lastOpenFiles": [
-    "Ethemore.md",
-    "Crisis of Crowns.md",
-    "(3) Sessions/(2) Season 2/Session 46.md",
-    "(3) Sessions/(2) Season 2/Session 45.md",
-    "(3) Sessions/(2) Season 2/Session 44.md",
-    "(3) Sessions/(2) Season 2/Session 43.md",
-    "(3) Sessions/(2) Season 2/Session 42.md",
-    "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 40.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 39.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 38.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 37.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 36.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 35.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 34.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 33.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 40.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 32.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 30.md",
+    "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
+    "(2) Campaign/(2) Factions/Green Coven.md",
+    "(1) The Party/Rory.md",
+    "(2) Campaign/(6) Misc/Homebrew",
+    "(2) Campaign/(1) Entities/Gods/The Three Siblings/Vydahr.md",
+    "(2) Campaign/(1) Entities/Ancients/Ur-Mother Bear.md",
+    "(2) Campaign/(5) People/Party/Rory/Ser George.md",
+    "(2) Campaign/(1) Entities/Gods/Rhydahn.md",
+    "(2) Campaign/(1) Entities/Gods/Old Man Richard.md",
+    "(2) Campaign/(1) Entities/Gods/Rea'Thain/Rea'Thain.md",
+    "(2) Campaign/(1) Entities/Gods/The Three Siblings/Myrmidia.md",
+    "(2) Campaign/(2) Factions/Civil War/Followers of the Rightful Queen/Leaders/Queen Knorren.md",
+    "(2) Campaign/(1) Entities/Gods/The Three Siblings/Lydesh.md",
+    "(2) Campaign/(5) People/Historic/King Garette Norcross.md",
+    "(2) Campaign/(1) Entities/Gods/Edris.md",
+    "(2) Campaign/(1) Entities/Gods/Granny.md",
+    "(2) Campaign/(1) Entities/Ancients/Brown One.md",
+    "(2) Campaign/(5) People/Party/Rory/Bethany Irons.md",
+    "(2) Campaign/(1) Entities/Gods/Agrius.md",
+    "(2) Campaign/(5) People/Party/Rory/Lukas.md",
+    "(3) Sessions/(2) Season 2/Session 46.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 29.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 28.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 27.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 26.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 25.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 24.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 23.md",
+    "(3) Sessions/(1) Season 1/(1) Autumn/Session 8.md",
     "(0) Obsidian_Stuff/images/main_page/mp_angus2.jpg",
     "(0) Obsidian_Stuff/images/main_page/mp_angus3.jpg",
     "(0) Obsidian_Stuff/images/main_page/mp_angus4.jpg",
@@ -298,7 +238,6 @@
     "(0) Obsidian_Stuff/images/main_page",
     "(0) Obsidian_Stuff/images/refs/characters/fyudor",
     "(0) Obsidian_Stuff/images/refs",
-    "(0) Obsidian_Stuff/images/blume/spells",
     "Untitled.canvas",
     "Factions/Untitled.canvas"
   ]

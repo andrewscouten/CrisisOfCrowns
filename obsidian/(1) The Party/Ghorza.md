@@ -8,7 +8,7 @@ aliases:
 
 Player: Katie
 
-[[Ghorza|Ser Ghorza Morn, Daughter of the Bloode]]
+# [[Ghorza|Ser Ghorza Morn, Daughter of the Bloode]]
 
 ## First Impressions
 
