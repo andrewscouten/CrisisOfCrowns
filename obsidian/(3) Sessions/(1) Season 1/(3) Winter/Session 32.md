@@ -17,23 +17,19 @@
             - Half orc, bard, last name of [[Clan Cracton]]
             - Dragon born who is in priests robes, [[Alathof]]
                 - Symbol of a trident pointing down: Either the symbol of the ferryman of the dead & god of freshwater [[Llyran-Mac-Barione]], [[Valkur]] god of sailors storms and wreathing, [[Ealena]] divine god of death and drowned... All 3 are known to use symbols of tridents
-            - Wood elf, [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html)'s grandfather, [Vigmir Yllavaris](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/vigmir-yllavaris.html)
+            - Wood elf, [[Blume]]
                 - Occultist with the cultists subclass
-            - Albino dwarf that looks similar to [Lady Thissleblack](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/lady-thissleblack.html), but is definitely not her... Perhaps someone in her past family? Approaching elderly in age.
+            - Albino dwarf that looks similar to [[Lady Thissleblack]], but is definitely not her... Perhaps someone in her past family? Approaching elderly in age.
     - Scene 2:
-        - Blink, and it's post dragon fight... Acid everywhere, missing limbs, and dead bodies of: Unnamed "trobodore", shed skin of [Alathof](https://crisis-of-crowns.games-with-friends.org/\(0\)-obsidian_stuff/_uncategorized/alathof.html), [Vigmir Yllavaris](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/vigmir-yllavaris.html) is still there missing his left eye
+        - Blink, and it's post dragon fight... Acid everywhere, missing limbs, and dead bodies of: Unnamed "trobodore", shed skin of [[Alathof]] is still there missing his left eye
 - We start our traveling through the swamp
-    
 - We see ruins, a trio of statues
-    
     - A woman holding a longsword above her head
     - A large man carrying a spear that he's ready to throw
     - A much smaller figure carrying what appears to be a scymitar
-    - A statue to [Three Sisters](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/locations/lands/three-sisters.html)
-- A group of familiarly dressed kobolds, draconionanc, and [Krusa](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/krusa.html)
-    
+    - A statue to [[Three Sisters]]
+- A group of familiarly dressed kobolds, draconionanc, and [[Krusa]]
 - **LOOT**
-    
     - 3rd level cast of warding bond, bound by a pair of two rings (25s each rings)
     - 3rd level cast of Arms of Hadar
     - 2 spent spell scrolls

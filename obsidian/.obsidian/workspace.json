@@ -8,37 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2457abbb6bb85e4e",
+            "id": "94fa170f09dfdc51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(3) Sessions/(1) Season 1/(3) Winter/Session 32.md",
+                "file": "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 32"
-            }
-          }
-        ]
-      },
-      {
-        "id": "389aba9bbfee50dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2de7ae6aca1ca044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sessions to redo formatting"
+              "title": "Session 41"
             }
           }
         ]
@@ -190,35 +170,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2457abbb6bb85e4e",
+  "active": "e98b1bafbed16a48",
   "lastOpenFiles": [
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 39.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 40.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 32.md",
+    "(0) Obsidian_Stuff/code/Useful Commands.md",
     "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
-    "(2) Campaign/(2) Factions/Green Coven.md",
-    "(1) The Party/Rory.md",
-    "(2) Campaign/(6) Misc/Homebrew",
-    "(2) Campaign/(1) Entities/Gods/The Three Siblings/Vydahr.md",
-    "(2) Campaign/(1) Entities/Ancients/Ur-Mother Bear.md",
-    "(2) Campaign/(5) People/Party/Rory/Ser George.md",
-    "(2) Campaign/(1) Entities/Gods/Rhydahn.md",
-    "(2) Campaign/(1) Entities/Gods/Old Man Richard.md",
-    "(2) Campaign/(1) Entities/Gods/Rea'Thain/Rea'Thain.md",
-    "(2) Campaign/(1) Entities/Gods/The Three Siblings/Myrmidia.md",
-    "(2) Campaign/(2) Factions/Civil War/Followers of the Rightful Queen/Leaders/Queen Knorren.md",
-    "(2) Campaign/(1) Entities/Gods/The Three Siblings/Lydesh.md",
-    "(2) Campaign/(5) People/Historic/King Garette Norcross.md",
-    "(2) Campaign/(1) Entities/Gods/Edris.md",
-    "(2) Campaign/(1) Entities/Gods/Granny.md",
-    "(2) Campaign/(1) Entities/Ancients/Brown One.md",
-    "(2) Campaign/(5) People/Party/Rory/Bethany Irons.md",
-    "(2) Campaign/(1) Entities/Gods/Agrius.md",
-    "(2) Campaign/(5) People/Party/Rory/Lukas.md",
-    "(3) Sessions/(2) Season 2/Session 46.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 29.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 40.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 39.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 38.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 33.md",
+    "(3) Sessions/(1) Season 1/(1) Autumn/Session 2.md",
+    "(3) Sessions/(1) Season 1/(1) Autumn/Session 12.md",
+    "(3) Sessions/(1) Season 1/(1) Autumn/Session 11.md",
+    "(3) Sessions/(1) Season 1/(1) Autumn/Session 10.md",
+    "(3) Sessions/(1) Season 1/(1) Autumn/Objectives.md",
+    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 20.md",
+    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 19.md",
+    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 18.md",
+    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 17.md",
+    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 16.md",
+    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 15.md",
+    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 14.md",
+    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 13.md",
+    "(3) Sessions/(1) Season 1/(1) Autumn/Session 9.md",
     "(3) Sessions/(1) Season 1/(1) Autumn/Session 8.md",
+    "(3) Sessions/(1) Season 1/(1) Autumn/Session 7.md",
+    "(3) Sessions/(1) Season 1/(1) Autumn/Session 6.md",
+    "(3) Sessions/(1) Season 1/(1) Autumn/Session 5.md",
+    "(2) Campaign/(6) Misc/Homebrew",
     "(0) Obsidian_Stuff/images/main_page/mp_angus2.jpg",
     "(0) Obsidian_Stuff/images/main_page/mp_angus3.jpg",
     "(0) Obsidian_Stuff/images/main_page/mp_angus4.jpg",

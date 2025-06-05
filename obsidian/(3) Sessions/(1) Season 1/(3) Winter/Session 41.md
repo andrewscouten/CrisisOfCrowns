@@ -1,15 +1,15 @@
-We continue our fight with the [Stag Lord](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/stag-lord.html)
+We continue our fight with the [[Stag Lord]]
 
-- [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html) goes down, his spirit haunting the battlefield as it attacks us
-- [[Con'Niall|Niall]] and [[Rory]] try to save [Milo](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/milo.html), [[Rory]] blasting the rope holding him with [Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html) trying to catch his fall. [Niall](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/con'niall.html) misses the catch, falling into the fire with [Milo](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/milo.html). [Milo](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/milo.html) goes down, [[Rory]] saves him and puts him on their steed / cow.
-- [Lady Thissleblack](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/lady-thissleblack.html) and Stint are saved by [[Rory]]
-    - [Lady Thissleblack](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/lady-thissleblack.html) heals [Milo](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/milo.html) and picks [Fyudor](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/fyudor.html) back up from being downed before joining the fight
-    - Stint grabs [Krom](https://crisis-of-crowns.games-with-friends.org/\(3\)-sessions/\(0\)-loot/\(2\)-important-items/oathblades/krom.html)... [Krom](https://crisis-of-crowns.games-with-friends.org/\(3\)-sessions/\(0\)-loot/\(2\)-important-items/oathblades/krom.html) changes shape from a greatsword to a one handed sword which Stint can fight with
+- [[Fyudor]] goes down, his spirit haunting the battlefield as it attacks us
+- [[[Con'Niall|Niall]] and [[Rory]] try to save [Milo]] goes down, [[Rory]] saves him and puts him on their steed / cow.
+- [[Lady Thissleblack]] and Stint are saved by [[Rory]]
+    - [[Lady Thissleblack]] back up from being downed before joining the fight
+    - Stint grabs [[Krom]] changes shape from a greatsword to a one handed sword which Stint can fight with
 - [[Con'Niall|Niall]] fully dies in the fire, too many rounds passing for revivify to matter
-    - Will [Greenbelt](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/entities/greenbelt.html) allow this?
-- [Ser George](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/ser-george.html) duels [Ser Danal](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/ser-danal.html), [Sister Minorah](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/sister-minorah.html) joins in before they both dispatch [Ser Danal](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/ser-danal.html)
-- [Sister Minorah](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/sister-minorah.html) sacrifices herself to revive [[Rory]]
-    - She prays to the gods' woods near the battlefield. "A life for a life." Before slitting her throat. [[Rory]] is revived, a scar forming on their throat in the same spot [Sister Minorah](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/sister-minorah.html) slit her throat.
+    - Will [[Greenbelt]] allow this?
+- [[Ser George]]
+- [[Sister Minorah]] sacrifices herself to revive [[Rory]]
+    - She prays to the gods' woods near the battlefield. "A life for a life." Before slitting her throat. [[[Rory]] is revived, a scar forming on their throat in the same spot [Sister Minorah]] slit her throat.
 - Stint fully dies, failing all of his death saves. He is not resurrected.
-- [Blume](https://crisis-of-crowns.games-with-friends.org/\(1\)-the-party/blume.html) dies but is resurrected by [[Willa]]
-- [Ser George](https://crisis-of-crowns.games-with-friends.org/\(2\)-campaign/people/ser-george.html) dies but is resurrected by [[Willa]]
+- [[Blume]] dies but is resurrected by [[Willa]]
+- [[Ser George]] dies but is resurrected by [[Willa]]
