@@ -11,7 +11,11 @@ aliases:
   - Aurora
 ---
 
+---
 Player: Marlo
+
+---
+> [!important] Ser Aurora, the Fiery Mane
 
 ## First Impressions
 

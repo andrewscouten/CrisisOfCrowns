@@ -6,9 +6,13 @@ aliases:
   - Ser Ghorza
 ---
 
-Player: Katie
+---
+Player: Katie (she/her)
+Character Colors: 
+- Brown, black, ivory ; earth colors
 
-# [[Ghorza|Ser Ghorza Morn, Daughter of the Bloode]]
+---
+> [!important] Ser Ghorza Morn, Daughter of the Bloode
 
 ## First Impressions
 

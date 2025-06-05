@@ -22,7 +22,7 @@
             - [[Agrius]]: "You've done well... We've only had to give you a heart attack 3 times. The bar was on the ground and you managed not to trip. Good job."
             - [[Greenbelt]] and take up its place as guardian. This is what you traded for me saving your people. Your days of adventuring are numbered. You have one more task that you chose, and then you are mine until you die. And even then..."
             - [[Agrius]]. Do you accept?"
-            - [[Niall]]: "I do."
+            - [[Con'Niall|Niall]]: "I do."
             - [[Greenbelt]]
         - [[Greenbelt]] laughs as [[Con'Niall|Niall]] blinks, dragon scales growing up his leg eventually covering his cheek and his combat damaged eye & ear. The scales fade and he can see out of both eyes again... His jaw is now half almost-draconic, his other damaged features becoming dragon-like. His damaged hand is now a scaled claw...
             - [[Con'Niall|Niall]] gains a breath weapon, 15 ft cone, replaces an attack (not attack action, but an attack), damage is number of d6 equal to level, choose between psychic, poison, or thunder damage when used, once per short rest or by extending a hit die

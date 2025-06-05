@@ -2,7 +2,12 @@
 aliases:
   - Blume Yllavaris
 ---
+
+---
 Player: Andrew (he/they)
+
+---
+
 
 ## Appearance
 

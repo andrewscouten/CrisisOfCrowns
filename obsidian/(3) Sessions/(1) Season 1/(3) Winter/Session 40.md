@@ -36,7 +36,7 @@
     - [[Krusa]]
 - [[[Con'Niall|Niall]] calles out to [Grendel-Harne]
     - [[Greenbelt]].
-    - [[Niall]]"
+    - [[Con'Niall|Niall]]"
         - He gets a blood teleportation circle on his forehead, one time use to get us to [[Salt Grave]].
 - The lord of the town approaches us with an offer to resupply us. An unbroken wax seal scroll that allows us to get everything below market value. "Go and save your people."
 - [[Rkto]]. Tapping an impatient claw "You have one day before I teleport you to me."
@@ -45,7 +45,7 @@
         - They mock us, grabbing a skull and replacing it with their own. Their flesh grows around the skull, eventually we see [[Stag Lord]].
         - It happens again, the replacement of skulls, this time we see [[Baronet, Lady Salrus]]'s great grandfather.... "This tells you how long I've been alive, hasn't it?"
         - Another skull is worn... [[Blume]] can control them autonomously and at will.
-        - [[Niall]].
+        - [[Con'Niall|Niall]].
             - "I think I founded this house about 1900 years ago. I am [[Stag Lord]]. I go back and take it over every 100 year."
         - "Before you leave I give you one last challenge..." Flesh contorts around the deer, growing a new face. Standing in front of us we see a creature with a stag head and human body. "Get here before I corrupt the rest"
 - We wake up from our dream, now standing before us is [[Rkto]], a giant bear with thorns growing out of its body.
@@ -56,7 +56,7 @@
         - We can give ourselves advantage on one saving throw even while unconscious. We can us this after we see the result of the saving throw
         - [[Willa]] is death warded for an unlimited duration until it is expended
     - She walks into the [[Bloodwell Pit]] of the temple before sitting down. She offers us rest if needed.
-- [[Niall]]
+- [[Con'Niall|Niall]]
 - [[[Rory]] dips herself and [Sentinel]] and she is pulled under.
     - She sees the [[Lady of Teeth]]... "For what it's worth we didn't know. She may be the keeper of secrets but even her knowledge is limited... Even mine.... But, I am not the one who brought you here. Someone else wants to speak."
     - She sees a sandy haired blond man in scratched full plate, carrying a version of [[Sentinel]]
@@ -70,10 +70,10 @@
 - [[Ghorza]]
 - [[Fyudor]], trying to kill his fear.
     - He feels claws trying to tear out of him. He holds himself under, holding his breath as he feels his heartbeat raising. The scratches continue, but he holds it all in. He comes out feeling more in control.
-- [[Niall]] brings her horse, [[Rory]] uses find steed. Using the map, it's a straight shot to the fort.
+- [[Con'Niall|Niall]] brings her horse, [[Rory]] uses find steed. Using the map, it's a straight shot to the fort.
     - We do not see a sign of wildlife for two weeks.... No birds, no footsteps, no tracks, no fresh food
     - The morning of the 14th day, we see a crow sitting on a branch staring at us. [[Willa]] shoots it. It keeps coming back to life, and we keep shooting it until it stops coming back. It was about 6 times before it fully stopped moving.
-- We come up to a keep, seeing a large bloodied hand and a stag skull the size of [[Niall]].
+- We come up to a keep, seeing a large bloodied hand and a stag skull the size of [[Con'Niall|Niall]].
     - The manor yard is empty aside from a few bodies. Sitting on top of the manor door is a relaxed woman with a demon arm in black plate armor... [[Stag Lord]]...
     - We ready our weapons, form defenses.... [[Blackmont]]
 

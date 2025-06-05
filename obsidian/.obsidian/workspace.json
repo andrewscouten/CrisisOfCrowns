@@ -8,20 +8,98 @@
         "type": "tabs",
         "children": [
           {
+            "id": "900f5e7941d4223e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(3) Sessions/(1) Season 1/(3) Winter/Session 27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 27"
+            }
+          },
+          {
+            "id": "99d1d4c53a1b1044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(1) The Party/Blume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blume"
+            }
+          },
+          {
+            "id": "66bb53807c6352e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(3) Sessions/(1) Season 1/(3) Winter/Session 40.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 40"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "15ea34375454ecab",
+        "type": "tabs",
+        "children": [
+          {
             "id": "94fa170f09dfdc51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
+                "file": "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 41"
+              "title": "Sessions to redo formatting"
+            }
+          },
+          {
+            "id": "043f9f84f4e421fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(1) The Party/Ghorza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ghorza"
+            }
+          },
+          {
+            "id": "9c1de9bfc3c4bb14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(1) The Party/Rory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rory"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,34 +248,34 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e98b1bafbed16a48",
+  "active": "99d1d4c53a1b1044",
   "lastOpenFiles": [
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 32.md",
-    "(0) Obsidian_Stuff/code/Useful Commands.md",
+    "Ethemore.md",
+    "Crisis of Crowns.md",
+    "(3) Sessions/(2) Season 2/Session 46.md",
+    "(3) Sessions/(2) Season 2/Session 45.md",
+    "(3) Sessions/(2) Season 2/Session 44.md",
+    "(3) Sessions/(2) Season 2/Session 43.md",
+    "(3) Sessions/(2) Season 2/Session 42.md",
     "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 40.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 39.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 38.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 37.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 36.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 35.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 34.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 33.md",
-    "(3) Sessions/(1) Season 1/(1) Autumn/Session 2.md",
-    "(3) Sessions/(1) Season 1/(1) Autumn/Session 12.md",
-    "(3) Sessions/(1) Season 1/(1) Autumn/Session 11.md",
-    "(3) Sessions/(1) Season 1/(1) Autumn/Session 10.md",
-    "(3) Sessions/(1) Season 1/(1) Autumn/Objectives.md",
-    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 20.md",
-    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 19.md",
-    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 18.md",
-    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 17.md",
-    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 16.md",
-    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 15.md",
-    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 14.md",
-    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 13.md",
-    "(3) Sessions/(1) Season 1/(1) Autumn/Session 9.md",
-    "(3) Sessions/(1) Season 1/(1) Autumn/Session 8.md",
-    "(3) Sessions/(1) Season 1/(1) Autumn/Session 7.md",
-    "(3) Sessions/(1) Season 1/(1) Autumn/Session 6.md",
-    "(3) Sessions/(1) Season 1/(1) Autumn/Session 5.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 32.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 30.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 29.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 28.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 27.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 26.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 25.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 24.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 23.md",
     "(2) Campaign/(6) Misc/Homebrew",
     "(0) Obsidian_Stuff/images/main_page/mp_angus2.jpg",
     "(0) Obsidian_Stuff/images/main_page/mp_angus3.jpg",
