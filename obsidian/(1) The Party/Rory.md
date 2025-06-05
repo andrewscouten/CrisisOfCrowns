@@ -20,6 +20,7 @@ Player: Marlo
 - Why do they do so much damage tho
 
 ## Connections
+
 ```dataviewjs
 var connections = require(app.vault.adapter.basePath + "/(0) Obsidian_Stuff/dataview/connections.js");
 //test

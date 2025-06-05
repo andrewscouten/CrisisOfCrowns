@@ -8,3 +8,11 @@ siblings:
 > [!info] God of the dead, flow and destruction caused by time, harvesting, ruler of the Field of Wheat 
 
 [[Cassia]] works with this entity
+
+## Connections
+
+```dataviewjs
+var connections = require(app.vault.adapter.basePath + "/(0) Obsidian_Stuff/dataview/connections.js");
+//test
+connections.get_connections(dv)
+```

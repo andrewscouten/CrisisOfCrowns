@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "65edd8661c57ac53",
+        "id": "cc747f19355f1b24",
         "type": "tabs",
         "children": [
           {
-            "id": "ad9a531a1f4cc454",
+            "id": "d86ebee1fc30be68",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "(0) Obsidian_Stuff/Images/mp_fight1.jpg"
+                "file": "(3) Sessions/(2) Season 2/Session 46.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "mp_fight1"
+              "icon": "lucide-file",
+              "title": "Session 46"
             }
           }
         ]
@@ -200,16 +202,27 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ad9a531a1f4cc454",
+  "active": "d86ebee1fc30be68",
   "lastOpenFiles": [
+    "(2) Campaign/(6) Misc/Spells/Unnatural Endurance.md",
+    "(3) Sessions/(2) Season 2/Session 46.md",
+    "(2) Campaign/(6) Misc/Spells/Captive Spirit.md",
+    "(3) Sessions/(2) Season 2/Session 45.md",
+    "(2) Campaign/(6) Misc/Spells",
+    "[Captive Spirit.md",
+    "(2) Campaign/(1) Entities/Gods/Rhydahn.md",
+    "(2) Campaign/(1) Entities/Gods/Rea'Thain/Rea'Thain.md",
+    "(2) Campaign/(1) Entities/Gods/Rea'Thain/Droeph.md",
+    "(0) Obsidian_Stuff/gifs/side-eye-suspicious.gif",
+    "(1) The Party/Rory.md",
+    "(0) Obsidian_Stuff/gifs",
+    "(3) Sessions/(2) Season 2/Session 43.md",
+    "(3) Sessions/(2) Season 2/Session 42.md",
+    "(3) Sessions/(2) Season 2/Session 44.md",
+    "(0) Obsidian_Stuff/Images/mp_fight1.jpg",
     "Ethemore.md",
     "Crisis of Crowns.md",
     "(3) Sessions/Unused Items.md",
-    "(3) Sessions/(2) Season 2/Session 46.md",
-    "(3) Sessions/(2) Season 2/Session 45.md",
-    "(3) Sessions/(2) Season 2/Session 44.md",
-    "(3) Sessions/(2) Season 2/Session 43.md",
-    "(3) Sessions/(2) Season 2/Session 42.md",
     "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 40.md",
@@ -220,15 +233,6 @@
     "(3) Sessions/(1) Season 1/(3) Winter/Session 35.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 34.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 33.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 32.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 30.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 29.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 28.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 27.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 26.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 25.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 24.md",
-    "(0) Obsidian_Stuff/Images/mp_fight1.jpg",
     "(0) Obsidian_Stuff/Images/mp_friends1.jpg",
     "(0) Obsidian_Stuff/Images/ref_party_rory.jpg",
     "(0) Obsidian_Stuff/Images/mp_goof3.jpg",
@@ -244,10 +248,7 @@
     "(2) Campaign/(5) People/Historic",
     "(2) Campaign/(5) People/Oathsworn",
     "(2) Campaign/(5) People/Nobels",
-    "(2) Campaign/(5) People/Contacts/Zach",
-    "(2) Campaign/(1) Entities/Gods/Rea'Thain",
     "(0) Obsidian_Stuff/Images/spell_1_ensnaring_strike.png",
-    "(0) Obsidian_Stuff/Images/spell_1_hail_of_thorns.png",
     "Untitled.canvas",
     "Factions/Untitled.canvas"
   ]
