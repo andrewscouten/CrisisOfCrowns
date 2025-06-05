@@ -25,5 +25,24 @@
 		- [L]: "I miss [[Dorin]]... Now I'm going to miss you too"
 		- [R]: "I missed you before I even knew you.... When I go see mom, I'm going to grab her by the ear and yell at her for not coming to see you."
 - We take off on the road!
-- [[Zach]], [[Cassia]], and [[Blume]] search for some plants to help enhance his kit. Like 
-
+- [[Zach]], [[Cassia]], and [[Blume]] search for some plants to help enhance his kit. We all help trying to help him make some things for arrows and utility
+- We see multiple burnt down and destroyed villages, presumably like bandits... As we approach, the people we pass by and see on the road start to increase
+- We all go inside, announcing ourselves at the gates
+- [[Rory]] and [[Ghorza]] meet [[Garth Houndstone|Lord Commander Ser Garth Houndstone]]; [[Rory]] is a huge fan!
+	- [[Rory]]'s presence is requested, as [[Eret]] is known to be their mother....
+	- It would be his honor to host [[Ghorza]] in the keep, as another member of the [[Bloode]]
+- [[Zach]] goes to where he knows the shop keeper is, that he tasked with ruining the reputation of
+- [[Cassia]], [[Blume]], and [[Willa]] go to the temple district, where there are a dozen large temples with enumerable shrines. This whole area is a giant [[God's Woods]] surrounded by temples. There are also various spaces associated to old gods and old magic.
+	- There are 12 major temples
+		- [[The Three Siblings]]
+		- Celestial Duo
+		- Old Gods of Woods
+		- [[World Tree]]
+		- Temple to the Three Hero Gods, nothing to do with one another except they were all at once mortal
+			- [[Atlan]]
+			- [[Valkur]]
+			- [[Rea'Thain]]
+	- [[Willa]] goes into the temple of three hero gods, meeting:
+		- [Sister Kira of Oldflowers], head Priestesses of Valkur for the City, half sea elven
+		- [Ser Dominic Hearth], head priest and Inquisitor of [[Atlan]], dwarf
+		- [Brother Justan Ore] of [[Lord Auril's Town]], upper middle aged human man bearing the holy symbol of [[Rea'Thain]]; has a cat familiar

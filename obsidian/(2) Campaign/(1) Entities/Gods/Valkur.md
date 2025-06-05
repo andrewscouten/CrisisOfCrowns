@@ -1,2 +1,2 @@
-> [!info] God of sailors, storms, and wreathing
+> [!info] God of sailors, wind, storms, and fighting
 

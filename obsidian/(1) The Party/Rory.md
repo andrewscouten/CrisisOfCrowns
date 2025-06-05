@@ -42,6 +42,7 @@ connections.get_connections(dv)
 ## Misc.
 
 - Soft spot for [[Edris]] and the [[Undyne Court]]
+- Has a spectral cow named [[Marengo]]
 
 ## From Session
 
