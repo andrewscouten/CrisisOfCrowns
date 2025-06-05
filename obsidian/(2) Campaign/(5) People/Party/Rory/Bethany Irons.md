@@ -3,6 +3,8 @@ siblings:
   - Ser George
 children:
   - Dorin
+aliases:
+  - Bethany
 ---
 Woman in upper mid 40s, black hair streaked with silver, steely gray eyes
 

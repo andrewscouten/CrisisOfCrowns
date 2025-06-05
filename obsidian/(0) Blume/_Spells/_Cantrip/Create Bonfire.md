@@ -1,4 +1,4 @@
 
-![[spell_cantripcreate_bonfire.png]]
+![[spell_cantrip_create_bonfire.png]]
 
 [[Blume]]

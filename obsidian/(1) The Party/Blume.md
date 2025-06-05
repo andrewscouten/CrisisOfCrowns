@@ -26,4 +26,5 @@ Player: Andrew (he/they)
 ## Image References
 
 ![[ref_party_blume1.png]]
+![[ref_party_blume3.jpg]]
 ![[ref_party_blume2.png]]
