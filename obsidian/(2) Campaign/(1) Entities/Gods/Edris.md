@@ -10,7 +10,6 @@ partners:
 ## Connections
 
 ```dataviewjs
-var connections = require(app.vault.adapter.basePath + "/(0) Obsidian_Stuff/code/connections.js");
-connections.get_connections(dv)
+customJS.GraphUtils.connection(dv);
 ```
 

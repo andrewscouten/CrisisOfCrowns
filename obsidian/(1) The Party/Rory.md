@@ -2,15 +2,16 @@
 parents:
   - Ser George
   - Flint
+  - Eret
 siblings:
   - Braum
   - Milo
   - Dorin
+  - Lukas
 aliases:
   - Ser Aurora, the Fiery Mane
   - Aurora
 ---
-
 ---
 Player: Marlo
 
@@ -26,9 +27,7 @@ Player: Marlo
 ## Connections
 
 ```dataviewjs
-var connections = require(app.vault.adapter.basePath + "/(0) Obsidian_Stuff/code/connections.js");
-//test
-connections.get_connections(dv)
+customJS.GraphUtils.connection(dv);
 ```
 
 ## Vows

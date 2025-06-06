@@ -12,3 +12,9 @@ Get-ChildItem -Recurse -Filter *.md | ForEach-Object {
 	(Get-Content $_.FullName) -replace '(\[.+?\])(\(.+\))', '[$1]' | Set-Content $_.FullName
 }
 ```
+
+## Mermaid
+
+Graphs!
+- https://mermaid.js.org/syntax/flowchart.html
+- https://mermaid.live/edit

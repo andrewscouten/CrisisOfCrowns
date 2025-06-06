@@ -30,7 +30,7 @@
   "authorName": "andrewscouten",
   "vaultTitle": "Ethemore",
   "exportPreset": "website",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,

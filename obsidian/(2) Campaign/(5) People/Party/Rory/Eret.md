@@ -1,1 +1,11 @@
-[[Rory]]'s mom
+---
+children:
+  - Rory
+  - Lukas
+---
+
+## Connections
+
+```dataviewjs
+customJS.GraphUtils.connection(dv);
+```
