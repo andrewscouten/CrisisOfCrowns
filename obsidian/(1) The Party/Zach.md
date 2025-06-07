@@ -1,4 +1,19 @@
+---
+tags: 
+banner: "![[(0) Files/images/banners/banner_zach.jpg]]"
+---
+
+---
 Player: Justin
+
+---
+> [!infobox]
+> # Zach
+> ![[portrait_zach.jpg|portrait]]
+> ###### Bio
+> |  |  |
+> | --- | --- |
+> | Pronouns: | He/Him? |
 
 ## About
 
@@ -12,3 +27,9 @@ Player: Justin
 ## Allied Contacts
 
 - [[Capital City]]: [[Engator]]
+
+## Image References
+
+```custom-frames
+frame: Pintrest - Zach
+```

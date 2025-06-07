@@ -8,5 +8,10 @@
   "obsidian-paste-image-rename",
   "tag-wrangler",
   "global-search-and-replace",
-  "customjs"
+  "customjs",
+  "fix-require-modules",
+  "pexels-banner",
+  "obsidian-custom-frames",
+  "obsidian-icon-folder",
+  "obsidian-dialogue-plugin"
 ]

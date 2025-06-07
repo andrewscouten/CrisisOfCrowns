@@ -3,5 +3,7 @@
   "theme": "obsidian",
   "cssTheme": "ITS Theme",
   "translucency": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "test"
+  ]
 }

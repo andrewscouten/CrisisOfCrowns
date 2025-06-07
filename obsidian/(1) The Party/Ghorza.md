@@ -4,6 +4,9 @@ aliases:
   - Ser Ghorza Morn, Daughter of the Bloode
   - Ser Ghorza Morn of the Bloode
   - Ser Ghorza
+banner: "![[(0) Files/images/banners/banner_ghorza.jpg]]"
+banner-x: 57
+banner-y: 42
 ---
 
 ---
@@ -14,11 +17,21 @@ Character Colors:
 ---
 > [!important] Ser Ghorza Morn, Daughter of the Bloode
 
+> [!infobox]
+> # Ghorza Morn
+> ![[portrait_ghorza.jpg]]
+> ###### Bio
+> |  |  |
+> | --- | --- |
+> | Pronouns: | She/Her? |
+
 ## First Impressions
 
 - Half orc, 6 foot 6 inches, friendly but has a mean face always
 - Traveled through the grasslands, goes from hamlet to hamlet
 - Does quests, makes friends, drinks
+
+<br><br><br><br><br><br><br><br>
 
 ## Vows
 
@@ -38,3 +51,9 @@ Character Colors:
 > - She stands up, reaches for her axe that's not there; no people, the village is abandoned as if it was left minutes ago
 > - Hears a snarl behind her. She now has an axe in her hand. She turns and sees a shadow like form of a humanoid. He is wearing spiked armor
 > - She awakens
+
+## Image References
+
+```custom-frames
+frame: Pintrest - Ghorza
+```

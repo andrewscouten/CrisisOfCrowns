@@ -8,26 +8,49 @@
 		- [[Cassia]] gets a new spell [[Unnatural Endurance]], always prepared and does not count against prepared spells
 - [[Rory]] finishes a conversation from last session with [[Bethany Irons]] ![[sad_cat.gif|lp right]]
 	- She meets [[Lukas]]...
-		- [L]: "You look like me... but... tall..."
-		- [R]: "I like your hair, it looks like my hair"
-		- [L]: "Do I know you?"
-		- [R]: "My name is Aurora, but you can call me Rory"
-		- *... They talk a little, getting to know one another ...*
-		- [R]: "Your brother is my brother too..."
-		- [L]: "I got to meet a red haired lady a few years ago. [[Bethany Irons|Bethany]] called her Auntie [[Eret]], but I knew... [[Dorin]] told me."
-		- *...*
-		- [R]: "Can I tell you a secret? I want to be with mom too... I went on multiple trips with [[Ser George|George]], got to see the whole world and met little kids like you... But I didn't have a roof, a warm place, or someone to make me medicine when I was sick... It was very scary."
-		- *...*
-		- [L]: "I wanted to go (to the [[Capital City]]) with [[Dorin]]. He told me a story about Dad and [[Ser George|George]]... That's what [[Dorin]] wants to do, and I wanted to be his squire. He told me no."
-		- [R]: "I've seen little boys like you thrown in fire, lose arms, or worse... I found out today that I had a lot more family than I thought I had. I would be very sad to lose that again. I want you to be happier and healthier than I was at your age."
-		- *...*
-		- [L]: "[[Bethany Irons|Bethany]] says home isn't a place, it's anywhere people want you to be there. Does that mean I'm home?"
-		- *...*
-		- [R]: "I can't take you with me... I don't even know what the next time I'll see you again is... But we have right now. So, what would you like to do?"
-		- [L]: "When [[Dorin]] would train, he would train me too..."
-		- *... They train a bit and [[Rory]] gives him a dagger ...*
-		- [L]: "I miss [[Dorin]]... Now I'm going to miss you too."
-		- [R]: "I missed you before I even knew you.... When I go see mom, I'm going to grab her by the ear and yell at her for not coming to see you."
+
+
+
+
+
+
+
+
+```dialogue
+left: Rory
+right: Lukas
+titleMode: all
+
+> You look like me... but... tall...
+< I like your hair, it looks like my hair
+> Do I know you?
+< My name is Aurora, but you can call me Rory
+# They talk a little, getting to know one another...
+< Your brother is my brother too...
+> I got to meet a red haired lady a few years ago. [[Bethany Irons|Bethany]] called her Auntie [[Eret]], but I knew... [[Dorin]] told me.
+
+delimiter
+
+< Can I tell you a secret? I want to be with mom too... I went on multiple trips with [[Ser George|George]], got to see the whole world and met little kids like you... But I didn't have a roof, a warm place, or someone to make me medicine when I was sick... It was very scary.
+
+delimiter
+
+> I wanted to go (to the [[Capital City]]) with [[Dorin]]. He told me a story about Dad and [[Ser George|George]]... That's what [[Dorin]] wants to do, and I wanted to be his squire. He told me no.
+< I've seen little boys like you thrown in fire, lose arms, or worse... I found out today that I had a lot more family than I thought I had. I would be very sad to lose that again. I want you to be happier and healthier than I was at your age.
+
+delimiter
+
+> [[Bethany Irons|Bethany]] says home isn't a place, it's anywhere people want you to be there. Does that mean I'm home?
+
+delimiter
+
+< I can't take you with me... I don't even know what the next time I'll see you again is... But we have right now. So, what would you like to do?
+> When [[Dorin]] would train, he would train me too...
+# They train a bit and [[Rory]] gives him a dagger...
+> I miss [[Dorin]]... Now I'm going to miss you too.
+< I missed you before I even knew you.... When I go see mom, I'm going to grab her by the ear and yell at her for not coming to see you.
+```
+
 - We take off on the road!
 - [[Zach]], [[Cassia]], and [[Blume]] search for some plants to help enhance his kit. We all help trying to help him make some things for arrows and utility
 - We see multiple burnt down and destroyed villages, presumably like bandits... As we approach, the people we pass by and see on the road start to increase

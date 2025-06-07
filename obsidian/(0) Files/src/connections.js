@@ -1,7 +1,7 @@
 class ConnectionGraph {
 
     static create_branch_nodes(branch, content) {
-        let sub_nodes = (c, idx) => `${branch}${idx + 1}(${c}):::internal-link\n${branch} --> ${branch}${idx + 1}\n`
+        let sub_nodes = (c, idx) => `${branch}${idx + 1}[${c}]:::internal-link\n${branch} --> ${branch}${idx + 1}\n`
         return content.map(sub_nodes).join('')
     }
 
@@ -17,7 +17,7 @@ class ConnectionGraph {
         return text
     }
 
-    static draw(dv) {
+    static create_graph(dv) {
         let graph = `\`\`\`mermaid
             flowchart LR
             Current(${dv.current().file.name})
@@ -27,8 +27,9 @@ class ConnectionGraph {
             ${ConnectionGraph.create_branch("Partners", dv.current().partners ?? [])}
             ${ConnectionGraph.create_branch("Allies", dv.current().allies ?? [])}
             ${ConnectionGraph.create_branch("Enemies", dv.current().enemies ?? [])}
+            classDef default normal;
         `
-        dv.paragraph(graph)
+        return graph
     }
 }
 

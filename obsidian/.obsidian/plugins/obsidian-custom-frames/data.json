@@ -1,0 +1,41 @@
+{
+  "frames": [
+    {
+      "url": "https://www.pinterest.com/marlobasilio/aurora-nimallory/",
+      "displayName": "Pintrest - Rory",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.pinterest.com/katiemersiovsky/ghorza/",
+      "displayName": "Pintrest - Ghorza",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.pinterest.com/usncorsair9698/zachnafien-nurugwanu/",
+      "displayName": "Pintrest - Zach",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

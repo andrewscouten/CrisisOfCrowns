@@ -11,6 +11,8 @@ siblings:
 aliases:
   - Ser Aurora, the Fiery Mane
   - Aurora
+  - Aurora Ni’Mallory
+banner: "![[(0) Files/images/banners/banner_rory.jpg]]"
 ---
 ---
 Player: Marlo
@@ -18,11 +20,21 @@ Player: Marlo
 ---
 > [!important] Ser Aurora, the Fiery Mane
 
+> [!infobox]
+> # Aurora Ni'Mallory
+> ![[portrait_rory.jpg|portrait]]
+> ###### Bio
+> |  |  |
+> | --- | --- |
+> | Pronouns: | She/They |
+
 ## First Impressions
 
 - 17 year old squire girl/them
 - Short hair, leather padded armor, [sword wrapped in cloth on her back]
 - Why do they do so much damage tho
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Connections
 
@@ -40,7 +52,6 @@ customJS.GraphUtils.connection(dv);
 > - By the [[Edris|Hand Who Helps]]: I charge you to protect those who cannot protect themselves.
 > - By the [[(2) Campaign/(1) Entities/Hair of Fire|Hair of Fire]] ([[Ser George|George]]'s voice warps to sound like the [[Lady of Teeth]]): I charge you to open the ways of the old magic and to protect the seals which bind the [[False Queen]].
 > - Speaking with every voice who has once wielded [[Rory's Oathblade]]: We knight you to the [Lineage of the Kings Guard], as the bearer of [[Rory's Oathblade|Sentinel]]... [[Rory|Ser Aurora, the Fiery Mane]]... To be bound to this duty in life and in death. So sayeth we, all who have held this blade before.
-
 
 ## Misc.
 
@@ -60,3 +71,7 @@ customJS.GraphUtils.connection(dv);
 ## Image References
 
 ![[ref_party_rory1.jpg]]
+
+```custom-frames
+frame: Pintrest - Rory
+```

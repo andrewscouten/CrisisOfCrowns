@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
   "inlineAssets": false,
-  "includePluginCSS": "dataview\nobsidian-leaflet-plugin\nvarious-complements\nobsidian-outliner",
+  "includePluginCSS": "dataview\npexels-banner\nobsidian-custom-frames\ncustomjs\nfix-require-modules",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",

@@ -1,4 +1,3 @@
-
 class GraphUtils {
 
     static importModule(module) {
@@ -16,6 +15,7 @@ class GraphUtils {
     ConnectionGraph = GraphUtils.importModule("connections.js")
     
     connection(dv) {
-        this.ConnectionGraph.draw(dv)
+        var graph = this.ConnectionGraph.create_graph(dv)
+        dv.paragraph(graph)
     }
 }
