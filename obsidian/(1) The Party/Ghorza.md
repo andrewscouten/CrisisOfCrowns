@@ -8,7 +8,6 @@ banner: "![[(0) Files/images/banners/banner_ghorza.jpg]]"
 banner-x: 57
 banner-y: 42
 ---
-
 ---
 Player: Katie (she/her)
 Character Colors: 
@@ -17,7 +16,7 @@ Character Colors:
 ---
 > [!important] Ser Ghorza Morn, Daughter of the Bloode
 
-> [!infobox]
+> [!infobox|center wfull]
 > # Ghorza Morn
 > ![[portrait_ghorza.jpg]]
 > ###### Bio

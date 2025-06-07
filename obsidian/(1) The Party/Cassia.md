@@ -1,6 +1,7 @@
 ---
 aliases:
   - Cas
+icon: LiAperture
 ---
 Player: Sarah / Juno (she/her)
 

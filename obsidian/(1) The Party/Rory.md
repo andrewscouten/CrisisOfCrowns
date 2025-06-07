@@ -12,7 +12,9 @@ aliases:
   - Ser Aurora, the Fiery Mane
   - Aurora
   - Aurora Ni’Mallory
-banner: "![[(0) Files/images/banners/banner_rory.jpg]]"
+banner: "![[(0) Files/assets/banners/banner_rory.jpg]]"
+banner-x: 42
+banner-y: 69
 ---
 ---
 Player: Marlo
@@ -20,7 +22,7 @@ Player: Marlo
 ---
 > [!important] Ser Aurora, the Fiery Mane
 
-> [!infobox]
+> [!infobox|center wfull]
 > # Aurora Ni'Mallory
 > ![[portrait_rory.jpg|portrait]]
 > ###### Bio
@@ -33,8 +35,6 @@ Player: Marlo
 - 17 year old squire girl/them
 - Short hair, leather padded armor, [sword wrapped in cloth on her back]
 - Why do they do so much damage tho
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Connections
 

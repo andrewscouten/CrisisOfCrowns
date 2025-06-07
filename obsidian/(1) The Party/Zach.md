@@ -7,7 +7,9 @@ banner: "![[(0) Files/images/banners/banner_zach.jpg]]"
 Player: Justin
 
 ---
-> [!infobox]
+> [!important] Zach
+
+> [!infobox|center wfull]
 > # Zach
 > ![[portrait_zach.jpg|portrait]]
 > ###### Bio

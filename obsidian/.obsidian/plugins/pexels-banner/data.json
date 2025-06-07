@@ -127,7 +127,7 @@
   "showSelectImageIcon": true,
   "selectImageIconOpacity": 40,
   "selectImageIconFlag": "red",
-  "defaultSelectImagePath": "(0) Files/images/banners",
+  "defaultSelectImagePath": "(0) Files/assets/banners",
   "defaultSelectIconPath": "",
   "useShortPath": true,
   "bannerGap": 12,

@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
   "inlineAssets": false,
-  "includePluginCSS": "dataview\npexels-banner\nobsidian-custom-frames\ncustomjs\nfix-require-modules",
+  "includePluginCSS": "dataview\ncustomjs\nfix-require-modules\npexels-banner\nobsidian-custom-frames\nobsidian-dialogue-plugin",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",

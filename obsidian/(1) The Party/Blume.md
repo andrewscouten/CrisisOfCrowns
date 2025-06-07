@@ -1,6 +1,7 @@
 ---
 aliases:
   - Blume Yllavaris
+icon: LiApple
 ---
 
 ---
