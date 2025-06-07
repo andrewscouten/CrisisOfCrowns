@@ -18,7 +18,7 @@ Character Colors:
 
 > [!infobox|center wfull]
 > # Ghorza Morn
-> ![[portrait_ghorza.jpg]]
+> ![[portrait_ghorza.jpg|portrait]]
 > ###### Bio
 > |  |  |
 > | --- | --- |
