@@ -1,7 +1,10 @@
 ---
 aliases:
   - Blume Yllavaris
-icon: LiApple
+icon: 
+banner: "![[(0) Files/assets/banners/banner_blume.jpg]]"
+banner-x: 44
+banner-y: 31
 ---
 
 ---
@@ -9,6 +12,15 @@ Player: Andrew (he/they)
 
 ---
 
+> [!important] Lord Blume, of the Eldest of Eldest, Champion of the Endless, Agent of the Green Coven
+
+> [!infobox|center wfull]
+> # Blume Yllavaris
+> ![[portrait_blume.jpg|portrait]]
+> ###### Bio
+> |  |  |
+> | --- | --- |
+> | Pronouns: | He/They |
 
 ## Appearance
 
@@ -32,5 +44,4 @@ Player: Andrew (he/they)
 ## Image References
 
 ![[ref_party_blume1.png]]
-![[ref_party_blume3.jpg]]
 ![[ref_party_blume2.png]]

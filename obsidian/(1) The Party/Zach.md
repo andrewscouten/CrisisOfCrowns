@@ -1,6 +1,8 @@
 ---
 tags: 
-banner: "![[(0) Files/images/banners/banner_zach.jpg]]"
+banner: "![[(0) Files/assets/banners/banner_zach.jpg]]"
+aliases:
+  - Zach Nifine
 ---
 
 ---
@@ -16,6 +18,7 @@ Player: Justin
 > |  |  |
 > | --- | --- |
 > | Pronouns: | He/Him? |
+> | Age: | 20 (45-50 human years) |
 
 ## About
 

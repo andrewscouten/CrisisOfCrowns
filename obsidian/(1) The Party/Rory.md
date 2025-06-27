@@ -24,7 +24,7 @@ Player: Marlo
 
 > [!infobox|center wfull]
 > # Aurora Ni'Mallory
-> ![[portrait_rory.jpg|portrait]]
+> ![[(0) Files/assets/party/rory/portrait_rory.jpg|portrait]]
 > ###### Bio
 > |  |  |
 > | --- | --- |

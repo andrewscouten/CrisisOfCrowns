@@ -1,0 +1,2 @@
+- Runs [[Mia's Place]] in the [[Capital City]]
+- Disguises herself as an [[Elvish]] woman, who is actually a [[Shadar Kai]] with bright red eyes

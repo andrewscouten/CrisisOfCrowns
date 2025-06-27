@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
   "inlineAssets": false,
-  "includePluginCSS": "dataview\ncustomjs\nfix-require-modules\npexels-banner\nobsidian-custom-frames\nobsidian-dialogue-plugin",
+  "includePluginCSS": "dataview\nobsidian-leaflet-plugin\nvarious-complements\nobsidian-outliner",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
@@ -30,7 +30,7 @@
   "authorName": "andrewscouten",
   "vaultTitle": "Ethemore",
   "exportPreset": "website",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\Users\\andre\\Desktop\\CrisisOfCrowns\\docs",
+  "exportPath": "/Users/andrew/Desktop/CrisisOfCrowns/docs",
   "filesToExport": [
     [
       "all"

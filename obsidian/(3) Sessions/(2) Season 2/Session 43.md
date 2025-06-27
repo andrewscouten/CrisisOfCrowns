@@ -20,6 +20,6 @@
 - [[Cassia]] makes a deal with [[Droeph]], let her brother [[Rhydahn]] speak through her so that these siblings may have a chat
 - [[Blume]] makes a deal to improve his marking of protections
 	- 1) Complete a task, within the capital gardens of the [[Crowned Keep]] itself, there is an effigy... I need it "removed", preferably destroyed... It was put in place by the follower of the [[False Queen]]; it has been used as an altar by the people she still has stationed in the keep. Destroying it will lessen her influence
-		- For the pearl to be integrated into the tattoo... the man who made it should be killed.... destroy him the same way you would the effigy... Within those same gardens there is a tree of which I am familiar... A wyrd tree, hand his entrails onto it 
+		- For the pearl to be integrated into the tattoo... the man who made it should be killed.... destroy him the same way you would the effigy... Within those same gardens there is a tree of which I am familiar... A wyrd tree, hang his entrails onto it 
 	- 2) Part of the curse in the eye... She takes 6 inches of briar roots about as thick as a quarter
 - [[Zach]] gains an allied contact in the capital city: [[Engator]]

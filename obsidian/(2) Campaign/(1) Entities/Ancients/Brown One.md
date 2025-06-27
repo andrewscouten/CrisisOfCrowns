@@ -14,6 +14,7 @@ allies:
 > I watched the birth of the modern gods. I watched as the first five shaped the material realm.
 
 ## About
+
 - Large owl-bear with a curse
 - She is a daughter of the mother of bears [[Ur-Mother Bear]]
 	- Born between the mother and father
@@ -21,6 +22,7 @@ allies:
 - Guardian of the [[Temple of Drasil]]
 
 ### [[Temple of Drasil]]
+
 - Her and her siblings were tasked with guarding sacred locations; in return her mother's people would be left to thrive
 - She has guarded the temple every day, for a very very long time
 

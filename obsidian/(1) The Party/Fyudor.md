@@ -1,8 +1,23 @@
+---
+banner: "![[(0) Files/assets/banners/banner_fyudor.jpg]]"
+banner-x: 49
+banner-y: 28
+---
 
 ---
 Player: Willow
 
 ---
+
+> [!important] Fyudor
+
+> [!infobox|center wfull]
+> # Fyudor
+> ![[portrait_fyudor.png|portrait]]
+> ###### Bio
+> |  |  |
+> | --- | --- |
+> | Pronouns: | He/Him? |
 
 ## About
 
@@ -28,6 +43,5 @@ Player: Willow
 
 ## Image References
 
-![[ref_party_fyudor1.png]]
 ![[ref_party_fyudor2.png]]
 ^ binturong / bear cat

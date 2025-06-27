@@ -1,2 +1,2 @@
-> [!info] Adventurers, kings, civilization, chants, and idocy
+> [!info] Adventurers, kings, civilization, chants, and idiocy
 

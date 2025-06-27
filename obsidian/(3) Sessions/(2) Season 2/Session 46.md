@@ -50,7 +50,6 @@ delimiter
 > I miss [[Dorin]]... Now I'm going to miss you too.
 < I missed you before I even knew you.... When I go see mom, I'm going to grab her by the ear and yell at her for not coming to see you.
 ```
-
 - We take off on the road!
 - [[Zach]], [[Cassia]], and [[Blume]] search for some plants to help enhance his kit. We all help trying to help him make some things for arrows and utility
 - We see multiple burnt down and destroyed villages, presumably like bandits... As we approach, the people we pass by and see on the road start to increase

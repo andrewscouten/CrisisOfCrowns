@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDog",
       "LiAperture",
-      "LiApple",
-      "LiAnvil"
+      "LiTelescope",
+      "LiSkull",
+      "LiLibraryBig"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +37,18 @@
   "(0) Files": "LiAnvil",
   "(0) Blume": "LiApple",
   "(1) The Party/Blume.md": "LiApple",
+  "(0) Obsidian_Stuff": "LiAnvil",
+  "(1) The Party": "LiBaby",
+  "(2) Campaign": "LiAudioWaveform",
+  "(3) Sessions": "LiALargeSmall",
+  "(1) The Party/Willa.md": "LiSkull",
+  "(1) The Party/Rory.md": "LiSword",
+  "(1) The Party/Ghorza.md": "LiAxe",
+  "(1) The Party/Zach.md": "LiTelescope",
+  "(1) The Party/Fyudor.md": "LiDog",
+  "(1) The Party/DEAD/Finnegean.md": "LiGuitar",
+  "(1) The Party/RESERVE/Con'Niall.md": "LiTrees",
+  "(1) The Party/RESERVE/Novamere.md": "LiCloudLightning",
+  "(1) The Party/RESERVE/Selene.md": "LiLibraryBig",
   "(1) The Party/Cassia.md": "LiAperture"
 }

@@ -4,7 +4,7 @@ aliases:
   - Ser Ghorza Morn, Daughter of the Bloode
   - Ser Ghorza Morn of the Bloode
   - Ser Ghorza
-banner: "![[(0) Files/images/banners/banner_ghorza.jpg]]"
+banner: "![[(0) Files/assets/banners/banner_ghorza.jpg]]"
 banner-x: 57
 banner-y: 42
 ---
