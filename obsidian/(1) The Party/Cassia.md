@@ -1,7 +1,7 @@
 ---
 aliases:
   - Cas
-icon: 
+icon: LiAperture
 banner: "![[(0) Files/assets/banners/banner_cassia.jpg]]"
 banner-x: 45
 banner-y: 0

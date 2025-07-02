@@ -1,3 +1,6 @@
+---
+icon: LiLibraryBig
+---
 Player: Sarah / Juno (she/her)
 
 ## First Impressions

@@ -1,7 +1,7 @@
 ---
 aliases:
   - Blume Yllavaris
-icon: 
+icon: LiApple
 banner: "![[(0) Files/assets/banners/banner_blume.jpg]]"
 banner-x: 44
 banner-y: 31
