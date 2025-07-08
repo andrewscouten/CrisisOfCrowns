@@ -2,6 +2,8 @@
 children:
   - Rory
   - Lukas
+aliases:
+  - Eret Ni'Mallory
 ---
 
 ## Connections

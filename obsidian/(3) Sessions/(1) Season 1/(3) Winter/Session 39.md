@@ -65,19 +65,19 @@
         - The dock extends itself outwards, her now heaving their typical armor and weapons. They feel a pull towards the rock of the bay, towards the throne and the [[Lady of Teeth]]. She follows the pull, somewhat resigned
         - A "green haired hag" shimmers as she approaches transforming into a beautiful woman, spinning a key with one bloodied hand while the other carries another item. Her hand covered in oath rings, so many that they're overlapping one another. She gives [[[Rory]] a small grin, her teeth sharp and crooked like the [Lady of Teeth]] also gives her a comfortable grin from atop of her throne.
         - Dialogue (most of)
-            - [[Hair of Fire]], you were named for me."
+            - [[(2) Campaign/(1) Entities/Hair of Fire]], you were named for me."
             - [[Rory]]: "I don't even know who you are"
-            - [[Hair of Fire]]: "Not many do. You've sworn part of an oath to me."
+            - [[(2) Campaign/(1) Entities/Hair of Fire]]: "Not many do. You've sworn part of an oath to me."
             - [[Rory]]: "Does it make you happy that I have basically given up my whole life for you?"
-            - [[Hair of Fire]]: "Not exactly, but it does mean I have someone to bear the blade. Many of your fellow die quickly... After all, he had it for four days, she had it for two months, Chevyold had it for over half a century... It does not make me _happy_, but _because you did_... you gave up much and in return were given much... Power, the ability to protect others and fight enemies that would otherwise exceed you."
+            - [[(2) Campaign/(1) Entities/Hair of Fire]]: "Not exactly, but it does mean I have someone to bear the blade. Many of your fellow die quickly... After all, he had it for four days, she had it for two months, Chevyold had it for over half a century... It does not make me _happy_, but _because you did_... you gave up much and in return were given much... Power, the ability to protect others and fight enemies that would otherwise exceed you."
             - [[Rory]]: "To what end? Can somebody tell me what they want from me?!"
-            - [[Hair of Fire]]"
+            - [[(2) Campaign/(1) Entities/Hair of Fire]]"
             - [[Rory]]: "Who is that?"
-            - [[Hair of Fire]] have been preventing her return. Everyone who bears the sword yields my edict."
+            - [[(2) Campaign/(1) Entities/Hair of Fire]] have been preventing her return. Everyone who bears the sword yields my edict."
             - ...
-            - [[Hair of Fire]]: "My dear, you bear a shard of my soul. A shard of divinity within. You already happen to know my name."
+            - [[(2) Campaign/(1) Entities/Hair of Fire]]: "My dear, you bear a shard of my soul. A shard of divinity within. You already happen to know my name."
             - [[Rory]]: "I don't need to know your name or who you are... Are you a good person? Am... Am I a good person."
-            - [[Hair of Fire]] and her supporters gain more power."
+            - [[(2) Campaign/(1) Entities/Hair of Fire]] and her supporters gain more power."
             - [[[Rory]]: "You said that the [False Queen]] walks around in the world... How much influence in this war do you know she has?" Is she Harper? Harper == Queen?
             - [[Witch Queen]] when there is no living queen, what position must they hold to gain that influence? Seek the fourth church of the green knight. It is there you will find an answer you seek."
             - [[Witch Queen]]'s head for me. He's inconsequential now, but if he continues to live he shall not stay that way..."
