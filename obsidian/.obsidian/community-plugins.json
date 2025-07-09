@@ -1,6 +1,5 @@
 [
   "various-complements",
-  "obsidian-style-settings",
   "webpage-html-export",
   "dataview",
   "obsidian-kanban",
@@ -13,5 +12,8 @@
   "obsidian-custom-frames",
   "obsidian-icon-folder",
   "obsidian-dialogue-plugin",
-  "customjs"
+  "customjs",
+  "syncthing-integration",
+  "obsidian-style-settings",
+  "obsidian-livesync"
 ]
