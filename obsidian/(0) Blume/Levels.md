@@ -1,25 +1,52 @@
 Keeping track of [[Blume]]'s levels here starting at level 2. Before level 2 is just what I remember
 
+---
+- Feats
+	- Skilled (free)
+		- Arcana
+		- Perception
+		- Slight of Hand
+	- Eldritch Adept (free)
+		- Eldritch Sight
+	- Warlock Magic Initiate (free)
+		- [[Eldritch Blast]]
+		- [[Mind Sliver]]
+		- [[Comprehend Languages]]
+	- Linguist (trained)
+		- +1 int: 16 -> 17
+		- [[Undercommon]], [[Draconic]], and [[Abyssal]]
+
+- Rites
+	- [[Mass Cantrip]]
+	- [[Markings of Protection]]
+	- [[Light of the Moon]] (free)
+	- [[Practice Makes Perfect]]
+	- [[Manipulate Magic]] (free)
+
+- Free Spells
+	- [[Spike Growth]]
+	- [[Wither and Bloom]]
+	- [[Moonbeam]] (Rite, [[Light of the Moon]])
+	- [[Faerie Fire]] (Rite, [[Light of the Moon]])
+	- [[Detect Evil and Good]]
+	- [[Vortex Warp]]
+	- [[Remove Curse]]
+
+---
 - 0
 	- [Saves]: WIS, CHA
 	- [Skills]: Arcana, Deception
 	- [Background]: Cloistered Scholar
 		- History, Religion
 		- [[Elvish]], [[Dwarvish]]
-	- [Skilled] (feat):
-		- Arcana
-		- Perception
-		- Slight of Hand
 - 0 => 1
 	- [Occult Tradition]: Hedge Madge
 		- Cantrips Known +1
 		- Nature Proficiency
 		- Habitual Casting
-	- [Eldritch Adept] (feat): Eldritch Sight
 - 1 => 2
 	- [Spells]:
-		- Removed: [[Burn (REMOVED)]]
-		- Added: [[Thorn Whip]]
+		- [[Burn (REMOVED)]] -> [[Thorn Whip]]
 	- [2 Rites]:
 		- [[Mass Cantrip]]
 		- [[Markings of Protection]]
@@ -41,24 +68,12 @@ Keeping track of [[Blume]]'s levels here starting at level 2. Before level 2 is 
 		- We all sat down and told Andrew he can't do math, and that 28 was the average at level 3
 - 4 => 5
 	- 34 HP + 4 dice + 2 con = 40 HP
-	- Awakened Rope -> Misty Step
-	- Counterspell
-	- Haste
-	- Rite: Manipulate Magic
+	- [[Awaken Rope (REMOVED)]] -> [[Misty Step]]
+	- [[Counterspell]]
+	- [[Haste]]
+	- Rite: [[Manipulate Magic]]
 - 5->6
-	- Hex -> Fog Cloud
-	- Absorb Elements learned from occultist lvl 6
-	- Blink learned from level up spells known
+	- [[Hex]] -> [[Fog Cloud]]
+	- [[Absorb Elements]] learned from occultist lvl 6
+	- [[Blink]] learned from level up spells known
 	- 40 HP + 4 dice + 2 con = 46 HP
-- Feat training: Linguist
-	- +1 int: 16 -> 17
-	- Undercommon, Draconic, and Abyssal
-- Gifts from DM:
-	- Primal Fire Rite
-	- Do not count against known spells
-		- [[Spike Growth]]
-		- [[Wither and Bloom]]
-	- Warlock Magic Initiate
-		- [Eldritch Blast](https://dnd5e.wikidot.com/spell:eldritch-blast)
-		- [Mind Sliver](https://dnd5e.wikidot.com/spell:mind-sliver)
-		- [Comprehend Languages](https://dnd5e.wikidot.com/spell:comprehend-languages)

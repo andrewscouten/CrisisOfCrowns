@@ -1,0 +1,1 @@
+![[spell_3_blink.png]]

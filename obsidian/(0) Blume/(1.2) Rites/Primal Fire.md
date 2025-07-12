@@ -1,0 +1,1 @@
+![[rite_primal_fire.png]]

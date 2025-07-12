@@ -2,6 +2,8 @@
 siblings:
   - Lydesh
   - Myrmidia
+aliases:
+  - Bone Lord
 ---
 > [!info] God of power, ambition, slaughter, and death
 > (He/Him)

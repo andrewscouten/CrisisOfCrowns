@@ -1,0 +1,1 @@
+![[spell_1_absorb_elements.png]]

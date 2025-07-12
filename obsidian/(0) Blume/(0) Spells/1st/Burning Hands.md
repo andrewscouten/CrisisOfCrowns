@@ -1,0 +1,1 @@
+![[spell_1_burning_hands.png]]

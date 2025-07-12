@@ -4,6 +4,7 @@ children:
   - Lukas
 aliases:
   - Eret Ni'Mallory
+  - Eret Ni'Mallory-Cathdun
 ---
 
 ## Connections

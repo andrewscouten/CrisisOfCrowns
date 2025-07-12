@@ -1,0 +1,1 @@
+![[spell_2_scorching_ray.png]]

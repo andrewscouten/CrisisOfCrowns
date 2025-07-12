@@ -1,0 +1,1 @@
+![[spell_1_fog_cloud.png]]

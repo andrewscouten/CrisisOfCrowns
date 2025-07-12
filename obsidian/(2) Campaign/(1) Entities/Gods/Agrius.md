@@ -3,6 +3,7 @@ aliases:
   - Lord of Winter Roses
   - Winter
   - Winter's Rasp
+  - Winter's Bite
 partners:
   - Edris
 ---
