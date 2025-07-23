@@ -4,7 +4,7 @@
   "inlineAssets": false,
   "includePluginCSS": "dataview\nobsidian-leaflet-plugin\nvarious-complements\nobsidian-outliner",
   "includeSvelteCSS": true,
-  "titleProperty": "title",
+  "titleProperty": "Crisis of Crowns",
   "customHeadContentPath": "",
   "faviconPath": "",
   "documentWidth": "50em",
