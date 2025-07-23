@@ -4,73 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c48f478e063b2aa3",
+        "id": "7089ce42d30489f3",
         "type": "tabs",
         "children": [
           {
-            "id": "3254dd1617a8f83e",
+            "id": "a7eb8f649cc56afe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(3) Sessions/(2) Season 2/Session 49.md",
+                "file": "(3) Sessions/(2) Season 2/Session 51.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 49"
-            }
-          },
-          {
-            "id": "9704f5dbcd5d2c76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2) Campaign/(0) Events/Spoken Word of Mortals and Gods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spoken Word of Mortals and Gods"
+              "title": "Session 51"
             }
           }
         ]
-      },
-      {
-        "id": "15e78f2590cb40d2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2326d32659d9020c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(3) Sessions/(2) Season 2/Session 48.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 48"
-            }
-          },
-          {
-            "id": "f5c77de842e0ed6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(3) Sessions/(2) Season 2/Session 47.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 47"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "red lady",
+                "query": "myg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 270.5
   },
   "right": {
     "id": "aa922eeb35383456",
@@ -250,54 +201,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3254dd1617a8f83e",
+  "active": "a7eb8f649cc56afe",
   "lastOpenFiles": [
-    "(3) Sessions/(2) Season 2/Session 47.md",
-    "(3) Sessions/(2) Season 2/Session 48.md",
-    "(3) Sessions/(2) Season 2/Session 49.md",
-    "(0) Blume/Levels.md",
-    "(2) Campaign/(5) People/Orifez.md",
-    "(3) Sessions/(2) Season 2/Session 46.md",
-    "(2) Campaign/(5) People/Party/Rory/Eret.md",
-    "(2) Campaign/(0) Events/Spoken Word of Mortals and Gods.md",
-    "(2) Campaign/(0) Events/Ritual to See Without Eyes.md",
-    "(2) Campaign/(1) Entities/Gods/The Three Siblings/Vydahr.md",
-    "(2) Campaign/(1) Entities/Gods/Rea'Thain/Droeph.md",
-    "(2) Campaign/(1) Entities/Fey/First of the Drowned.md",
-    "(2) Campaign/(1) Entities/Fey/Hooded King.md",
-    "(2) Campaign/(1) Entities/Gods/Tallan.md",
-    "(2) Campaign/(1) Entities/Fey/Greenbelt.md",
-    "(2) Campaign/(1) Entities/Gods/Agrius.md",
-    "(2) Campaign/(1) Entities/Gods/The Three Siblings/Myrmidia.md",
-    "(2) Campaign/(1) Entities/Gods/Ko'aht.md",
-    "(2) Campaign/(1) Entities/Gods/Ealena.md",
-    "(2) Campaign/(1) Entities/Gods/Atlan.md",
-    "(2) Campaign/(1) Entities/Gods/Llyran-Mac-Barione.md",
-    "(0) Files/assets/party/blume/class_info/spell_3_haste.png",
-    "(2) Campaign/(1) Entities/Fey/False Queen.md",
+    "Friends.md",
     "Crisis of Crowns.md",
+    "(3) Sessions/(2) Season 2/Session 51.md",
+    "(3) Sessions/(2) Season 2/Session 50.md",
+    "(3) Sessions/(2) Season 2/Session 49.md",
+    "(3) Sessions/(2) Season 2/Session 48.md",
+    "(3) Sessions/(2) Season 2/Session 46.md",
+    "(3) Sessions/(2) Season 2/Session 45.md",
+    "(3) Sessions/(2) Season 2/Session 44.md",
+    "(3) Sessions/(2) Season 2/Session 43.md",
+    "(3) Sessions/(2) Season 2/Session 42.md",
+    "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 40.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 39.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 38.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 37.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 36.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 35.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 34.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 33.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 32.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 30.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 29.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 28.md",
+    "(3) Sessions/(1) Season 1/(3) Winter/Session 27.md",
+    "(0) Blume/Blume.pdf.sb-f8939e80-0brUIL",
+    "(0) Blume/Blume.pdf",
+    "(2) Campaign/(2) Factions/Clans",
+    "(0) Blume/(1.1) Class PDFs/Occultist_1.4.1.pdf",
+    "(0) Files/assets/party/blume/class_info/ref_spell_2_vortex_warp.png",
+    "(0) Files/assets/party/blume/class_info/spell_3_remove_curse.png",
+    "(0) Files/assets/party/blume/class_info/spell_3_haste.png",
     "(0) Files/assets/refs/map/ref_map_ethemore.png",
-    "(0) Blume/(1.2) Rites/Manipulate Magic.md",
-    "(0) Blume/(0) Spells/2nd/Misty Step.md",
     "(0) Files/assets/party/blume/class_info/spell_2_misty_step.png",
-    "(0) Blume/(1.2) Rites/Practice Makes Perfect.md",
     "(0) Files/assets/party/blume/class_info/spell_3_counterspell.png",
     "(0) Files/assets/party/blume/class_info/spell_1_absorb_elements.png",
     "(0) Files/assets/party/blume/class_info/rite_primal_fire.png",
     "(0) Files/assets/party/blume/class_info/spell_1_fog_cloud.png",
     "(0) Files/assets/party/blume/class_info/spell_3_fireball.png",
-    "(0) Files/assets/party/blume/class_info/spell_3_blink.png",
     "(0) Blume/(0) Spells/3rd",
-    "(0) Files/assets/party/blume/class_info/spell_1_burning_hands.png",
     "(0) Blume/(0) Spells/Removed",
     "(0) Blume/(1.1) Class PDFs/Occultist_1.4.1.pdf.sb-f8939e80-qEZKrT",
-    "(0) Blume/Blume.pdf",
     "(0) Blume/Blume.pdf.sb-f8939e80-aJcz46",
     "(2) Campaign/(4) Locations/Ethemore/Three Sisters/POI",
     "(2) Campaign/(4) Locations/Ethemore/Southern Reaches/POI",
-    "(2) Campaign/(4) Locations/Ethemore/Southern Reaches/Cities",
-    "(2) Campaign/(4) Locations/Ethemore/Hinterlands/Cities",
-    "(2) Campaign/(4) Locations/Ethemore/Hinterlands/POI",
     "Untitled.canvas",
     "Factions/Untitled.canvas"
   ]

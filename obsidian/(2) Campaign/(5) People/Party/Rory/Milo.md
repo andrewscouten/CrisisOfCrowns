@@ -1,3 +1,6 @@
+---
+icon: LiAsterisk
+---
 ## About
 
 - 7 year old

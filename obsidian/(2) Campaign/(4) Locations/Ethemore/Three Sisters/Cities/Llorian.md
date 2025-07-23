@@ -1,3 +1,6 @@
+---
+icon: LiHouse
+---
 
 ## About
 - 2nd largest town in the region of the [[Three Sisters]]

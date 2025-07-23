@@ -1,3 +1,6 @@
+---
+icon: LiSwords
+---
 ## About
 
 - Long before [[King Garette Norcross|Garette Norcross]] was High King of [[Ethemore|Ethemore]], he was merely the 3rd child of his father, [[King Jarekk Norcross]] of The [[Grass Sea|Great Grass Sea]], and as such, being the Spare's Spare, thought he could marry for love. And he did. 

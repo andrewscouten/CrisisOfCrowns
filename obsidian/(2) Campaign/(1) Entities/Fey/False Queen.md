@@ -4,4 +4,5 @@ aliases:
   - Prime Witch of Ash
   - Weaver of Mist
   - Shadow on the Wall
+icon: LiEyeOff
 ---

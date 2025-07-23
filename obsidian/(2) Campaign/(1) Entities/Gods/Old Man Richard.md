@@ -4,6 +4,7 @@ partners:
 aliases:
   - Richard
   - Old Man Richard
+icon: LiEye
 ---
 ## Connections
 

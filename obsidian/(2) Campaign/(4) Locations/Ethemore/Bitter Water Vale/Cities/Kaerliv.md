@@ -1,6 +1,7 @@
 ---
 aliases:
   - Ruins of Kaerliv
+icon: LiHouse
 ---
 - Destroyed by the [[Stag Lord]] now the [[Kaerliv|Ruins of Kaerliv]]
 - Located in the [[Bitter Water Vale]]

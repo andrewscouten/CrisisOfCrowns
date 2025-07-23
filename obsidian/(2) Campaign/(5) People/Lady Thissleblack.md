@@ -1,6 +1,7 @@
 ---
 aliases:
   - Lady Thes Salrus
+icon: LiAsterisk
 ---
 ## About
 

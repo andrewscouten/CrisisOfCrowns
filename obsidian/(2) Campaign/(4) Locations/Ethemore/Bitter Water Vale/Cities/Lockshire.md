@@ -1,3 +1,6 @@
+---
+icon: LiHouse
+---
 
 ## About
 - Capital of the [[Bitter Water Vale]]

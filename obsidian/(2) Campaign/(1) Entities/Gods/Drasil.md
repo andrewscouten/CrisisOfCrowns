@@ -4,6 +4,7 @@ aliases:
   - Old Man of the Woods
   - The Stag
   - Green Knight
+icon: LiEye
 ---
 ## About
 

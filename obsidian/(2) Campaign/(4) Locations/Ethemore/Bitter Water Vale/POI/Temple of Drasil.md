@@ -1,3 +1,6 @@
+---
+icon: LiLandmark
+---
 Dedicated to [[Drasil]]
 
 ## About

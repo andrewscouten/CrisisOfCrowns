@@ -1,3 +1,6 @@
+---
+icon: LiWand
+---
 - Scrolls:
 	- [[Session 27]]
 		- Grease

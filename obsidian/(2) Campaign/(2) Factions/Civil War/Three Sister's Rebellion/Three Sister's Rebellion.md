@@ -2,6 +2,7 @@
 aliases:
   - Rebellion of the Red Day
   - Rebellion
+icon: LiSwords
 ---
 ## About
 

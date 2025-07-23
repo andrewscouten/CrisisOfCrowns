@@ -15,7 +15,7 @@ aliases:
 banner: "![[(0) Files/assets/banners/banner_rory.jpg]]"
 banner-x: 42
 banner-y: 69
-icon:
+icon: LiSword
 ---
 ---
 Player: Marlo

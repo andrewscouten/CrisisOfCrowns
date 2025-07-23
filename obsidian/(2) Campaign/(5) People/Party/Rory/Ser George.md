@@ -7,6 +7,7 @@ children:
   - Rory
   - Braum
   - Milo
+icon: LiAsterisk
 ---
 
 ## About

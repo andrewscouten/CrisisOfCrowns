@@ -5,6 +5,7 @@ children:
   - Dorin
 aliases:
   - Bethany
+icon: LiAsterisk
 ---
 Woman in upper mid 40s, black hair streaked with silver, steely gray eyes
 

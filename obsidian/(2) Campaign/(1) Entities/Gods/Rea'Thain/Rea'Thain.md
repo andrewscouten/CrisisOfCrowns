@@ -2,6 +2,7 @@
 siblings:
   - Rhydahn
   - Lady Death
+icon: LiEye
 ---
 > [!info] Goddess of necromancy (positive connotations), hemocraft, crafting, curses, and secrecy
 

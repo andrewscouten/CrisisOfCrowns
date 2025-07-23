@@ -19,18 +19,20 @@ Keeping track of [[Blume]]'s levels here starting at level 2. Before level 2 is 
 - Rites
 	- [[Mass Cantrip]]
 	- [[Markings of Protection]]
-	- [[Light of the Moon]] (free)
 	- [[Practice Makes Perfect]]
+	- [[Primal Fire]]
+	- [[Light of the Moon]] (free)
 	- [[Manipulate Magic]] (free)
+	- [[Oracle's Sight]] (free)
 
 - Free Spells
-	- [[Spike Growth]]
-	- [[Wither and Bloom]]
 	- [[Moonbeam]] (Rite, [[Light of the Moon]])
 	- [[Faerie Fire]] (Rite, [[Light of the Moon]])
-	- [[Detect Evil and Good]]
-	- [[Vortex Warp]]
-	- [[Remove Curse]]
+	- [[Detect Evil and Good]] (Rkto)
+	- [[Spike Growth]] (Time Skip)
+	- [[Wither and Bloom]] (Time Skip)
+	- [[Vortex Warp]] ([[Linforda Librarium Branch of the Adeptus Mistarum|Linforda Librarium]])
+	- [[Remove Curse]] ([[Linforda Librarium Branch of the Adeptus Mistarum|Linforda Librarium]])
 
 ---
 - 0
@@ -64,8 +66,8 @@ Keeping track of [[Blume]]'s levels here starting at level 2. Before level 2 is 
 	- [[Illusionary Dart (REMOVED)]] -> [[Impact]], Ranged changed to 10 ft based on the way I learned it
 - 3 => 4
 	- 28 HP + 4 dice + 2 con = 34 HP
+		- We all sat down and told Andrew he can't do math, and that 28 HP was the average at level 3
 	- ASI Wis: 18 -> 20
-		- We all sat down and told Andrew he can't do math, and that 28 was the average at level 3
 - 4 => 5
 	- 34 HP + 4 dice + 2 con = 40 HP
 	- [[Awaken Rope (REMOVED)]] -> [[Misty Step]]

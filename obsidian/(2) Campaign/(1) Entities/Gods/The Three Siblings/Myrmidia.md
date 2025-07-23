@@ -6,6 +6,7 @@ aliases:
 siblings:
   - Lydesh
   - Vydahr
+icon: LiEye
 ---
 > [!info] Goddess of honor, duty, strategy, and death
 

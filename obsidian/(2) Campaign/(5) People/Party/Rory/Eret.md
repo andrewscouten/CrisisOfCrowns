@@ -5,6 +5,7 @@ children:
 aliases:
   - Eret Ni'Mallory
   - Eret Ni'Mallory-Cathdun
+icon: LiAsterisk
 ---
 
 ## Connections

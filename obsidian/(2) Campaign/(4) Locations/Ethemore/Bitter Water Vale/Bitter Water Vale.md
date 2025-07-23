@@ -2,6 +2,7 @@
 aliases:
   - Vale
   - Bitter Water
+icon: LiLandPlot
 ---
 Capital city: [[Lockshire]]
 

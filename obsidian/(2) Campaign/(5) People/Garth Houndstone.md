@@ -3,6 +3,7 @@ aliases:
   - Lord Commander Ser Garth Houndstone
   - Commander of the Bloode
   - Stone Hound
+icon: LiAsterisk
 ---
 ## Misc.
 

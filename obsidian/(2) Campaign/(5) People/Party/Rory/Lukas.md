@@ -2,6 +2,7 @@
 siblings:
   - Rory
   - Dorin
+icon: LiAsterisk
 ---
 ## About
 

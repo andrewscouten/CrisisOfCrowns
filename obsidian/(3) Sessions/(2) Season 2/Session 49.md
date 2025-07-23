@@ -59,7 +59,10 @@ The scroll is a code, one [[Eret]] used to write to [[Rory]] in as a child... "I
 
 Sers... the [[Lord Commander]] and [[Lord Protector]] have wished to see you.
 
-
-Sees someone like maleficent [[Ser Reyna Harker]]... In the same keep, the lady of blood became a goddess... 
+Sees someone like maleficent [[Ser Reyna Harker]]... In this same keep, the lady of blood became a goddess... 
 
 According to almost all of the court, when [[Rory]]'s father died so did [[Rory]] and their brother. After the death of [[Rory]]'s father [[Eret]] spent some time alone at work in the [Faultlands?]... Assumed she was pregnant with [[Lukas]], hiding the pregnancy... [[Rory|Ser Aurora, the Fiery Mane]] is now the rightful heir of [[House Ni'Mallory]]
+
+Andrew left early...
+
+3 mystery knights, one is [[Dorin Flintson]] 

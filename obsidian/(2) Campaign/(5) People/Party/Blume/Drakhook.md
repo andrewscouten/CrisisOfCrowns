@@ -1,3 +1,6 @@
+---
+icon: LiAsterisk
+---
 Pronounced: "drakok"
 
 ## Appearance

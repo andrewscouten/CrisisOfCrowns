@@ -1,3 +1,6 @@
+---
+icon: LiAlertCircle
+---
 # Ritual to See Without Eyes
 
 > [!info] [[Blume]] conducts this ritual with [[Drakhook]]. 

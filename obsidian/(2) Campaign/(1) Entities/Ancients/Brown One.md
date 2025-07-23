@@ -9,6 +9,7 @@ parents:
 allies:
   - Greenbelt
   - Nameless Company
+icon: LiEye
 ---
 > [!quote] [[Brown One|Honey Tree]]
 > I watched the birth of the modern gods. I watched as the first five shaped the material realm.

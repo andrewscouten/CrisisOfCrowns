@@ -7,7 +7,7 @@ aliases:
 tags:
   - Nameless
   - Dead
-icon: LiTrees
+icon: LiMountain
 ---
 Player: Justin
 

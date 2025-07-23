@@ -1,12 +1,11 @@
+---
+icon: LiAlertCircle
+---
 # Spoken Word of Mortals and Gods
 
 > [!info] [[Cassia]] as [[Vydahr]] and [[Willa]] as [[Rea'Thain]]
 
 From [[Session 46]]
-
-## Intent
-
-
 
 ## Conversation 
 

@@ -6,6 +6,7 @@ aliases:
   - Winter's Bite
 partners:
   - Edris
+icon: LiEye
 ---
 > [!info] God of winter, justice, family, and love
 

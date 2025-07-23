@@ -4,6 +4,7 @@ siblings:
   - Myrmidia
 aliases:
   - Bone Lord
+icon: LiEye
 ---
 > [!info] God of power, ambition, slaughter, and death
 > (He/Him)

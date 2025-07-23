@@ -1,6 +1,7 @@
 ---
 partners:
   - Richard
+icon: LiEye
 ---
 
 ## About

@@ -2,6 +2,7 @@
 siblings:
   - Vydahr
   - Myrmidia
+icon: LiEye
 ---
 > [!info] God of strength, warfare, endurance, death
 

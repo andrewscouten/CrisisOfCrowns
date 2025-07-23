@@ -3,6 +3,5 @@
 	- Cantrips:
 		- Cantrips Known +1
 		- Can learn Druid and Wizard cantrips & thaumaturgy
-	- Spells Known +1 (learned at 3rd level up)
-- Rites:
-	- Rites Known +1
+	- At 3rd level, you gain one additional spell known and one additional occult rite known. This rite can come from the Hedge Mage rites or from the general Occultist rites. These do not count against your spells or rites known.
+	- At 6th level, you can learn one new 1st or 2nd level spell from the bard, cleric, druid, or wizard spell list. The spell becomes an Occultist spell for you, but does not count against your spells known. Additionally, you can delve into the rites of another tradition. You learn one additional occult rite that does not count against your rites known. This rite can be selected from any Occultist subclass or from the general Occultist rites, but cannot be a rite with a prerequisite.

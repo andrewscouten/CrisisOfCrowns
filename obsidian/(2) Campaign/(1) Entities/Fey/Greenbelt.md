@@ -4,6 +4,7 @@ aliases:
   - Lord of the Grove
   - Puppet Master
   - Green Lord
+icon: LiEye
 ---
 ![[ref_char_greenbelt.png]]
 
