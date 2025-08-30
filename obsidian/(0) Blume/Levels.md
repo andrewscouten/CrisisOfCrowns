@@ -75,7 +75,13 @@ Keeping track of [[Blume]]'s levels here starting at level 2. Before level 2 is 
 	- [[Haste]]
 	- Rite: [[Manipulate Magic]]
 - 5->6
-	- [[Hex]] -> [[Fog Cloud]]
+	- [[Hex (REMOVED)]] -> [[Fog Cloud (REMOVED)]]
 	- [[Absorb Elements]] learned from occultist lvl 6
 	- [[Blink]] learned from level up spells known
 	- 40 HP + 4 dice + 2 con = 46 HP
+- 6 -> 7
+	- 46 + 4 dice + 2 con = 52
+	- [[Arcane Eye]]
+	- [[Wall of Fire]]
+	- [[Emblazoned Focus]]
+	- [[Fog Cloud (REMOVED)]] -> [[Mirror Image]]

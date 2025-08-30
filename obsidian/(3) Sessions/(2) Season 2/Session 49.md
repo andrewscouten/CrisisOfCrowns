@@ -65,4 +65,4 @@ According to almost all of the court, when [[Rory]]'s father died so did [[Rory]
 
 Andrew left early...
 
-3 mystery knights, one is [[Dorin Flintson]] 
+3 mystery knights, one is [[Dorin]] 

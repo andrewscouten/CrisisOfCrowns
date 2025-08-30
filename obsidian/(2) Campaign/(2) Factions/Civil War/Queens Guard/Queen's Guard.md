@@ -9,7 +9,9 @@ icon: LiSwords
 - Upon his death, and the subsequent death of his only Legitimate child, [[King Garette Norcross|Garette]]'s youngest and final sibling, [[Prince Beorneth Norcross]] has raised her to the Queenship, claiming that, while not of his name, the now eneoffed [[Queen Janeth Norcross]] is the only of his remaining children to be born of a marriage at all, rather than being a true bastard. And thus, while not the eldest child, she is the rightful heir to the throne. Her claim is supported by the [[Bitter Water Vale|Vale]] (mostly), the majority of the [[Bitter Water Vale]] Houses, and the Clawfolk of Crackclaw Point and the [[Bay of Crabs]]
 
 ### Goal
+
 Putting [[Queen Janeth Norcross]] onto the rightful throne.
 
 ### Location
+
 A fortified ruin known as the [[River Station]] found in the center of the [[Bay of Crabs]], just north of the [[Grass Sea|Great Grass Sea]]

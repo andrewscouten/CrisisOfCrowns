@@ -1,0 +1,1 @@
+![[ref_spell_4_wall_of_fire.png]]

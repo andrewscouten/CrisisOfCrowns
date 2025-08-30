@@ -1,5 +1,7 @@
 ---
-icon: LiEye
+aliases:
+  - Eldest of Witches
+  - Princess of the Fallen Court
 ---
 Close to an arch-fey, between god and mortal
 

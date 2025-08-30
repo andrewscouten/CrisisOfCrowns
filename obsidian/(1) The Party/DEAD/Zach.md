@@ -1,19 +1,20 @@
 ---
-tags: 
+tags:
+  - Dead
 banner: "![[(0) Files/assets/banners/banner_zach.jpg]]"
 aliases:
   - Zach Nifine
-icon: LiTelescope
+icon:
 ---
 
 ---
 Player: Justin
 
 ---
-> [!important] Zach
+> [!important] Zach, Bringer of Death
 
 > [!infobox|center wfull]
-> # Zach
+> # Zach Nafein Nuru Tulya
 > ![[portrait_zach.jpg|portrait]]
 > ###### Bio
 > |  |  |
@@ -21,18 +22,10 @@ Player: Justin
 > | Pronouns: | He/Him? |
 > | Age: | 20 (45-50 human years) |
 
-## About
-
-- Andrew was sick when he was introduced :( I will try to write more as I learn
-
 ## First Impressions
 
 - 6 ft, metallic violet eyes, white hair, light grey skin
 - Wears a hood
-
-## Allied Contacts
-
-- [[Capital City]]: [[Engator]]
 
 ## Image References
 

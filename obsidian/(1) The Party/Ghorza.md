@@ -7,7 +7,7 @@ aliases:
 banner: "![[(0) Files/assets/banners/banner_ghorza.jpg]]"
 banner-x: 57
 banner-y: 42
-icon: LiAxe
+icon:
 ---
 ---
 Player: Katie (she/her)

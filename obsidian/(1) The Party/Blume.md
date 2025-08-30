@@ -1,7 +1,6 @@
 ---
 aliases:
   - Blume Yllavaris
-icon: LiApple
 banner: "![[(0) Files/assets/banners/banner_blume.jpg]]"
 banner-x: 44
 banner-y: 31
@@ -12,7 +11,7 @@ Player: Andrew (he/they)
 
 ---
 
-> [!important] Lord Blume, of the Eldest of Eldest, Champion of the Endless, Agent of the Green Coven
+> [!important] Honorable Blume, of the Eldest of Eldest, Champion of the Endless, Agent of the Green Coven
 
 > [!infobox|center wfull]
 > # Blume Yllavaris

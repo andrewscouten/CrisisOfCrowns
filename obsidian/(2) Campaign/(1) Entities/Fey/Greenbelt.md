@@ -3,7 +3,7 @@ aliases:
   - Greenie
   - Lord of the Grove
   - Puppet Master
-  - Green Lord
+  - Grendle
 icon: LiEye
 ---
 ![[ref_char_greenbelt.png]]

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7089ce42d30489f3",
+        "id": "4d66fdf3d666e9b6",
         "type": "tabs",
         "children": [
           {
-            "id": "a7eb8f649cc56afe",
+            "id": "ce2ee8bf9ecf43d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(3) Sessions/(2) Season 2/Session 51.md",
+                "file": "(3) Sessions/(2) Season 2/Session 56.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 51"
+              "title": "Session 56"
+            }
+          },
+          {
+            "id": "be9196ed34321083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(3) Sessions/(2) Season 2/Session 56.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 56"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "myg",
+                "query": "elven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,6 +205,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:P2P Replicator": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -198,57 +216,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "a7eb8f649cc56afe",
+  "active": "be9196ed34321083",
   "lastOpenFiles": [
-    "Friends.md",
-    "Crisis of Crowns.md",
-    "(3) Sessions/(2) Season 2/Session 51.md",
-    "(3) Sessions/(2) Season 2/Session 50.md",
-    "(3) Sessions/(2) Season 2/Session 49.md",
+    "(3) Sessions/(2) Season 2/Session 54.md",
     "(3) Sessions/(2) Season 2/Session 48.md",
+    "(3) Sessions/(2) Season 2/Session 47.md",
     "(3) Sessions/(2) Season 2/Session 46.md",
-    "(3) Sessions/(2) Season 2/Session 45.md",
-    "(3) Sessions/(2) Season 2/Session 44.md",
-    "(3) Sessions/(2) Season 2/Session 43.md",
-    "(3) Sessions/(2) Season 2/Session 42.md",
-    "(3) Sessions/(1) Season 1/Sessions to redo formatting.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 41.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 40.md",
     "(3) Sessions/(1) Season 1/(3) Winter/Session 39.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 38.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 37.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 36.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 35.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 34.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 33.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 32.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 30.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 29.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 28.md",
-    "(3) Sessions/(1) Season 1/(3) Winter/Session 27.md",
-    "(0) Blume/Blume.pdf.sb-f8939e80-0brUIL",
-    "(0) Blume/Blume.pdf",
-    "(2) Campaign/(2) Factions/Clans",
-    "(0) Blume/(1.1) Class PDFs/Occultist_1.4.1.pdf",
+    "(3) Sessions/(1) Season 1/(2) Winter Approaches/Session 16.md",
+    "(0) Blume/(0) Spells/3rd/Counterspell.md",
+    "(0) Blume/(0) Spells/Cantrip/Thorn Whip.md",
+    "(0) Blume/(0) Spells/3rd/Fireball.md",
+    "(0) Blume/(0) Spells/1st/Ensnaring Strike.md",
+    "(0) Blume/(0) Spells/1st/Burning Hands.md",
+    "(0) Blume/(0) Spells/Cantrip/Eldritch Blast.md",
+    "(0) Blume/(0) Spells/Cantrip/Create Bonfire.md",
+    "(0) Blume/(0) Spells/Cantrip/Shocking Grasp.md",
+    "(0) Blume/(0) Spells/Cantrip/Mind Sliver.md",
+    "(0) Blume/(0) Spells/Cantrip/Message.md",
+    "(0) Blume/(1.2) Rites/Oracle's Sight.md",
+    "(0) Blume/(1.2) Rites/Mass Cantrip.md",
+    "(0) Blume/(1.2) Rites/Markings of Protection.md",
+    "(0) Blume/(1.2) Rites/Manipulate Magic.md",
+    "(0) Blume/(1.2) Rites/Light of the Moon.md",
+    "(0) Blume/(1.2) Rites/Emblazoned Focus.md",
+    "(0) Blume/(1.2) Rites/Primal Fire.md",
+    "(0) Blume/(1.2) Rites/Practice Makes Perfect.md",
+    "(0) Blume/(0) Spells/1st/Faerie Fire.md",
+    "(0) Blume/(0) Spells/2nd/Scorching Ray.md",
+    "(0) Blume/Blume.pdf.sb-f8939e80-gx0Uqt",
+    "(0) Blume/(1.1) Class PDFs/Kibbles' Casting Compendium _ GM Binder.pdf.sb-f8939e80-s68McA",
+    "(1) The Party/Willa.md.sb-f8939e80-chBc9r",
+    "(1) The Party/Fyudor.md.sb-f8939e80-2FGwPH",
+    "(1) The Party/Cassia.md.sb-f8939e80-DOUABk",
+    "(1) The Party/Blume.md.sb-f8939e80-SoGgOP",
+    "(1) The Party/RESERVE/Selene.md.sb-f8939e80-eHWuP1",
+    "(1) The Party/RESERVE/Con'Niall.md.sb-f8939e80-iHfXew",
+    "(1) The Party/DEAD/Finnegean.md.sb-f8939e80-nJ9OIU",
+    "(0) Files/assets/party/blume/ref_spell_4_wall_of_fire.png",
+    "(0) Files/assets/party/blume/ref_spell_2_mirror_image.png",
+    "(0) Blume/Blume.pdf.sb-f8939e80-GHKF5y",
+    "(0) Files/assets/spell_4_aracne_eye.png",
+    "(0) Files/assets/ref_rite_emblazoned_focus.png",
     "(0) Files/assets/party/blume/class_info/ref_spell_2_vortex_warp.png",
     "(0) Files/assets/party/blume/class_info/spell_3_remove_curse.png",
     "(0) Files/assets/party/blume/class_info/spell_3_haste.png",
     "(0) Files/assets/refs/map/ref_map_ethemore.png",
     "(0) Files/assets/party/blume/class_info/spell_2_misty_step.png",
     "(0) Files/assets/party/blume/class_info/spell_3_counterspell.png",
-    "(0) Files/assets/party/blume/class_info/spell_1_absorb_elements.png",
-    "(0) Files/assets/party/blume/class_info/rite_primal_fire.png",
-    "(0) Files/assets/party/blume/class_info/spell_1_fog_cloud.png",
-    "(0) Files/assets/party/blume/class_info/spell_3_fireball.png",
-    "(0) Blume/(0) Spells/3rd",
-    "(0) Blume/(0) Spells/Removed",
-    "(0) Blume/(1.1) Class PDFs/Occultist_1.4.1.pdf.sb-f8939e80-qEZKrT",
-    "(0) Blume/Blume.pdf.sb-f8939e80-aJcz46",
-    "(2) Campaign/(4) Locations/Ethemore/Three Sisters/POI",
-    "(2) Campaign/(4) Locations/Ethemore/Southern Reaches/POI",
     "Untitled.canvas",
     "Factions/Untitled.canvas"
   ]

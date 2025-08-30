@@ -32,9 +32,9 @@
 - [[Ghorza]] is in formal-wear armor and a cape / cowl
 - [[Rory]] is in even more formal-wear armor with more metal like gauntlets, wearing a blue cape with a lion symbol on it
 - There is a council
-	- Council of 7
-		- Black hair woman with elven ears, [[Ser Reyna Harker]]
-		- Unknown man, from dead-lands, unknown heraldry, [[Emmet Stonetree]]
+	- [[Council of Seven]]
+		- Black hair woman with elven ears, [[Ser Reyna Harker]], lord protector 
+		- Unknown man, from dead-land s, unknown heraldry, [[Emmet Stonetree]]
 		- Assumed regular man by looks, a face of the royals to the common people, master of propaganda, master of coin, [[Patrack Rock]], royal bastard... Not [[King Garette Norcross|Garette]]'s bastard, but to the king's youngest sister... [[Prince Patrack]] 
 		- Man with a symbol of a sword and a book in front of him, master of law, 
 		- [[Garth Houndstone]], with a symbol of the tower wrapped in a crown, the [[Crown's Guard]]

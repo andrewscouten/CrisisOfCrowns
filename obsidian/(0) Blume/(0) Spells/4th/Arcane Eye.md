@@ -1,0 +1,1 @@
+![[spell_4_aracne_eye.png]]

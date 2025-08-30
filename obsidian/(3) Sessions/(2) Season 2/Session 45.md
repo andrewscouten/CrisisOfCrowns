@@ -12,10 +12,10 @@
 - There is an inn on the border of the Clawlands and the Grasslands
 	- Hanging from the door is a sign with a single iron anvil and above it a broken sword
 	- This is [[Bethany Irons]]' inn, with Flintson as [[Bethany Irons]]' son greets us
-	- [[Dorin Flintson]] went to the [[Capital City]] to get money and a title
+	- [[Dorin]] went to the [[Capital City]] to get money and a title
 - We play games and eat some food at the inn
 - [[Bethany Irons]] and [[Rory]] talk
 	- Competitors in the [[Capital City]] might even get knighthood
 	- They are aligned with [[Prince Beorneth Norcross]], a symbol of a crown and sword over a hedge maze
-	- [[Flint the Beggar|Flint]] joined a tournament under the assumed alias the [[Flint the Beggar|Beggar Knight]], and he won. He refused because he was already a knight. [[Dorin Flintson|Dorin]] wants to be like his dad. He can't afford plate, will probably be wearing bad armor and has short red hair
+	- [[Flint the Beggar|Flint]] joined a tournament under the assumed alias the [[Flint the Beggar|Beggar Knight]], and he won. He refused because he was already a knight. [[Dorin|Dorin]] wants to be like his dad. He can't afford plate, will probably be wearing bad armor and has short red hair
 	- 

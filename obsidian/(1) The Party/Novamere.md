@@ -1,7 +1,18 @@
 ---
-icon: LiCloudLightning
+icon:
+---
 ---
 Player: Justin
+
+---
+> [!important] Ser Novamere Evendiel the Blue
+
+> [!infobox|center wfull]
+> # Novamere
+> ###### Bio
+> |  |  |
+> | --- | --- |
+> | Pronouns: | He/Him? |
 
 ## About
 
@@ -10,7 +21,14 @@ Player: Justin
 ## First Impressions
 
 - Looks long in the face, staring off into the distance
-- Church clothing, tattered high armor, looking for a church
+- Church clothing, tattered high armor 
+
+## Second Impressions
+
+- Rather old, especially for being someone who looks almost human
+	- Slightly elvish ears, shimmering freckles around his eyes, around his irises baby blue but almost metallic ring, way more grey in his hair 
+- 36 year old now...
+- He's in full plate now
 
 ## From Session
 

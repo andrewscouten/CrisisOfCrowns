@@ -1,0 +1,4 @@
+---
+aliases:
+  - House Gogorias Valdor
+---
