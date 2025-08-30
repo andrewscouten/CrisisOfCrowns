@@ -4,6 +4,7 @@ aliases:
 banner: "![[(0) Files/assets/banners/banner_blume.jpg]]"
 banner-x: 44
 banner-y: 31
+icon: LiApple
 ---
 
 ---

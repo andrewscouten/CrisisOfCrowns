@@ -4,7 +4,7 @@ tags:
 banner: "![[(0) Files/assets/banners/banner_zach.jpg]]"
 aliases:
   - Zach Nifine
-icon:
+icon: LiTelescope
 ---
 
 ---

@@ -4,6 +4,7 @@ aliases:
 banner: "![[(0) Files/assets/banners/banner_cassia.jpg]]"
 banner-x: 45
 banner-y: 0
+icon: LiAperture
 ---
 ---
 Player: Sarah / Juno (she/her)

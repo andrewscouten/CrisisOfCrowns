@@ -1,5 +1,6 @@
 ---
 banner: "![[(0) Files/assets/banners/banner_willa.jpg]]"
+icon: LiSkull
 ---
 
 ---

@@ -1,6 +1,7 @@
 ---
 tags:
   - Dead
+icon: LiGuitar
 ---
 Player: Sarah / Juno (she/her)
 

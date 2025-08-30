@@ -4,6 +4,7 @@ aliases:
   - Begging Man
 siblings:
   - Lukas
+icon: LiAsterisk
 ---
 # Dorin
 

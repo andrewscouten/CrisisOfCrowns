@@ -1,3 +1,3 @@
 ---
-icon:
+icon: LiEye
 ---

@@ -2,6 +2,7 @@
 banner: "![[(0) Files/assets/banners/banner_fyudor.jpg]]"
 banner-x: 49
 banner-y: 28
+icon: LiDog
 ---
 
 ---

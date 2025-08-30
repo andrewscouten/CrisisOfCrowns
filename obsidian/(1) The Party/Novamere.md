@@ -1,5 +1,5 @@
 ---
-icon:
+icon: LiCloudLightning
 ---
 ---
 Player: Justin
