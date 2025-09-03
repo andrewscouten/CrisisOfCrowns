@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ethemore]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://crisis-of-crowns.games-with-friends.org/</link><image><url>http://crisis-of-crowns.games-with-friends.org/lib/media/favicon.png</url><title>Ethemore</title><link>http://crisis-of-crowns.games-with-friends.org/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 30 Aug 2025 21:14:44 GMT</lastBuildDate><atom:link href="http://crisis-of-crowns.games-with-friends.org/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 30 Aug 2025 21:14:02 GMT</pubDate><copyright><![CDATA[andrewscouten]]></copyright><ttl>60</ttl><dc:creator>andrewscouten</dc:creator><item><title><![CDATA[Absorb Elements]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ethemore]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://crisis-of-crowns.games-with-friends.org/</link><image><url>http://crisis-of-crowns.games-with-friends.org/lib/media/favicon.png</url><title>Ethemore</title><link>http://crisis-of-crowns.games-with-friends.org/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 03 Sep 2025 20:25:47 GMT</lastBuildDate><atom:link href="http://crisis-of-crowns.games-with-friends.org/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 03 Sep 2025 20:24:57 GMT</pubDate><copyright><![CDATA[andrewscouten]]></copyright><ttl>60</ttl><dc:creator>andrewscouten</dc:creator><item><title><![CDATA[Absorb Elements]]></title><description><![CDATA[ 
  <br><img alt="spell_1_absorb_elements.png" src="http://crisis-of-crowns.games-with-friends.org/lib/media/spell_1_absorb_elements.png">]]></description><link>http://crisis-of-crowns.games-with-friends.org/(0)-blume/(0)-spells/1st/absorb-elements.html</link><guid isPermaLink="false">(0) Blume/(0) Spells/1st/Absorb Elements.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 09 Jul 2025 23:59:53 GMT</pubDate><enclosure url="http://crisis-of-crowns.games-with-friends.org/lib/media/spell_1_absorb_elements.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;http://crisis-of-crowns.games-with-friends.org/lib/media/spell_1_absorb_elements.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Burning Hands]]></title><description><![CDATA[ 
  <br><img alt="spell_1_burning_hands.png" src="http://crisis-of-crowns.games-with-friends.org/lib/media/spell_1_burning_hands.png">]]></description><link>http://crisis-of-crowns.games-with-friends.org/(0)-blume/(0)-spells/1st/burning-hands.html</link><guid isPermaLink="false">(0) Blume/(0) Spells/1st/Burning Hands.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 09 Jul 2025 23:51:58 GMT</pubDate><enclosure url="http://crisis-of-crowns.games-with-friends.org/lib/media/spell_1_burning_hands.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;http://crisis-of-crowns.games-with-friends.org/lib/media/spell_1_burning_hands.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Comprehend Languages]]></title><description><![CDATA[ 
  <br><img alt="spell_1_comprehend_languages.png" src="http://crisis-of-crowns.games-with-friends.org/lib/media/spell_1_comprehend_languages.png">]]></description><link>http://crisis-of-crowns.games-with-friends.org/(0)-blume/(0)-spells/1st/comprehend-languages.html</link><guid isPermaLink="false">(0) Blume/(0) Spells/1st/Comprehend Languages.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 25 Jun 2025 22:51:07 GMT</pubDate><enclosure url="http://crisis-of-crowns.games-with-friends.org/lib/media/spell_1_comprehend_languages.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;http://crisis-of-crowns.games-with-friends.org/lib/media/spell_1_comprehend_languages.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Cure Wounds]]></title><description><![CDATA[ 
@@ -452,7 +452,7 @@ Character Colors: <br>
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)<br><br>Rory's Oath
@@ -580,7 +580,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)<br><br>
@@ -599,7 +599,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(1)-entities/ancients/ur-mother-bear.html</link><guid isPermaLink="false">(2) Campaign/(1) Entities/Ancients/Ur-Mother Bear.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:49 GMT</pubDate></item><item><title><![CDATA[Crow King]]></title><description><![CDATA[ 
@@ -637,7 +637,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(1)-entities/gods/rea&apos;thain/rea&apos;thain.html</link><guid isPermaLink="false">(2) Campaign/(1) Entities/Gods/Rea&apos;Thain/Rea&apos;Thain.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:49 GMT</pubDate></item><item><title><![CDATA[Lydesh]]></title><description><![CDATA[ 
@@ -651,7 +651,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(1)-entities/gods/the-three-siblings/lydesh.html</link><guid isPermaLink="false">(2) Campaign/(1) Entities/Gods/The Three Siblings/Lydesh.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:50 GMT</pubDate></item><item><title><![CDATA[Myrmidia]]></title><description><![CDATA[ 
@@ -665,7 +665,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(1)-entities/gods/the-three-siblings/myrmidia.html</link><guid isPermaLink="false">(2) Campaign/(1) Entities/Gods/The Three Siblings/Myrmidia.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:50 GMT</pubDate></item><item><title><![CDATA[The Three Siblings]]></title><description><![CDATA[ 
@@ -688,7 +688,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(1)-entities/gods/the-three-siblings/vydahr.html</link><guid isPermaLink="false">(2) Campaign/(1) Entities/Gods/The Three Siblings/Vydahr.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:50 GMT</pubDate></item><item><title><![CDATA[Agrius]]></title><description><![CDATA[ 
@@ -703,7 +703,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(1)-entities/gods/agrius.html</link><guid isPermaLink="false">(2) Campaign/(1) Entities/Gods/Agrius.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:50 GMT</pubDate></item><item><title><![CDATA[Atlan]]></title><description><![CDATA[ 
@@ -721,7 +721,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(1)-entities/gods/edris.html</link><guid isPermaLink="false">(2) Campaign/(1) Entities/Gods/Edris.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:50 GMT</pubDate></item><item><title><![CDATA[Granny]]></title><description><![CDATA[ 
@@ -734,7 +734,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(1)-entities/gods/granny.html</link><guid isPermaLink="false">(2) Campaign/(1) Entities/Gods/Granny.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:50 GMT</pubDate></item><item><title><![CDATA[Hair of Fire]]></title><description><![CDATA[ 
@@ -748,7 +748,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)<br><br>
@@ -762,7 +762,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(1)-entities/gods/rhydahn.html</link><guid isPermaLink="false">(2) Campaign/(1) Entities/Gods/Rhydahn.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:50 GMT</pubDate></item><item><title><![CDATA[Tallan]]></title><description><![CDATA[ 
@@ -780,7 +780,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(2)-factions/civil-war/followers-of-the-rightful-queen/leaders/queen-knorren.html</link><guid isPermaLink="false">(2) Campaign/(2) Factions/Civil War/Followers of the Rightful Queen/Leaders/Queen Knorren.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 25 Jun 2025 22:51:08 GMT</pubDate></item><item><title><![CDATA[Keene Banks]]></title><description><![CDATA[ 
@@ -1051,7 +1051,7 @@ I watched the birth of the modern gods. I watched as the first five shaped the m
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(5)-people/nobels/king-garette-norcross.html</link><guid isPermaLink="false">(2) Campaign/(5) People/Nobels/King Garette Norcross.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 25 Jun 2025 22:51:08 GMT</pubDate></item><item><title><![CDATA[King Jarekk Norcross]]></title><description><![CDATA[ 
@@ -1078,7 +1078,7 @@ She once had 10 siblings, now there are 4<br>Owns an inn close to the <a data-to
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(5)-people/party/rory/bethany-irons.html</link><guid isPermaLink="false">(2) Campaign/(5) People/Party/Rory/Bethany Irons.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:52 GMT</pubDate></item><item><title><![CDATA[Braum]]></title><description><![CDATA[ 
@@ -1115,7 +1115,7 @@ As long as there are 2 people alive, one would try to kill the other. There's al
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(5)-people/party/rory/eret.html</link><guid isPermaLink="false">(2) Campaign/(5) People/Party/Rory/Eret.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Sat, 30 Aug 2025 21:13:58 GMT</pubDate></item><item><title><![CDATA[Flint the Beggar]]></title><description><![CDATA[ 
@@ -1129,7 +1129,7 @@ Dirty ice pale eyes<br><a data-href="Rory" href="http://crisis-of-crowns.games-w
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(5)-people/party/rory/lukas.html</link><guid isPermaLink="false">(2) Campaign/(5) People/Party/Rory/Lukas.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 13 Aug 2025 22:51:36 GMT</pubDate></item><item><title><![CDATA[Milo]]></title><description><![CDATA[ 
@@ -1147,7 +1147,7 @@ Dirty ice pale eyes<br><a data-href="Rory" href="http://crisis-of-crowns.games-w
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1214378)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:1182416)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewPlugin.dataviewjs (plugin:dataview:20537:18)
     at eval (plugin:dataview:20415:124)]]></description><link>http://crisis-of-crowns.games-with-friends.org/(2)-campaign/(5)-people/party/rory/ser-george.html</link><guid isPermaLink="false">(2) Campaign/(5) People/Party/Rory/Ser George.md</guid><dc:creator><![CDATA[andrewscouten]]></dc:creator><pubDate>Wed, 23 Jul 2025 22:01:52 GMT</pubDate></item><item><title><![CDATA[Ser Sandauq Stillwater]]></title><description><![CDATA[ 
