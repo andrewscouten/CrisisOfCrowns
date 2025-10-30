@@ -9,7 +9,7 @@
 
 ---
 [[Chrom]] was not always historically used with the best intentions... A grey, black, and gold sword... The sword does not ping as evil or unholy, but holy instead... In history there are two tales of a black sword:
-- A great mortal king who used the idea of "I was chosen" as a game of power in a region far from [[Ethemore]]... A high king of [[Northundrea]]... First and last time the land was fully conqured
+- A great mortal king who used the idea of "I was chosen" as a game of power in a region far from [[Ethemore]]... A high king of [[Northundrea]]... First and last time the land was fully conquered
 - True giant of a man, literal half-giant, used it to greatly harm and drive off a giant black dragon who was harming his kin. The myths end with a dragon who is named [[Mygath]] who was named... A dragon who might have lost an eye
 
 ---
@@ -26,7 +26,6 @@ We meet a tiefling, [[Ser Morgan Blackmont]]
 ---
 We go inside the keep
 - [[Ser Jon Whitefyre]] and [The Twins] are there
-
 - We go back into the room to prepare for a dinner after court... Two people knock on the secret wall entrance... [[Eret]] and introduced as [[Ser Kenna|Ser Kenna of Stone Hedge]] (a wing of the sparrow)
 
 --- 
@@ -35,7 +34,7 @@ We go inside the keep
 ---
 Advice from [[Eret]]
 - Take a very close look at a number of your most outlying clans... [[Clan Kragmaw]] and [[Clan Rootrot]]... Both have deeper ties to the basters band than they believe
-- Notable ally to a member of the kingstone... Those who have survived the [[Nameless Company]]'s attention have allied themselves with [[Moreth Stone]] not for his kingship but to get vengeance on us
+- Notable ally to a member of the king-stone... Those who have survived the [[Nameless Company]]'s attention have allied themselves with [[Moreth Stone]] not for his kingship but to get vengeance on us
 - The honor guard of [[Novamere]], red green and yellow are true, but orange might be bested by blue
 	- To be of these guards, all banners sworn to [[House Harwyn]], current head is the red,
 - [[Willa]] asks about the symbol of the [[False Queen]] found in the cultist we fought last session... Some people have been seen with it
@@ -44,6 +43,6 @@ Advice from [[Eret]]
 	- Intercepted mail, mass letter, referenced a collective to meet in the temple district LAST NIGHT
 - In 4 weeks a weather mage says winter will turn to spring on a month... The [[Garth Houndstone|Lord Commander Ser Garth Houndstone]] and [[Harper Botchart|Lady Regent of the Realm Harpar Botchart]] have decided to send a wave of campaigners... The first wave was militia, the second wave will turn the war and they will try to eliminate ALL of false [[Queen Knorren]]
 - Servants quarters of the east wing, 3 days time
--  
 
 ---
+We fought in the dining hall and a guy got away

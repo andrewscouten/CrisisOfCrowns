@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAsterisk",
       "LiGuitar",
       "LiApple",
       "LiAlertCircle",
-      "LiCrown",
-      "LiEye"
+      "LiCrown"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -189,5 +189,7 @@
   "(0) Files/uncategorized/World Tree.md": "LiEye",
   "(1) The Party/Novamere.md": "LiCloudLightning",
   "(1) The Party/DEAD/Zach.md": "LiTelescope",
-  "House Harwyn.md": "LiCrown"
+  "(2) Campaign/(2) Factions/Royal Houses/House Harwyn.md": "LiCrown",
+  "Prince Patrek Rock.md": "LiAsterisk",
+  "Honorable in Green Verden.md": "LiAsterisk"
 }

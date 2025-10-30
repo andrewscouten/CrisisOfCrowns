@@ -85,3 +85,7 @@ Keeping track of [[Blume]]'s levels here starting at level 2. Before level 2 is 
 	- [[Wall of Fire]]
 	- [[Emblazoned Focus]]
 	- [[Fog Cloud (REMOVED)]] -> [[Mirror Image]]
+- 7 -> 8
+	- +2 con, 14 -> 16
+	- 67 HP
+	- Banishment
