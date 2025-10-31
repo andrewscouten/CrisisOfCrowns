@@ -89,3 +89,11 @@ Keeping track of [[Blume]]'s levels here starting at level 2. Before level 2 is 
 	- +2 con, 14 -> 16
 	- 67 HP
 	- Banishment
+
+
+
+- Boons
+	- Can learn a free curse from the witches spell list
+	- Lean any 1 witches occultist rite for free (black or green coven)
+- Debuffs
+	- Any fire dmg adds half of level rounded down

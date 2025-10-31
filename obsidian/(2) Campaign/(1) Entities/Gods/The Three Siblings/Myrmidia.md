@@ -12,7 +12,7 @@ icon: LiEye
 
 ## About
 
-- Depicted as a human
+- Depicted as a human, 5'5"
 - Sensations of steel and leather
 
 ## Connections

@@ -3,7 +3,7 @@
 	- [[Ser Sandauq Stillwater]] uses one hand to cast spells, cast like them
 - [[Willa]] offers something from the battle to [[Myrmidia]]
 	- Sees a different version of herself (a different spell casting focus, etc.), wielding a sword made of spine, screaming into it and killing enemies around her
-- [[Cassia]] gives to [[The Three Siblings]]
+- [[Cassia]] gives to [[Three Siblings]]
 	- Sees war camps, banners, shields, etc. 
 	- Sees a woman in bloody red armor with a lance and a giant shield; [[Myrmidia]]
 		- War horns, nicely sounding

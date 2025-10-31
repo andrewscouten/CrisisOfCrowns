@@ -1,9 +1,9 @@
 Blume was pulled aside 
 - Upper middle aged dwarven man, [[Honorable in Green Verden]], staff with spiral hook and his dog [[Mave]]... ANCIENT DOG
-- 
+
 [[House Trant]] and [[House Greengood]]... everyone that was hung from this tree was hung by their feet
 - These people sought the old king harm
-- Young sky-hung of the isles posions the ground he stands on, spreading disease and death and rot... Your ai/d is barely better than the destruction that comes without it... You wish to root out this cult? Take heed you don't leave it open for something worse... Fear not this rot you carry, yo will find use from it, take heed you do so soon
+- Young sky-hung of the isles poisons the ground he stands on, spreading disease and death and rot... Your aid is barely better than the destruction that comes without it... You wish to root out this cult? Take heed you don't leave it open for something worse... Fear not this rot you carry, yo will find use from it, take heed you do so soon
 - Horns grow into a crown of thorns, antlers of root
 - Bearer of the black briar's curse... you can seek a cure, empowerment... but you will not seek both... You are still chosen of the old ways
 - Boons
@@ -27,7 +27,6 @@ Cathedral of [[Llyran-Mac-Barione]]
 - Some of the under-city could have easily snaked into the under-stones of the cathedral
 - [[Lady of Pain]] is what evidence points towards the cult focusing on, not the [[The Drowned]]
 - The 3rd god was [[Llyran-Mac-Barione]]'s father
-- 
 
 Loot
 - 4 chained shirts of castle quality

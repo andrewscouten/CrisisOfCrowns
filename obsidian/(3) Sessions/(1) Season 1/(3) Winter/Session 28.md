@@ -7,11 +7,11 @@
 		- Tsk, tsk, tsk, tsk...
 		- They are not happy with [[Con'Niall]]'s actions
 		- [[Agrius]] reveals themselves as a member of the [[Green Coven]]
-		- The [[Agrius]] scrapes a rose thorn  across [[Con'Niall]]'s face, giving both a boon and a debuff:
+		- The [[Agrius]] scrapes a rose thorn  across [[Con'Niall]]'s face, giving both a boon and a de-buff:
 			- Boon: 
 				- Other agents of the [[Green Coven]] know you on sight and are able to assist you more easily
 				- In any fight that directly benefits the [[Green Coven]], his divine furry does 1d6+level to all enemies in the encounter (upon being hit)
-			- Debuff:
+			- De-buff:
 				- If an action that you declare would be directly harmful to the intention of the [[Green Coven]], you will take 1d6 piercing dmg (not reducible by rage)
 				- Clerics, druids, and occultists, automatically have a decreased level of trust/happiness/likability towards [[Con'Niall]] upon first meetings
 			- Cosmetic: 

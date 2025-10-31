@@ -1,0 +1,69 @@
+DREAMS!
+- [[Ghorza]]
+	- Awakens to the ever-present sound of battle; the screams of the dying and wounded, clash of bodies and weapons... it's a sound she knows well. It echos through her body as she stands on a hill overlooking an endless plane of conflict. Normally, if she were looking at this in her dreams, she would see the three camps for the [[Three Siblings]]. This time there is no division, just chaos.
+	- She feels people standing next to her on either side
+		- On her left is [[Myrmidia]], a dozen changing faces and hair... what you think of when you picture a soldier. It's been a long time since [[Myrmidia]] has had this many champions. [[Ghorza]]'s actions has brought honor to her people and to [[Myrmidia]].
+			- "You have faced fear, you have faced death. More than most would ever dream of." - [[Myrmidia]] to [[Ghorza]]
+		- On her right is [[Lydesh]], the single tallest orc she has ever seen. He chuckles. 
+			- "Your actions have shown strength and endurance of the mind and spirit"
+		- Behind her, [[Vydahr]]. "You have known death."
+		- For right, for reason, for wrong. You walk a path with endings all soaked in blood. Do you take back your people? Do you continue to live life far away? Do you hunt down all those who wrong you? Accept the title given to you? .... Do not let the bloodlust blind you. You will be tested in the coming weeks, both as a knight and a mortal. Do not disappoint. 
+		- Dozens of spears fall down from the sky, and when they land [[Ghorza]] jumps awake
+		- [[Chrom]] now has two etchings on the hilt. One is a stylized short-sword that has been stained bloody red. On the other side are the words in [[Orcish]]: "Honor. Justice. Finality"
+- [[Rory]]
+	- Falls asleep weightless. They don't feel water on their skin but feel like they're moving through water. Just ahead of them is a trickle of light in the dark water. They get pushed towards it. Pushing out of the water, there is still water... it's just different. From an abyss into a grotto.
+	- They see 5 figures in front of them, the [[Green Coven]]... Each figure also has a champion in front of them
+		- A very blue elf, a single glowing eye with octopus tentacles waving behind him in the shadows. Riverborn. 
+			- Human looking person but a giant gash on their neck that is weeping green, likely [[Daren the Greenblood]]
+		- [[Witch Queen]], a red haired hag. On the far end next to her 
+		- [[Agrius]], ice haired wolf
+			- A semi-ghostly visage of [[Flint the Beggar|Flint]] stands
+		- Floating cloak, human face and legs but no face
+			- Family of dark haired pale mountain folk, of [[House Blackmont]]... [[Cerissa Blackmont]]
+		- Dwarfing everything else in the space is the head of a dragon with emerald green eyes
+			- A partially ent-ified [[Con'Niall|Niall]] stands
+	- The [[Riverborn]] claps. "Color me impressed, shocked, ambivalent"
+		- You met my daughter, the one who dropped the sword at your feet ([[Lady of Teeth]])
+		- [[Rory]] remembers a bed time story their mother told them... Not of a child of [[Ealena]], but a folk lore tale of a captain of what was once the most beautiful ship on the sea. A captain so loved that he founded towns and had a crown as a king of the western shore of claw (Krab King?). Whoever this was the name has long since been forgotten. Only now remembered as the Captain of Pearl, the King of the Sea Shore... He earned the ire of [[Ealena]] and his entire fortune, crew, and towns were swept under the waves. He became the king under the waves. The first drowned.
+		- [[Rory]] looks around, seeing a ship completely submerged but undamaged, still in all its glory..
+	- Before you stands the green coven as well as five of our agents. [[Rory's Oathblade|Sentinel]] vanishes, reappearing in [[Flint the Beggar|Flint]]'s hand as an arming sword. In [[Cerissa Blackmont]]'s hands, it is a glaive. [[Con'Niall|Niall]] is carrying his own hammer, his body fused to part of his hammer
+	- Dialogue:
+		- "Your task to give its sword to its true owner was a lie. There is no owner, not beyond that who currently bears it."
+		- "Why wouldn't you just tell me that?" - [[Rory]]
+		- "To see if you were ready."
+		- "[[Rory]], you have proven worthy of [[Rory's Oathblade|Sentinel]] and of our faith in you."
+		- "Of course, not everyone has seen you as much as the others." - [[Riverborn]]
+		- "You of course also know my my chosen, don't you? The endless. The empty cloak. You have her hair. You still have many things to find out." - The cloaked person
+		- [[Agrius]] chuckles, "Do you remember what I instructed you to do if you need help in the city? ... Seek the fourth church of my father. You have been to the first. You fought in the second. The third is long gone... Which leaves the fourth. You'll find something useful if you seek it out"
+		- [[Greenbelt]] roars out, "[[Rory|Ser Aurora, the Fiery Mane]], if you have questions... Which we know you do. Stoop. But also seek. Do not be content in your lack of knowledge. You will find you have many in this city who will give you aid. When the time is right, seek the [[Greenbelt]] once again. Seek the [[Wild Wood]]."
+		- The [[Witch Queen]] speaks up, "You have proven yourself not only worthy of [[Rory's Oathblade|Sentinel]], but also worthy of the [[Green Coven]]. You have done well....... But we have a task for you. To the [[Suken Cathedreal]] you will go and slay their leader. What they seek is a lock... a binding... a binding of the [[False Queen]]. Their goal is to free her and release the bind. They need the key. Stop them. You do not need to give me the key. I have already given you the answer"
+		- "You want me to eat it?" - [[Rory]]
+		- [[Witch Queen]] smiles, "A piece of you will forever be bound to the lineage of this sword. That is different than what I believe you expect. As payment, I will give you one free piece of information: this deal does not curse others. You choose this, not anyone else. While I cannot answer your prayer, when the coven comes together we have more authority to speak..." *the coven starts to fade away* "... [[Rory]], do you accept this charge? Hunting down an arm of the [[Lady of Pain]] and severing the fingers that she wields to free herself? As an agent of the green coven, you bear the honors and the duty it entails." [[Rory|Ser Aurora, the Fiery Mane]]
+	- Wakes up screaming
+	- [[Rory's Oathblade|Sentinel]] is now a +2 sword
+	- Magicians Judge, dispel magic, once per short rest
+	- Counterspell once per short rest
+	- Learned the eldritch invocation relentless hex
+- [[Willa]]
+	- Going into a trance, the ever present flow of dreams and consciousness she usually feels is gone. An unknowable amount of time passes before she hears a knock on the door. She gets up, almost as if sleep walking and opens it.
+	- An extremely pale person, as if their blood was drained out of them, with inky black eyes pooling black tears. Scars ritually carved into arms and chest. She recognizes this as [[Droeph]], where she pushes herself inside.
+	- "Your people have done well. They did what they promised. One died, but what more can we say? For what it's worth I did like that young man and his secrets... But this visit isn't about that.... There is good news, bad news, and worse news. Why don't we start with the best? Good news: your actions in the [[Capital City]] have provided benefits to a number of my faithful. Too many now are seeking to refuse the call of death. Clerics are being called upon to destroy these soul-less puppets that are popping up. Bad news: the position of all of these factions has been growing weaker by the day. Rebellions are being discussed. This land is a lit powdered keg, we just need to figure out when it will go off. Worst news: a former pupil of mine who extended his own life is causing much destruction. He has become aware you are hunting him, not just hunting his kin. I would tell you to take caution... If you come across some unfortunate individuals who seek you and my people ill... Do. Your. Duty... Do not let hesitation be the reason your soul falls down the river."
+	- "Is there any way for me to prepare myself or my allies?"
+	- You have already sought magical concepts. You will continue to find them. Know that you have done much well. Let it be known, [[Willa|Lady Willa Meadowgrave]], not only have you already earned my favor, but if you follow the paths before you, you will climb ever higher. Your future is grim, as are most of my priests, but it is a grim I know you will accept. It is not evil. It is not hopeless. But one does not work in blood and death without understanding.
+	- [[Droeph]] picks up the bloodstone crown, spinning it on her finger "You know I knew the man who this was built for? I walked the world for one point after all. Technically, I did speak with him a few times. He was a decent enough king... slightly tyrannical... but you cannot judge a man. He picked his own daughter over theirs. Not honorable, but a worthy cause. What your group aims to stop is similarly worthy. You will question things, but the work that will be done is better than the alternative.
+	- Near the crown is a belt of small black dragon scales, a dragon we fought and [[Willa]] offered body parts to [[Rea'Thain]]
+		- +1 to spell attack and save DC while attuned. Counts in the same attunement as other bloodstone items. Also gives arcane recovery. 
+		- Can choose an occultist rite!
+- [[Novamere]]
+	- Goes to bed meditating about his day.... Wakes up to see a sailor looking man, long windswept hair, short cropped by well shaped beard, one eye the other covered by an ostentatious eye-patch, middle-aged man, missing one of his legs from the shin down... He opens a door and invites [[Valkur]]
+	- "You have come a long way since a lost puppy, a bird in the nest. Flew the coop with no goals other than to learn. You have a long road ahead. You will be land-locked for many years, but the sea will always be your home. I have set no goals for you, your journey is your own. You have tethered yourself to an order, to a group... Not without good intentions, but I find it curious. Your winds have guided you... Now we shall see what happens next. I fear your future is just as bloody as your past. When it's not right, know that you can seek why. When all is not right, do as your oath tells and act."
+	- "[[Novamere|Ser Novamere the Blue]], go. The champion. The storm-lord. Go. Be a champion of the seas and tides. Go. Go with honor, with duty, and most importantly... with action."
+	- +1 naval boarding axe, 1d8 damage with one hand, 1d10 with 2 hands, slashing or piercing, on hit is extra +1d6 lightning damage. On a critical hit the target and any creature within 5 feet of of the target take 5 lightning damage
+- [[Blume]]
+	- Falls asleep while studying... and falls... and falls....... and falls. A shark jerk stops him, wooden tree roots wrapped into his body
+	- He opens his eyes and is in the cave under the hill where he first let the roots in
+	- Speaker for the trees and the old ways... briar touched. The many voices are being silenced. The briar lady's influence grows. you and yours are tasked with ending this. The speakers have bound her. A tinge of green scales comes from a root
+	- There are rules. Your curse is one of the keys. She may be the origin of the briars, but she is not immune to them. Your group each has part of the keys to bind her. The third piece will come in time. For now, seek the [[Sunken Cathedreal]], the keys to the seals of cantarus, the heart of the black briar.
+	- [[Blume]] has awakened an eldritch invocation, grasp of hadar, repelling blast, applied to all cantrips
+- [[Cassia]]
+	- Stars a trance, words return unbidden. Learn. Grow. Consume. Potential. Reward. She opens her eyes to a small of barely and wheat, looking around and seeing thousands of acres upon acres of acres of wild wheat and grains. She sees people's shadows walking through this field almost aimlessly. On the crest of a small hill sitting on a throne with a small chair she sees the pale thin face of [[Rhydahn]]. My child, come sit. 

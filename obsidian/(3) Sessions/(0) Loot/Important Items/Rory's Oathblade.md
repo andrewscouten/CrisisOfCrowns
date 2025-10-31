@@ -5,6 +5,7 @@ aliases:
 ## About
 
 - From water it came
+- +2 longsword, d8
 
 ## Known Information
 

@@ -12,6 +12,7 @@ aliases:
   - Ser Aurora, the Fiery Mane
   - Aurora
   - Aurora Ni’Mallory
+  - Ser Aurora of the Fiery Mane, Heir to House Ni'Mallory, Agent and Knight of the Green Coven
 banner: "![[(0) Files/assets/banners/banner_rory.jpg]]"
 banner-x: 42
 banner-y: 69

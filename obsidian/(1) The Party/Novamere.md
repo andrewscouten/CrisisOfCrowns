@@ -1,5 +1,8 @@
 ---
 icon: LiCloudLightning
+aliases:
+  - Ser Novamere the Blue
+  - Ser Novamere Evendiel the Blue
 ---
 ---
 Player: Justin
@@ -8,7 +11,7 @@ Player: Justin
 > [!important] Ser Novamere Evendiel the Blue
 
 > [!infobox|center wfull]
-> # Novamere
+> # Ser Novamere the Blue
 > ###### Bio
 > |  |  |
 > | --- | --- |

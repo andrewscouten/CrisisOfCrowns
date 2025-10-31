@@ -1,7 +1,10 @@
 ---
 aliases:
   - Ship Eater
-icon: LiEye
+icon:
 ---
 
 > [!info] Water is her domain
+
+Evil
+Mother of monsters

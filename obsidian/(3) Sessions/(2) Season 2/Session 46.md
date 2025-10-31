@@ -60,7 +60,7 @@ delimiter
 - [[Zach]] goes to where he knows the shop keeper is, that he tasked with ruining the reputation of
 - [[Cassia]], [[Blume]], and [[Willa]] go to the temple district, where there are a dozen large temples with enumerable shrines. This whole area is a giant [[God's Woods]] surrounded by temples. There are also various spaces associated to old gods and old magic.
 	- There are 12 major temples
-		- [[The Three Siblings]]
+		- [[Three Siblings]]
 		- Celestial Duo
 		- Old Gods of Woods
 		- [[World Tree]]

@@ -1,1 +1,2 @@
 - Andrew was absent, [[Finnegean]] died
+- [[Willa]]'s first session

@@ -4,7 +4,7 @@
 	- Why? Is she on our side? It benefits her to kill us here...
 - Those conscious hear a horse thudding down the path. Finally, the battlefield calms. Her men pull away, they grab their dead and leave
 - [[Ghorza]] leaves an offering of looted trinkets from the battlefield and some blood
-	- [[Lydesh]], [[Vydahr]], [[Myrmidia]] - [[The Three Siblings]]
+	- [[Lydesh]], [[Vydahr]], [[Myrmidia]] - [[Three Siblings]]
 	- She works with [[Myrmidia]]
 - [[Ghorza]] sees a vision:
 	- Sitting on a stone bench in a gothic cathedral, sitting in front of her is a giant woman on a throne who is covered in bloody red armor

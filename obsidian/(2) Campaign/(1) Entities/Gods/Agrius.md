@@ -15,6 +15,7 @@ icon: LiEye
 - A member of the [[Green Coven]], the rose
 - Married to [[Edris]]
 - No non-divine children
+- Orc who's skin tone and appearance shifts to subtypes of other orcs. Has long shaggy hair with roses braided into it.
 
 ## Connections
 

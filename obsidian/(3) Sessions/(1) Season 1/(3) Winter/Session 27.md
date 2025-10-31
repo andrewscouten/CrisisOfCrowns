@@ -7,7 +7,7 @@
 - Dreams
 	- [[Blume]] sees a field of faces and eyes, staring at him. The eyes blend together with the trees, ground, and sky... Faces unknown scattered throughout the birds & trees. The skies clear above a shattered moon. The shattered pieces come together for a second, showing a face. The dream ends
 	- [[Rory]] in a hall, sitting on a throne. "Come all who have borne the blade before". Whips, corpses, people, filtered into vision. Suddenly people stop filtering in. A few emblems and banners can be recognized before they vanish into the ethereal crowd. The same voice from before: "There be one who is not standing, we shall wait"... Rory stands to find themselves in a crypt, beside each tomb stands a statue of differing peoples holding the same sword Rory has (at attention, sword tip into ground hands on pommel). 
-	- [[Willa]] in a cave, a statue alone with her. She offers blood
+	- [[Willa]] in a cave, a statue alone with her. She offers blood. 
 - We fight bandits and some surrender. A scribe named [[Chester]] who wears the symbol of a wizard-ing academy in the north called [[Luminaris Arcnarium]]. In a capital city. Higher rank the nicer your robes.. This guy is wearing really bad clothes. He's a war mage (evoker).
 	- 2 potions (lesser battle brew)
 	- 3 spell scrolls from the wizard

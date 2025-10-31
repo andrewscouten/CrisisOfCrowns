@@ -1,16 +1,19 @@
 ---
 banner: "![[(0) Files/assets/banners/banner_willa.jpg]]"
 icon: LiSkull
+aliases:
+  - Lady Willa Meadowgrave
+  - Willa Meadowgrave
 ---
 
 ---
 Player: Maddy (she/her)
 
 ---
-> [!important] Willa Meadows, Inquisitrix of the Lady of Whispers
+> [!important] Willa Meadowgrave, Inquisitrix of the Lady of Whispers
 
 > [!infobox|center wfull]
-> # Willa Meadows
+> # Willa Meadowgrave
 > ![[portrait_willa.jpg|portrait]]
 > ###### Bio
 > |  |  |
