@@ -1,7 +1,7 @@
 ---
 aliases:
   - Ship Eater
-icon:
+icon: LiEye
 ---
 
 > [!info] Water is her domain

@@ -1,3 +1,6 @@
+---
+icon: LiEye
+---
 ## About
 
 - This is HEAVILY implied to be [[Rea'Thain]]

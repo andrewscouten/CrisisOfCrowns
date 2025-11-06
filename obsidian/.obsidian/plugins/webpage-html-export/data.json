@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "",
+    "exportPath": "/Users/andrew/Desktop/D&D/CrisisOfCrowns/docs",
     "filesToExport": [],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -223,7 +223,7 @@
   "rssDateProperty": "date",
   "onlyExportModified": false,
   "deleteOldFiles": true,
-  "exportPreset": "website",
+  "exportPreset": "online",
   "openAfterExport": true,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
