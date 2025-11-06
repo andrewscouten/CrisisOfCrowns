@@ -1,4 +1,5 @@
 {
+  "defaultCodeButtonConfig": "",
   "invocableScriptsFolder": "",
   "mobileChangesCheckingIntervalInSeconds": 30,
   "modulesRoot": "(0) Files/src",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCrown",
       "LiEye",
       "LiAsterisk",
       "LiGuitar",
-      "LiApple",
-      "LiAlertCircle"
+      "LiApple"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -190,9 +190,10 @@
   "(1) The Party/Novamere.md": "LiCloudLightning",
   "(1) The Party/DEAD/Zach.md": "LiTelescope",
   "(2) Campaign/(2) Factions/Royal Houses/House Harwyn.md": "LiCrown",
-  "Prince Patrek Rock.md": "LiAsterisk",
-  "Honorable in Green Verden.md": "LiAsterisk",
-  "Morgause.md": "LiAsterisk",
-  "Riverborn.md": "LiEye",
-  "(2) Campaign/(1) Entities/Gods/Rea'Thain/Droeph.md": "LiEye"
+  "(2) Campaign/(1) Entities/Gods/Rea'Thain/Droeph.md": "LiEye",
+  "(2) Campaign/(5) People/Honorable in Green Verden.md": "LiAsterisk",
+  "(2) Campaign/(5) People/Morgause.md": "LiAsterisk",
+  "(2) Campaign/(5) People/Prince Patrek Rock.md": "LiAsterisk",
+  "(2) Campaign/(1) Entities/Riverborn.md": "LiEye",
+  "(2) Campaign/(2) Factions/Royal Houses/House Blackmont.md": "LiCrown"
 }
