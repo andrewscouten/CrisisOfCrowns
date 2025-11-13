@@ -10,7 +10,7 @@
 
 ---
 - Wrapping up of the finals...
-	- [[Dorin|Dorin]] got knighted
+	- [[Dorin]] got knighted
 	- [[Zach]] blackmails [[Dorin|Dorin]]
 
 ---
